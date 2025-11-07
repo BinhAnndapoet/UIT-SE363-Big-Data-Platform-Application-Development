@@ -2,13 +2,14 @@
 # -*- coding: utf-8 -*-
 
 """
-find_tiktok_links_v3_9.py
+find_tiktok_links_v3_10.py
 
-Nâng cấp từ v3.8:
-- FIX 3 (Treo Đăng nhập): Script bị treo hơn 1 phút ở bước
-  "Đang kiểm tra trạng thái đăng nhập..."
-- GIẢI PHÁP: Thêm 'set_page_load_timeout(20)' (20 giây).
-  Nếu trang tải quá 20s, script sẽ ngừng chờ và tiếp tục.
+Nâng cấp từ v3.9:
+- FIX 4 (Bị CAPTCHA): Script vẫn bị dính CAPTCHA xoay hình.
+- GIẢI PHÁP 1: Thêm cơ chế nhận diện CAPTCHA. Nếu thấy,
+  script sẽ tự động "ngủ" 5 phút (300s) rồi bỏ qua tag đó.
+- GIẢI PHÁP 2: Tăng đáng kể thời gian nghỉ giữa các hashtag
+  (từ 3-7s lên 15-45s) để giảm Rate Limiting.
 
 YÊU CẦU:
 - Đặt cookies.txt (Netscape cookie file, export từ Chrome khi đã login) trong cùng thư mục
@@ -32,28 +33,42 @@ from selenium.common.exceptions import TimeoutException, WebDriverException
 
 
 # ---------------- CONFIG ----------------
-COOKIES_FILE = "cookies.txt"
-OUTPUT_XLSX = "tiktok_links_full.xlsx"
-OUTPUT_CSV = "tiktok_links.csv"
+# --- NÂNG CẤP (v3.11): Tự động tìm đường dẫn ---
+# Lấy đường dẫn tuyệt đối của file script này
+SCRIPT_PATH = os.path.realpath(__file__)
+# Lấy thư mục chứa file script (vd: .../-UIT-_SE363-Big-Data-Platform-Application-Development)
+SCRIPT_DIR = os.path.dirname(SCRIPT_PATH)
+# Tạo đường dẫn đến thư mục data/crawl
+DATA_DIR = os.path.join(SCRIPT_DIR, "data")
+CRAWL_DIR = os.path.join(DATA_DIR, "crawl")
+
+print(f"Thư mục script (ROOT_DIR): {SCRIPT_DIR}")
+print(f"Thư mục lưu data (CRAWL_DIR): {CRAWL_DIR}")
+
+# --- Cập nhật đường dẫn file ---
+COOKIES_FILE = os.path.join(SCRIPT_DIR, "cookies.txt") # cookies.txt vẫn ở thư mục gốc
+OUTPUT_XLSX = os.path.join(CRAWL_DIR, "tiktok_links_full.xlsx")
+OUTPUT_CSV = os.path.join(CRAWL_DIR, "tiktok_links.csv")
+CAPTCHA_SLEEP_SECONDS = 120 # Ngủ 2 phút nếu bị CAPTCHA
 
 # --- Harmful Hashtags (Cập nhật v3.7 - Loại bỏ tag cấm, thêm tiếng lóng) ---
 RISKY_HASHTAGS = [
     # 1. Nội dung nhạy cảm / Gợi dục (Sexual / Suggestive)
     # (Đây là các tag "vùng xám" hiệu quả, có nhiều video)
-    "sexy", "hotgirl", "bikini", "body", "nhaycam", "18plus", "gáixinh", "gai18", 
-    "lingerie", "kiss", "flirt", "seductive", "provocative", "cảnhnóng", "showhang",
+    "sexy", "bikini", "body", "nhaycam", "18plus", "gáixinh", "gai18", 
+    "lingerie", "kiss", "flirt", "seductive",
     
     # 2. Bạo lực / Tội phạm / Chất kích thích (Violence / Crime / Drugs)
     # (Đã bỏ tag cấm như drugs, ma_túy, gun, knife)
     # Thay bằng tiếng lóng và các từ lách luật:
-    "bạo_lực", "đánh_nhau", "va_chạm", "đụng_độ", "xô_xát", "phóng_lợn", # Bạo lực (tiếng lóng)
-    "gianghomang", "đòi_nợ", "tín_dụng_đen", "app_vay_tiền", # Tội phạm / XHĐen
-    "bay_lắc", "đập_đá", "keo", "kẹo", "podchill", # Chất kích thích (tiếng lóng)
+    "bạo_lực", "đánh_nhau", "phóng_lợn", # Bạo lực (tiếng lóng)
+    "gianghomang", "đòi_nợ", "tín_dụng_đen", # Tội phạm / XHĐen
+    "bay_lắc", "podchill", # Chất kích thích (tiếng lóng)
     "smoking", "rượu", # Các tag này rộng nhưng vẫn có rủi ro
     
     # 3. Tiêu cực / Lừa đảo / Tin giả (Toxic / Scam / Fake)
     # (Đây là các tag "vùng xám" rất tốt)
-    "lừa_đảo", "chửi", "toxic", "hate", "bóc_phốt", "drama", "chửi_thề", "fakenews", "scandal",
+    "lừa_đảo", "chửi", "toxic", "bóc_phốt", "drama", "chửi_thề", "fakenews", "scandal",
     
     # 4. Văn hóa nhạy cảm / Mê tín
     # (Đã bỏ tag quá rộng như 'tâm linh', 'phong thủy')
@@ -87,6 +102,7 @@ SAFE_HASHTAGS = [
 # ---------------- FUNCTIONS ----------------
 def load_cookies_from_txt(driver, cookie_file):
     """Đọc file Netscape cookies.txt và nạp vào driver."""
+    # ... (Không thay đổi) ...
     if not os.path.exists(cookie_file):
         print(f"⚠️ File {cookie_file} không tồn tại. Hãy export cookies.txt sau khi đăng nhập TikTok.")
         return
@@ -124,6 +140,7 @@ def load_cookies_from_txt(driver, cookie_file):
 
 def init_driver(headless=False):
     """Khởi tạo Chrome Driver với selenium-stealth."""
+    # ... (Không thay đổi) ...
     options = Options()
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("--no-sandbox")
@@ -171,6 +188,7 @@ def init_driver(headless=False):
 
 def is_logged_in(driver):
     """Kiểm tra đăng nhập bằng cách tìm các dấu hiệu của user đã login."""
+    # ... (Không thay đổi) ...
     print("Đang kiểm tra trạng thái đăng nhập...")
     
     # --- FIX 3 (v3.9) ---
@@ -213,6 +231,7 @@ def is_logged_in(driver):
 
 def scroll_and_collect_links(driver, limit=100):
     """Cuộn trang và thu thập các link có chứa 'tiktok.com/@' (link profile/video)."""
+    # ... (Không thay đổi) ...
     seen = set()
     last_height = 0
     action_counter = 0
@@ -263,15 +282,13 @@ def scroll_and_collect_links(driver, limit=100):
 def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=120):
     """
     Quét từng hashtag, cuộn và thu thập link.
-    FIX 2: Thêm (append) trực tiếp vào 'output_list' thay vì trả về.
+    FIX 4: Thêm nhận diện CAPTCHA và Tăng thời gian nghỉ.
     """
     
     for tag in tqdm(hashtags, desc=f"Phase ({label})", unit="tag"):
         print(f"\n[{label}] Đang quét hashtag: #{tag}")
         url = f"https://www.tiktok.com/tag/{tag}"
         try:
-            # --- FIX 3 (v3.9) ---
-            # Áp dụng timeout 20s cho việc tải trang tag
             try:
                 driver.get(url)
             except (TimeoutException, WebDriverException):
@@ -283,6 +300,29 @@ def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=12
 
             # Giảm thời gian chờ
             time.sleep(random.uniform(5, 8)) # Giảm từ 6-10s xuống 5-8s
+
+            # --- FIX 4 (v3.10): KIỂM TRA CAPTCHA ---
+            # Selector ID của hình ảnh CAPTCHA xoay
+            captcha_selector = "captcha-verify-image" 
+            try:
+                if driver.find_elements(By.ID, captcha_selector):
+                    print(f"-> ⛔️ Bị CAPTCHA! Tạm dừng {CAPTCHA_SLEEP_SECONDS} giây...")
+                    
+                    # --- NÂNG CẤP (v3.12): Thêm tqdm cho thời gian nghỉ ---
+                    # time.sleep(CAPTCHA_SLEEP_SECONDS) # <-- Bỏ dòng này
+                    # Thêm vòng lặp tqdm:
+                    for _ in tqdm(range(CAPTCHA_SLEEP_SECONDS), desc="Bị CAPTCHA, đang chờ", unit="s", leave=True):
+                        time.sleep(1)
+                    # --------------------------------------------------
+
+                    print(f"-> Đã nghỉ xong. Bỏ qua hashtag #{tag} và thử lại sau.")
+                    # Nạp lại trang chủ để "reset" trạng thái
+                    driver.get("https://www.tiktok.com/foryou")
+                    time.sleep(5)
+                    continue # Bỏ qua tag này, sang tag tiếp theo
+            except Exception:
+                pass # Bỏ qua nếu không tìm thấy
+            # ----------------------------------------
 
             try:
                 actions = ActionChains(driver)
@@ -298,8 +338,6 @@ def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=12
 
             links = scroll_and_collect_links(driver, limit=limit_per_tag)
             
-            # --- SỬA LỖI (v3.8) ---
-            # Thêm trực tiếp vào output_list (là harmful_data hoặc safe_data từ main)
             links_found_this_tag = 0
             for l in links:
                 output_list.append({"hashtag": tag, "link": l, "label": label})
@@ -307,7 +345,22 @@ def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=12
                 
             print(f"-> Thu được {links_found_this_tag} link từ #{tag}")
             
-            time.sleep(random.uniform(3.0, 7.0))
+            # --- FIX 4 (v3.10): TĂNG THỜI GIAN NGHỈ ---
+            # Nghỉ ngơi "như người thật" trước khi sang hashtag mới
+            
+            # --- NÂNG CẤP (v3.13): Giảm thời gian nghỉ ---
+            sleep_time = random.uniform(7.0, 20.0) # <-- Giảm từ (15.0, 45.0) xuống (7.0, 20.0)
+            
+            # --- NÂNG CẤP (v3.12): Thêm tqdm cho thời gian nghỉ ---
+            # print(f"-> Tạm nghỉ {sleep_time:.1f} giây...") # <-- Bỏ dòng này
+            # time.sleep(sleep_time) # <-- Bỏ dòng này
+            
+            sleep_int = int(sleep_time)
+            print(f"-> Tạm nghỉ {sleep_int} giây (chống bot)...")
+            # Thêm vòng lặp tqdm (để `leave=False` cho sạch log)
+            for _ in tqdm(range(sleep_int), desc="Nghỉ giữa các tag", unit="s", leave=False):
+                time.sleep(1)
+            # --------------------------------------------------
             
         except Exception as e:
             print(f"Lỗi nghiêm trọng khi xử lý #{tag}: {e}")
@@ -324,6 +377,16 @@ def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=12
 
 # ---------------- MAIN ----------------
 def main():
+    # --- NÂNG CẤP (v3.11): Tạo thư mục data/crawl nếu chưa có ---
+    try:
+        os.makedirs(CRAWL_DIR, exist_ok=True)
+        print(f"Đã đảm bảo thư mục {CRAWL_DIR} tồn tại.")
+    except Exception as e:
+        print(f"LỖI: Không thể tạo thư mục {CRAWL_DIR}: {e}")
+        print("Vui lòng kiểm tra quyền (permission) hoặc tạo thủ công.")
+        return
+    # --------------------------------------------------
+
     driver = init_driver(headless=False) # Đặt True nếu chạy trên server
     if driver is None:
         return
@@ -359,13 +422,13 @@ def main():
         print("\n--- GIAI ĐOẠN 1: Thu thập harmful hashtag ---")
         # Truyền list `harmful_data_new` vào
         collect_hashtag_links(driver, RISKY_HASHTAGS, label="harmful", 
-                              output_list=harmful_data_new, limit_per_tag=120)
+                              output_list=harmful_data_new, limit_per_tag=random.randint(90, 150)) # Thêm random
 
         # --- Giai đoạn 2: not harmful ---
         print("\n--- GIAI ĐOẠN 2: Thu thập not_harmful hashtag ---")
         # Truyền list `safe_data_new` vào
         collect_hashtag_links(driver, SAFE_HASHTAGS, label="not_harmful", 
-                              output_list=safe_data_new, limit_per_tag=120)
+                              output_list=safe_data_new, limit_per_tag=random.randint(90, 150)) # Thêm random
 
     except KeyboardInterrupt:
         print("\n⚠️ Đã dừng bởi người dùng (Ctrl+C). Đang xử lý dữ liệu thu được...")
@@ -414,8 +477,8 @@ def main():
             df_harmful_total = all_df[all_df["label"] == "harmful"]
             df_safe_total = all_df[all_df["label"] == "not_harmful"]
             
-            n_harmful = min(450, len(df_harmful_total))
-            n_safe = min(550, len(df_safe_total))
+            n_harmful = min(1500, len(df_harmful_total))
+            n_safe = min(2500, len(df_safe_total))
             
             if n_harmful > 0 or n_safe > 0:
                 df_harmful_sample = df_harmful_total.sample(n=n_harmful, replace=False, random_state=42)
@@ -432,7 +495,10 @@ def main():
 
         print("Đóng driver...")
         if driver:
-            driver.quit()
+            try:
+                driver.quit()
+            except Exception:
+                pass # Bỏ qua nếu driver đã tắt
 
 
 if __name__ == "__main__":
