@@ -1,0 +1,18 @@
+# Core automation / browser
+selenium>=4.15.0
+webdriver-manager>=4.0.0
+selenium-stealth>=1.0.6
+
+# Download / HTTP / data
+yt-dlp
+requests>=2.28.0
+urllib3>=1.26.0
+
+# Data processing / output
+pandas>=2.0.0
+XlsxWriter>=3.0.0
+
+# Notebook
+jupyter
+tqdm
+
