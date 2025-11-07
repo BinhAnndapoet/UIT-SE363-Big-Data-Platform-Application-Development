@@ -252,17 +252,13 @@ def is_logged_in(driver):
 
 
 def scroll_and_collect_links(driver, limit=100):
-    """Cuộn trang và thu thập các link có chứa 'tiktok.com/@' (link profile/video)."""
     seen = set()
     last_height = 0
     action_counter = 0
     no_new_content_strikes = 0
     
     for _ in range(30):
-        # --- NÂNG CẤP (v3.16): Kiểm tra CAPTCHA mỗi khi cuộn ---
         check_for_captcha(driver)
-        # ----------------------------------------------------
-
         driver.execute_script("window.scrollBy(0, 1500);")
         time.sleep(random.uniform(2.0, 3.5))
 
@@ -270,20 +266,19 @@ def scroll_and_collect_links(driver, limit=100):
         if action_counter % 3 == 0: 
             try:
                 actions = ActionChains(driver)
-                actions.move_by_offset(random.randint(-100, 100), random.randint(-80, 80)).perform()
-                time.sleep(random.uniform(0.5, 1.3))
+                actions.move_by_offset(random.randint(-100,100), random.randint(-80,80)).perform()
+                time.sleep(random.uniform(0.5,1.3))
             except Exception:
                 pass
 
-        links_this_scroll = 0
         try:
             links = [a.get_attribute("href") for a in driver.find_elements(By.TAG_NAME, "a")]
             for l in links:
-                if l and "tiktok.com/@" in l and l not in seen:
+                # Chỉ thu thập link video
+                if l and "/video/" in l and l not in seen:
                     seen.add(l)
-                    links_this_scroll += 1
         except Exception:
-            pass 
+            pass
 
         new_height = driver.execute_script("return document.body.scrollHeight")
         if abs(new_height - last_height) < 100: 
@@ -292,14 +287,11 @@ def scroll_and_collect_links(driver, limit=100):
             no_new_content_strikes = 0
             
         last_height = new_height
-        
-        if no_new_content_strikes >= 3:
-            print("-> Không có nội dung mới, dừng cuộn.")
-            break
-        if len(seen) >= limit:
+        if no_new_content_strikes >= 3 or len(seen) >= limit:
             break
             
     return list(seen)
+
 
 
 def collect_hashtag_links(driver, hashtags, label, output_list, limit_per_tag=120):
