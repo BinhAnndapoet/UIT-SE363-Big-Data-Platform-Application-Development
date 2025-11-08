@@ -1,0 +1,374 @@
+{
+  "url": "https://www.tiktok.com/@hieuphamdinhlinh/video/7132861745508519194",
+  "crawled_at": "2025-11-08T04:47:40.148031Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "Đồ chơi công nghệ nội địa Trung #viral #tienich #xuhuong",
+    "author_url": "https://www.tiktok.com/@hieuphamdinhlinh",
+    "author_name": "Hieu Pham",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@hieuphamdinhlinh/video/7132861745508519194\" data-video-id=\"7132861745508519194\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@hieuphamdinhlinh\" href=\"https://www.tiktok.com/@hieuphamdinhlinh?refer=embed\">@hieuphamdinhlinh</a> <p>Đồ chơi công nghệ nội địa Trung <a title=\"viral\" target=\"_blank\" href=\"https://www.tiktok.com/tag/viral?refer=embed\">#viral</a> <a title=\"tienich\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tienich?refer=embed\">#tienich</a> <a title=\"xuhuong\" target=\"_blank\" href=\"https://www.tiktok.com/tag/xuhuong?refer=embed\">#xuhuong</a></p> <a target=\"_blank\" title=\"♬ nhạc nền - TrangPizza -\" href=\"https://www.tiktok.com/music/nhạc-nền-TrangPizza-7048886771312085761?refer=embed\">♬ nhạc nền - TrangPizza - </a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-aiso/3e21e9acd4b14b199341b02429fa88bd_1660748799~tplv-tiktokx-dmt-logom:tos-useast2a-pv-0037-aiso/aebcbeccbada4122ba15e82f77aef9f5.image?dr=14573&x-expires=1762747200&x-signature=MxyrHaeFBr%2FK0o5%2BxENrO2Z%2Fdzc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "hieuphamdinhlinh",
+    "embed_product_id": "7132861745508519194",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7132861745508519194",
+    "formats": [
+      {
+        "format_id": "audio",
+        "url": "https://v77.tiktokcdn.com/779b55ff004599f6bc2a27134891d146/69101cf7/video/tos/alisg/tos-alisg-v-27dcd7/5b7801781a3a40f68dce4a854b283b3b/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=252&bt=126&ds=5&ft=.NpOcInz7ThnPTEPXq8Zmo&mime_type=video_mp4&qs=13&rc=anY6cDw6ZmdkOjMzODU8NEBpanY6cDw6ZmdkOjMzODU8NEAuZWQxcjQwbjZgLS1kMS1zYSMuZWQxcjQwbjZgLS1kMS1zcw%3D%3D&vvpl=1&l=20251108124742B7D2F189C3340F103B3D&btag=e00070000&cc=13",
+        "ext": "mp4",
+        "acodec": "mp4",
+        "vcodec": "none",
+        "protocol": "https",
+        "audio_ext": "mp4",
+        "video_ext": "none",
+        "vbr": 0,
+        "resolution": "audio only",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@hieuphamdinhlinh/video/7132861745508519194"
+        },
+        "format": "audio - audio only"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@hieuphamdinhlinh/video/7132861745508519194"
+    },
+    "channel": "Hieu Pham",
+    "channel_id": "MS4wLjABAAAAOA8rvPfHERUGuLeh2H1FMo9NsDBmlTxiyS6u00JLgynNOgF64gUFA006EtH9UbYN",
+    "uploader": "hieuphamdinhlinh",
+    "uploader_id": "6625154741029240833",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAOA8rvPfHERUGuLeh2H1FMo9NsDBmlTxiyS6u00JLgynNOgF64gUFA006EtH9UbYN",
+    "uploader_url": "https://www.tiktok.com/@hieuphamdinhlinh",
+    "track": "nhạc nền - TrangPizza",
+    "duration": 8,
+    "title": "Đồ chơi công nghệ nội địa Trung #viral #tienich #xuhuong",
+    "description": "Đồ chơi công nghệ nội địa Trung #viral #tienich #xuhuong",
+    "timestamp": 1660748797,
+    "view_count": 31400,
+    "like_count": 405,
+    "repost_count": 136,
+    "comment_count": 21,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-aiso/2e69615e145948fdb9193d0c285a2edc_1660748799~tplv-tiktokx-origin.image?dr=14575&x-expires=1762747200&x-signature=0YC4wzQhbrNpxuIyLsa44t%2FQ9Ac%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-aiso/3e21e9acd4b14b199341b02429fa88bd_1660748799~tplv-tiktokx-dmt-logom:tos-useast2a-pv-0037-aiso/aebcbeccbada4122ba15e82f77aef9f5.image?dr=14573&x-expires=1762747200&x-signature=MxyrHaeFBr%2FK0o5%2BxENrO2Z%2Fdzc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-aiso/a628c66d1da746a494253b7f9480d6dd_1660748799~tplv-tiktokx-origin.image?dr=14575&x-expires=1762747200&x-signature=X5c%2FeIac4sZmagxru9w%2Fjp43f9k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@hieuphamdinhlinh/video/7132861745508519194",
+    "webpage_url_basename": "7132861745508519194",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-aiso/a628c66d1da746a494253b7f9480d6dd_1660748799~tplv-tiktokx-origin.image?dr=14575&x-expires=1762747200&x-signature=X5c%2FeIac4sZmagxru9w%2Fjp43f9k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "display_id": "7132861745508519194",
+    "fulltitle": "Đồ chơi công nghệ nội địa Trung #viral #tienich #xuhuong",
+    "duration_string": "8",
+    "upload_date": "20220817",
+    "epoch": 1762577262,
+    "format_id": "audio",
+    "url": "https://v77.tiktokcdn.com/779b55ff004599f6bc2a27134891d146/69101cf7/video/tos/alisg/tos-alisg-v-27dcd7/5b7801781a3a40f68dce4a854b283b3b/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=252&bt=126&ds=5&ft=.NpOcInz7ThnPTEPXq8Zmo&mime_type=video_mp4&qs=13&rc=anY6cDw6ZmdkOjMzODU8NEBpanY6cDw6ZmdkOjMzODU8NEAuZWQxcjQwbjZgLS1kMS1zYSMuZWQxcjQwbjZgLS1kMS1zcw%3D%3D&vvpl=1&l=20251108124742B7D2F189C3340F103B3D&btag=e00070000&cc=13",
+    "ext": "mp4",
+    "acodec": "mp4",
+    "vcodec": "none",
+    "protocol": "https",
+    "audio_ext": "mp4",
+    "video_ext": "none",
+    "vbr": 0,
+    "resolution": "audio only",
+    "format": "audio - audio only",
+    "_type": "video",
+    "_version": {
+      "version": "2025.10.22",
+      "release_git_head": "c9356f308dd3c5f9f494cb40ed14c5df017b4fe0",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7348482502346130183",
+      "text": "Xịn 😂 nếu bạn muốn hợp tác thêm các mã đồ công nghệ thì liên hệ mình nhé",
+      "author": "Relax Store 086",
+      "create_time": 1710951917,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7132861745508519194",
+          "cid": "7385909494486729478",
+          "collect_stat": 0,
+          "comment_language": "id",
+          "comment_post_item_ids": null,
+          "create_time": 1719666144,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7348482502346130183",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "ib",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "musically-maliva-obj/1594805258216454",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a6910df&x-expires=1762660800&x-signature=%2FA5Z07HdrqmrGZ6K8pentxwGxds%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=55aaa01f&x-expires=1762660800&x-signature=NqaWeSh40XN3V7whP3lwov%2FtHcU%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "love",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAApgL_zQPmQmoCYZ9hM6I_CWLAS6np7bCIkHJnURODYtlclEb62R-lBKCs22T5ZlNj",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7382550808917967878",
+            "unique_id": "love75934",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7287264528462742274",
+      "text": "Xịn mịn",
+      "author": "Nobaby",
+      "create_time": 1696698512,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7537248227758850823",
+      "text": "okee quá",
+      "author": "Tạp hoá công nghệ",
+      "create_time": 1754902363,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7392547354429850369",
+      "text": "xin giá",
+      "author": "Tung Real232",
+      "create_time": 1721211579,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7425113007850750727",
+      "text": "Mê quá",
+      "author": "Review Công Nghệ4",
+      "create_time": 1728793850,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7423334786339996423",
+      "text": "Giá sao ạ",
+      "author": "huytran.art",
+      "create_time": 1728379823,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7350103967193645825",
+      "text": "Hay nha",
+      "author": "Bình Lào Cai Review Thật Tâm",
+      "create_time": 1711329458,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7353170889712730881",
+      "text": "hay",
+      "author": "Wuok Kuog",
+      "create_time": 1712043532,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7353956782378730258",
+      "text": "Đỉnh nha",
+      "author": "Xinchao349",
+      "create_time": 1712226499,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7515207921329390354",
+      "text": "Nhạc này là gì vậy? 🎶",
+      "author": "Sao Mai Chau",
+      "create_time": 1749770712,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7384335240892990215",
+      "text": "Đèn ngủ hả",
+      "author": "Shop Mẹ&Bé- Đức Thế",
+      "create_time": 1719299536,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7385527681587282689",
+      "text": "🥰🥰",
+      "author": "Timi Figure Can Tho",
+      "create_time": 1719577180,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7213977876567589659",
+      "text": "😂😂",
+      "author": "Luỹ Pkcn",
+      "create_time": 1679635137,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534885218781315858",
+      "text": "Có ai từng dùng cái hộp phụ kiện này chưa?\nMình thấy giá cũng rẻ mà nhìn cũng chắc chắn phết á\nLink đây mình dùng: https://s.shopee.vn/6AaZNSSIzo\nAi dùng rồi chia sẻ với mình nha!”",
+      "author": "Quốc Nam quốc",
+      "create_time": 1754352198,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7213257606452904731",
+      "text": "Ọ",
+      "author": "HTL Công Nghệ",
+      "create_time": 1679467428,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7268596649861366529",
+      "text": "🆘🆘Vận chuyển Trung Việt giá chỉ 7k/1kg 1tr7/m3\nnguyên cont chỉ 180m3 chỉ 165tr 220m3 giá 185tr liên hệ zalo/sđt:0869.467.732 để e hỗ trợ ạ🤗",
+      "author": "@Thế Lại",
+      "create_time": 1692352061,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7386881700141515527",
+      "text": "ƯU ĐÃI SÂU - GIẢM đến 35% CHÀO SÂN SIÊU PHẨM\nXE ĐẨY PHỤC VỤ LUXURY ĐA NĂNG",
+      "author": "Phuchoa",
+      "create_time": 1719892428,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7358268236565693192",
+      "text": "Ảo ma quá 😳",
+      "author": "H U Y - Phụ Kiện 🔥",
+      "create_time": 1713230344,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7348083214521303826",
+      "text": "ảo ghê",
+      "author": "Ổ Vô Tri",
+      "create_time": 1710858953,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7251262245555094278",
+      "text": "ảo vậy",
+      "author": "Tiệm của A-Tũn",
+      "create_time": 1688316066,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

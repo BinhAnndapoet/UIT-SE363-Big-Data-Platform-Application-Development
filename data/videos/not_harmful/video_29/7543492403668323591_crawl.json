@@ -1,0 +1,2593 @@
+{
+  "url": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591",
+  "crawled_at": "2025-11-07T15:00:23.184147Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+    "author_url": "https://www.tiktok.com/@nguyenmanhduc99",
+    "author_name": "Nguyễn Mạnh Đức (Pickleball)🏏",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591\" data-video-id=\"7543492403668323591\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@nguyenmanhduc99\" href=\"https://www.tiktok.com/@nguyenmanhduc99?refer=embed\">@nguyenmanhduc99</a> <p>Nặng lắm nha kkk <a title=\"pickleball\" target=\"_blank\" href=\"https://www.tiktok.com/tag/pickleball?refer=embed\">#pickleball</a> <a title=\"thểthao\" target=\"_blank\" href=\"https://www.tiktok.com/tag/th%E1%BB%83thao?refer=embed\">#thểthao</a> <a title=\"xuhuong\" target=\"_blank\" href=\"https://www.tiktok.com/tag/xuhuong?refer=embed\">#xuhuong</a> </p> <a target=\"_blank\" title=\"♬ nhạc nền - Như Ýii - Như Ýii\" href=\"https://www.tiktok.com/music/nhạc-nền-Như-Ýii-7534396478874274561?refer=embed\">♬ nhạc nền - Như Ýii - Như Ýii</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osDLkICBgHj46yzHIetvfg7rRMbv7GemXMIAAD~tplv-tiktokx-origin.image?dr=14575&x-expires=1762700400&x-signature=H1NEMigTohnskz%2BxU1VFGd1LIAo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "nguyenmanhduc99",
+    "embed_product_id": "7543492403668323591",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7543492403668323591",
+    "formats": [
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "download",
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4fD39DcrBBF6t5IQEwF2CA6Q35gmozeDERvEu/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2218&bt=1109&cs=0&ds=3&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=0&rc=O2g6ODZlZmg4Z2U7M2g6PEBpampleXU5cmp3NTMzODczNEBiMWNhNF8xXmIxMC0vYS0uYSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=83ebd96fb1a7692b81f5f0347e1df91a&tk=tt_chain_token",
+        "format_note": "watermarked",
+        "preference": -2,
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "dynamic_range": "SDR",
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "download - unknown (watermarked)"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_988934-0",
+        "tbr": 988,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 1907901,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oMz9B1fDcQ2RRgoE33Cyerh9vBmAdE5oFgDDIg/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1930&bt=965&cs=0&ds=6&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=0&rc=aWdlNzM5MzM1M2QzaTlkNEBpampleXU5cmp3NTMzODczNEBeL18tMjMzNV8xLmAyNjZhYSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=8bc94a3818fa768c8a3e134ae1eca9b8&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "h264_540p_988934-0 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_988934-1",
+        "tbr": 988,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 1907901,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oMz9B1fDcQ2RRgoE33Cyerh9vBmAdE5oFgDDIg/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1930&bt=965&cs=0&ds=6&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=0&rc=aWdlNzM5MzM1M2QzaTlkNEBpampleXU5cmp3NTMzODczNEBeL18tMjMzNV8xLmAyNjZhYSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=8bc94a3818fa768c8a3e134ae1eca9b8&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "h264_540p_988934-1 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_406914-0",
+        "tbr": 406,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 785040,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oA8DFB139E2phC5vQXesEfyDc3rKoIA9qBgRgs/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=794&bt=397&cs=2&ds=6&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=11&rc=OGc2ZjRmNjg3Z2c1NjhoOkBpampleXU5cmp3NTMzODczNEAuMzYxYTViNmAxNjY1Xi40YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=57e7d0c8eac5fa406cbe5127c9cfd3c8&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_540p_406914-0 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_406914-1",
+        "tbr": 406,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 785040,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oA8DFB139E2phC5vQXesEfyDc3rKoIA9qBgRgs/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=794&bt=397&cs=2&ds=6&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=11&rc=OGc2ZjRmNjg3Z2c1NjhoOkBpampleXU5cmp3NTMzODczNEAuMzYxYTViNmAxNjY1Xi40YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=57e7d0c8eac5fa406cbe5127c9cfd3c8&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_540p_406914-1 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_456030-0",
+        "tbr": 456,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 879796,
+        "width": 720,
+        "height": 1280,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4yxE5cRLES93SDwBbgFQrtCIf36oDEBeN52vA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=890&bt=445&cs=2&ds=3&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=14&rc=aGRpOjYzODozZDM8OjppaUBpampleXU5cmp3NTMzODczNEAwMjY2L2ItXi8xNTEwMV82YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=16bfa8de7e5f34e9d415ee318586d22d&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "720x1280",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_720p_456030-0 - 720x1280"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_456030-1",
+        "tbr": 456,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 879796,
+        "width": 720,
+        "height": 1280,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4yxE5cRLES93SDwBbgFQrtCIf36oDEBeN52vA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=890&bt=445&cs=2&ds=3&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=14&rc=aGRpOjYzODozZDM8OjppaUBpampleXU5cmp3NTMzODczNEAwMjY2L2ItXi8xNTEwMV82YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=16bfa8de7e5f34e9d415ee318586d22d&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "720x1280",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_720p_456030-1 - 720x1280"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_1080p_1015434-0",
+        "tbr": 1015,
+        "quality": 3,
+        "preference": -1,
+        "filesize": 1956869,
+        "width": 1080,
+        "height": 1920,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0cBr79Ae91DW32OgDuR0Df5EhBFv3EogQyIg8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1982&bt=991&cs=2&ds=4&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=15&rc=ZTlkOzo6ZDNlZ2dnNDUzZEBpampleXU5cmp3NTMzODczNEBgNC5eX2FhNTQxNDNjYmE2YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=7cc41ad9cc69e926a6ef991cde5cce99&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "1080x1920",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_1080p_1015434-0 - 1080x1920"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_1080p_1015434-1",
+        "tbr": 1015,
+        "quality": 3,
+        "preference": -1,
+        "filesize": 1956869,
+        "width": 1080,
+        "height": 1920,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0cBr79Ae91DW32OgDuR0Df5EhBFv3EogQyIg8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1982&bt=991&cs=2&ds=4&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=15&rc=ZTlkOzo6ZDNlZ2dnNDUzZEBpampleXU5cmp3NTMzODczNEBgNC5eX2FhNTQxNDNjYmE2YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=7cc41ad9cc69e926a6ef991cde5cce99&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "1080x1920",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+        },
+        "format": "bytevc1_1080p_1015434-1 - 1080x1920"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591"
+    },
+    "channel": "Nguyễn Mạnh Đức (Pickleball)🏏",
+    "channel_id": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+    "uploader": "nguyenmanhduc99",
+    "uploader_id": "7309867660035343378",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+    "uploader_url": "https://www.tiktok.com/@nguyenmanhduc99",
+    "track": "nhạc nền - Như Ýii",
+    "artists": [
+      "Như Ýii"
+    ],
+    "duration": 15,
+    "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+    "description": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+    "timestamp": 1756356196,
+    "view_count": 177000,
+    "like_count": 1014,
+    "repost_count": 56,
+    "comment_count": 49,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oAfo5wRqE0Dr6vXEY3F5DI5mB5ieIgB29QBc3A~tplv-tiktokx-origin.image?dr=14575&x-expires=1762700400&x-signature=GeMK8ANUx8LB1btX4yRdm0eeG48%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osDLkICBgHj46yzHIetvfg7rRMbv7GemXMIAAD~tplv-tiktokx-origin.image?dr=14575&x-expires=1762700400&x-signature=H1NEMigTohnskz%2BxU1VFGd1LIAo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4ABBmQvb3oIfBKK2CD9wIDIcr3RE5Fg4Z6E5e~tplv-tiktokx-origin.image?dr=14575&x-expires=1762700400&x-signature=UWtK0oy5S7Tm%2BMvaAiZlJeM85vo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@nguyenmanhduc99/video/7543492403668323591",
+    "webpage_url_basename": "7543492403668323591",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4ABBmQvb3oIfBKK2CD9wIDIcr3RE5Fg4Z6E5e~tplv-tiktokx-origin.image?dr=14575&x-expires=1762700400&x-signature=UWtK0oy5S7Tm%2BMvaAiZlJeM85vo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "display_id": "7543492403668323591",
+    "fulltitle": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+    "duration_string": "15",
+    "upload_date": "20250828",
+    "artist": "Như Ýii",
+    "epoch": 1762527625,
+    "ext": "mp4",
+    "vcodec": "h265",
+    "acodec": "aac",
+    "format_id": "bytevc1_1080p_1015434-1",
+    "tbr": 1015,
+    "quality": 3,
+    "preference": -1,
+    "filesize": 1956869,
+    "width": 1080,
+    "height": 1920,
+    "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o0cBr79Ae91DW32OgDuR0Df5EhBFv3EogQyIg8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1982&bt=991&cs=2&ds=4&ft=4fUEKM3a8Zmo0daAzx4jVGH7ypWrKsd.&mime_type=video_mp4&qs=15&rc=ZTlkOzo6ZDNlZ2dnNDUzZEBpampleXU5cmp3NTMzODczNEBgNC5eX2FhNTQxNDNjYmE2YSNwLWthMmRzcGthLS1kMWBzcw%3D%3D&btag=e000b8000&expire=1762700440&l=20251107230024CAA588C865EE68CDC47C&ply_type=2&policy=2&signature=7cc41ad9cc69e926a6ef991cde5cce99&tk=tt_chain_token",
+    "protocol": "https",
+    "video_ext": "mp4",
+    "audio_ext": "none",
+    "resolution": "1080x1920",
+    "dynamic_range": "SDR",
+    "aspect_ratio": 0.56,
+    "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778079624; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"dfLr3nmD6p0oHACVUoM9HBABQa6NAZuFi5I2eMfqButD1C-9TgTpxGJs65jTWkcB9mEsUCSdbwxcextLDCANHnAlwvL-7wYY4qVP1f07V0yR_T60N-4pswKCNltn0ZYEZhaVEV1Z7FaprOU=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763391624",
+    "format": "bytevc1_1080p_1015434-1 - 1080x1920",
+    "_type": "video",
+    "_version": {
+      "version": "2025.10.22",
+      "release_git_head": "c9356f308dd3c5f9f494cb40ed14c5df017b4fe0",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7544396692612383496",
+      "text": "Mấy ông hay chặt vậy đa số đánh lâu năm kg lên trình đc mãi mãi newbie",
+      "author": "Steve Phan",
+      "create_time": 1756566745,
+      "like_count": 6,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544410647502766865",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756569995,
+          "digg_count": 0,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544396692612383496",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Ok bác :)",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544746924184929044",
+      "text": "Đánh vs gà đc thôi bác. Gặp ai đánh roll volley khác gì buff top spin cho ngta 😳",
+      "author": "Tán em đổ chị",
+      "create_time": 1756648288,
+      "like_count": 2,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544937907296338708",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1756692760,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544746924184929044",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🤣🤣🤣",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7548401992856584967",
+      "text": "Xin tên cái vợt hồng xanh em ơi.",
+      "author": "Loan Quách",
+      "create_time": 1757499305,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7548459961363481351",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1757512800,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": true,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7548401992856584967",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Dạ AMK 5.0 hiper control ạ c muốn lấy lúa tốt nhắn e nhé",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7545508399673262866",
+      "text": "Chưa thấy tên thầy trên giải",
+      "author": "Mít Tơ Bin",
+      "create_time": 1756825583,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7545558477395182357",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756837250,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7545508399673262866",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Lười bác",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7545298622331405074",
+      "text": "Quả này thì trả lại thế nào cho ko rúc lưới nhỉ",
+      "author": "Legolas38",
+      "create_time": 1756776744,
+      "like_count": 1,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7545889846390096658",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756914397,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": true,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7545298622331405074",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Hoàng Quân Áo Xịn’s comment: Nhìn kĩ góc đánh của họ là vuốt mặt trên , bóng sang lưới xoáy . khi đưa vợt ra e phải kê đúng góc đó .",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7371767923382371336&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7545889846390096658&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Nhìn kĩ góc đánh của họ là vuốt mặt trên , bóng sang lưới xoáy . khi đưa vợt ra e phải kê đúng góc đó .",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/6883bbedd42bc168d3a044e2dee92335",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6883bbedd42bc168d3a044e2dee92335~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=8ba64414&x-expires=1762614000&x-signature=uSFr9TgO5f4WHD8CXaiCO56OpZk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6883bbedd42bc168d3a044e2dee92335~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=d3724c38&x-expires=1762614000&x-signature=9XH6tI%2BxhZl3S7AUYSkvyszpt%2Fc%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/6883bbedd42bc168d3a044e2dee92335~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=666a4e28&x-expires=1762614000&x-signature=aNh2u0hPDKE%2BGkF0R1YrpIoorXQ%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Hoàng Quân Áo Xịn",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAMX5TVsCvL3kcq7S61ZYJyh_I1sDdSJ4sqOiu_byptziyiRVkYiqvFitT92427ARh",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7371767923382371336",
+            "unique_id": "hoangdohieu.aut",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7545355016329003796",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756789872,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": true,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7545298622331405074",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: Tăng tốc độ flick của tay nâng lên hặc nghiêng vợt kéo chéo lưới ạ",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7545355016329003796&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Tăng tốc độ flick của tay nâng lên hặc nghiêng vợt kéo chéo lưới ạ",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fac56a3b&x-expires=1762614000&x-signature=6BQHMwzzV25UCCgvoYs18PfZ9w0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7543833831293534983",
+      "text": "cuối cùng tui cũng thấy người chơi giống tui...",
+      "author": "vinhlquc",
+      "create_time": 1756435694,
+      "like_count": 2,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7543834143713870613",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756435768,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543833831293534983",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: Thế là phải fl rồi 😁😁",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7543834143713870613&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Thế là phải fl rồi 😁😁",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fac56a3b&x-expires=1762614000&x-signature=6BQHMwzzV25UCCgvoYs18PfZ9w0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7543834588439872264",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756435870,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543833831293534983",
+          "reply_to_nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+          "reply_to_reply_id": "7543834143713870613",
+          "reply_to_userid": "7309867660035343378",
+          "reply_to_username": "nguyenmanhduc99",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "vinhlquc’s comment: nhiều người get tui chơi như vậy",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7518662972534490132&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7543834588439872264&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "nhiều người get tui chơi như vậy",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/4e47cc88d74bf928e128ac90b756f91e",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e47cc88d74bf928e128ac90b756f91e~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=2a4844ce&x-expires=1762614000&x-signature=EOlatRg%2FJwd%2FKWugRq5DhfgJZXI%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e47cc88d74bf928e128ac90b756f91e~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=bbbfb65d&x-expires=1762614000&x-signature=Knj%2BVOXH0T4AZVzzcNMAnQYbtVg%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/4e47cc88d74bf928e128ac90b756f91e~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=16e4f7f5&x-expires=1762614000&x-signature=0hp06%2BlKstYah2eZ6NeyeJ3sXDg%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "vinhlquc",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA0TWCMBaCv8xEO22YoG3Fel3QmenZGuhhcFTeqoCy-vMJZRScbjfZacAN_UirbB7c",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7518662972534490132",
+            "unique_id": "vinhlquc",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7547169464879039250",
+      "text": "Mấy bộ close này dễ ăn. Ko đột biến",
+      "author": "Rooney10",
+      "create_time": 1757212336,
+      "like_count": 0,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7547170221582271233",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1757212512,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7547169464879039250",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Ok",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fac56a3b&x-expires=1762614000&x-signature=6BQHMwzzV25UCCgvoYs18PfZ9w0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544402698347578130",
+      "text": "kiểu cắt bên bóng bàn.",
+      "author": "Phạm Thị Tuyết Chinh",
+      "create_time": 1756568262,
+      "like_count": 0,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544564919833690896",
+          "collect_stat": 0,
+          "comment_language": "pt",
+          "comment_post_item_ids": null,
+          "create_time": 1756605918,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544402698347578130",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: Kkk 🤣🤣🤣",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7544564919833690896&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Kkk 🤣🤣🤣",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544584555321574160",
+      "text": "Kkk cắt bóng bàn đây mà",
+      "author": "Đời mà",
+      "create_time": 1756610498,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544938005280015120",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756692784,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544584555321574160",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Cũng có lẽ kk",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7543686129473159954",
+      "text": "quả đó phải cắm đầu vợt xuống vất lên mới k xoáy và bị bổng bóng đc",
+      "author": "huonganh621",
+      "create_time": 1756401305,
+      "like_count": 5,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7543807729854776084",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756429629,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543686129473159954",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: Bâc fl em nhé 😁😁",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7543807729854776084&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Bâc fl em nhé 😁😁",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7543877475836412690",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1756445857,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543686129473159954",
+          "reply_to_nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+          "reply_to_reply_id": "7543807729854776084",
+          "reply_to_userid": "7309867660035343378",
+          "reply_to_username": "nguyenmanhduc99",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "huonganh621’s comment: 🤣🤣🤣",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=6941029005148505090&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7543877475836412690&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🤣🤣🤣",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-useast2a-avt-0068-giso/2313bf8fb0c1ca91c347cb32c3eaa9ad",
+              "url_list": [
+                "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/2313bf8fb0c1ca91c347cb32c3eaa9ad~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=b33a65bc&x-expires=1762614000&x-signature=lKiA2YahDA8SPAQxcgm9wC%2BAWtk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/2313bf8fb0c1ca91c347cb32c3eaa9ad~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=79ee65cb&x-expires=1762614000&x-signature=59uO7MjYdMnyskG7Oo24vO6qSSE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/2313bf8fb0c1ca91c347cb32c3eaa9ad~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=64876929&x-expires=1762614000&x-signature=I5u6Zmz638dpDlktWPd2dhoCXhI%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "huonganh621",
+            "platform_sync_info": null,
+            "predicted_age_group": "4",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAPQT3B91pBWJFo5wb7l7LLkbDv0_Vj2Ajq5i3xF_1YTlmEomRKtJgm2VivF4H1wmW",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "6941029005148505090",
+            "unique_id": "huonganh621",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7545358410402022162",
+      "text": "chắc ông toàn đánh với newbie chứ quả này roll lại là hết vẹo , vừa khó lên bếp vừa ko làm khó được đối thủ",
+      "author": "drkiencuongls",
+      "create_time": 1756790661,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546673138491589383",
+      "text": "Này đánh với newbi thì mới bắt nạt đc thôi 😂",
+      "author": "user54232952879791",
+      "create_time": 1757096773,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544580074025812744",
+      "text": "bốc đại 1 ông ở tennis hoặc bóng bàn qua. ez",
+      "author": "Phạm Trung Hiếu",
+      "create_time": 1756609627,
+      "like_count": 0,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544938040763728661",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756692791,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544580074025812744",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Ghê v",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7545437586451137287",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756809260,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544580074025812744",
+          "reply_to_nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+          "reply_to_reply_id": "7544938040763728661",
+          "reply_to_userid": "7309867660035343378",
+          "reply_to_username": "nguyenmanhduc99",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Lá vàng rơi trong bóng bàn còn khó hơn chục lần",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/7325299952098213890",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325299952098213890~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=fedfc2ae&x-expires=1762614000&x-signature=P5H9%2F2IA0FyiVrd04gnYaehy654%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325299952098213890~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=22a6c150&x-expires=1762614000&x-signature=CY1Uwc5TX4yJi8BLOOTcBbHHkT8%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7325299952098213890~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c0a21688&x-expires=1762614000&x-signature=F6sIt3rXW4Au0O2EeJ%2F8oXNBgrA%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Phạm Trung Hiếu",
+            "platform_sync_info": null,
+            "predicted_age_group": "4",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAARpWdBfoexO8F6CI-51wrAYZ7SkxdlMjYWK09XdceR_m3bIUxww8rSWyjwI8zjGOD",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "6555272774880018433",
+            "unique_id": "2169902180hh",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7543996446758142727",
+      "text": "tướng chị đẹp thiệt🤔",
+      "author": "TD134",
+      "create_time": 1756473556,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544010701305119504",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1756476874,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543996446758142727",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: 🤔🤔🤔",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7544010701305119504&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🤔🤔🤔",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544247873446331144",
+      "text": "Bên trả bóng 2 hiền quá",
+      "author": "thanhsang9x",
+      "create_time": 1756532096,
+      "like_count": 2,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544260548771840769",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756535048,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544247873446331144",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Con đó trả năng sao bác 🤣🤣🤣 spin căng thì sao trả drive 🤣",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7543848002877801224",
+      "text": "ông nào đánh bóng bàn quen thì đều biết nâng lên kiểu đấy là rúc lưới.",
+      "author": "Dũng 96",
+      "create_time": 1756438998,
+      "like_count": 9,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7543848194968257301",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756439039,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543848002877801224",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Bác fl em để xem nhiều video hơn nhé 😁",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7543910355526304513",
+      "text": "ai mà yếu yếu là đơ dính lưới liền",
+      "author": "N.P",
+      "create_time": 1756453512,
+      "like_count": 1,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544010767050900241",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756476889,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543910355526304513",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Bác fl em nhé 😁",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544010725800411912",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1756476881,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7543910355526304513",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "😁😁😁",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544236511131927314",
+      "text": "😳😳😳",
+      "author": "Đại Dương",
+      "create_time": 1756529451,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544260401711334160",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756535015,
+          "digg_count": 0,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544236511131927314",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Bác fl rm nha kkk",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=fac56a3b&x-expires=1762614000&x-signature=6BQHMwzzV25UCCgvoYs18PfZ9w0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544019053536789266",
+      "text": "🥰🥰🥰",
+      "author": "Đá Granite - Đá Marble Đà Nẵng",
+      "create_time": 1756478819,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544026172541502209",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756480479,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544019053536789266",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Fl em nha 😁",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7545824025390924552",
+      "text": "😳😳😳",
+      "author": "SoWnn21",
+      "create_time": 1756899071,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544265006142784264",
+      "text": "Bóng bàn qua chắc luôn",
+      "author": "Đỗ Thành Vinh ✅️🐍",
+      "create_time": 1756536085,
+      "like_count": 3,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544265954802631441",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756536310,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544265006142784264",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "E đánh cầu lông qua ạ 🤣",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7544932804511204103",
+      "text": "Non mới đỡ những quả đó vào lưới",
+      "author": "Hồ Đức Vĩnh",
+      "create_time": 1756691572,
+      "like_count": 0,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7543492403668323591",
+          "cid": "7544938111969575701",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1756692804,
+          "digg_count": 0,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7544932804511204103",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Nguyễn Mạnh Đức (Pickleball)🏏’s comment: Hên xui 🤣🤣",
+            "title": "Nặng lắm nha kkk #pickleball #thểthao #xuhuong ",
+            "url": "https://t.tiktok.com/i18n/share/video/7543492403668323591/?_d=f09gf88977dfid&comment_author_id=7309867660035343378&mid=7534396478874274561&preview_pb=0&region=VN&share_comment_id=7544938111969575701&share_item_id=7543492403668323591&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Hên xui 🤣🤣",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=4a9a542e&x-expires=1762614000&x-signature=Byhqz9m44ApF2BOAYs%2BITmcF%2BJk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=041a39e5&x-expires=1762614000&x-signature=mg1myG1JsgVPY3sEv1savEdxF2s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/cd47b732b18da4caf76624e006717bd2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=1333eda3&x-expires=1762614000&x-signature=2W9lcKl4N2SIRToEPTQsV%2FvszOM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyễn Mạnh Đức (Pickleball)🏏",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAKFA0Ur1KlPH7KZb0h4fZYgJtWqlVunA69L_xBP2PT7pS3A6IGCY9PTZKvO6koH8F",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7309867660035343378",
+            "unique_id": "nguyenmanhduc99",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7545465360536437522",
+      "text": "quả đó để nó nảy rồi đánh nó giảm xoáy nhiều",
+      "author": "Vương Đại",
+      "create_time": 1756815562,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544768155278148370",
+      "text": "Bóng đang xoáy mà bắt liền thì lỗi thôi, để nảy cho hãm xoáy lại rồi trả",
+      "author": "A Sịn Coffee ☕️ ☕️ ☕️",
+      "create_time": 1756653231,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544766367753405191",
+      "text": "Hành gà ak bác",
+      "author": "Nguyen Ngoc Son",
+      "create_time": 1756652815,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

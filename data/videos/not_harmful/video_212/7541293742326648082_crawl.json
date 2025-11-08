@@ -1,0 +1,2279 @@
+{
+  "url": "https://www.tiktok.com/@yelanfood/video/7541293742326648082",
+  "crawled_at": "2025-11-08T03:19:51.568792Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "Let eat #yelan #eating #cooking #delicious #food ",
+    "author_url": "https://www.tiktok.com/@yelanfood",
+    "author_name": "Ye Lan",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@yelanfood/video/7541293742326648082\" data-video-id=\"7541293742326648082\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@yelanfood\" href=\"https://www.tiktok.com/@yelanfood?refer=embed\">@yelanfood</a> <p>Let eat <a title=\"yelan\" target=\"_blank\" href=\"https://www.tiktok.com/tag/yelan?refer=embed\">#yelan</a> <a title=\"eating\" target=\"_blank\" href=\"https://www.tiktok.com/tag/eating?refer=embed\">#eating</a> <a title=\"cooking\" target=\"_blank\" href=\"https://www.tiktok.com/tag/cooking?refer=embed\">#cooking</a> <a title=\"delicious\" target=\"_blank\" href=\"https://www.tiktok.com/tag/delicious?refer=embed\">#delicious</a> <a title=\"food\" target=\"_blank\" href=\"https://www.tiktok.com/tag/food?refer=embed\">#food</a> </p> <a target=\"_blank\" title=\"♬ original sound - Ye Lan - Ye Lan\" href=\"https://www.tiktok.com/music/original-sound-Ye-Lan-7541293786748570369?refer=embed\">♬ original sound - Ye Lan - Ye Lan</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4BvK6AaAOADlNk8BYEwAApCxIJliGuAYoEgi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762743600&x-signature=jxU9VrN62QhpRztoQCF3Fqn5j1M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "yelanfood",
+    "embed_product_id": "7541293742326648082",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7541293742326648082",
+    "formats": [
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "download",
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oEABQseo0woEfB6M82DAbIWiUqDRE6FgwRxELM/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2458&bt=1229&cs=0&ds=3&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=0&rc=Nzc7OTY8PGc5aGhmO2g4O0Bpang1NHg5cjgzNTMzODczNEBfYl5gLTVeXjIxNC0vYC1gYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=e2d8e46a6176f8cc6f96fbee5ce1e857&tk=tt_chain_token",
+        "format_note": "watermarked",
+        "preference": -2,
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "dynamic_range": "SDR",
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "download - unknown (watermarked)"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_515283-0",
+        "tbr": 515,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 5475471,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oUOqUIWEDxQ6ABDegEfuALQObFwMFoBEa8LRNo/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1006&bt=503&cs=0&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=5&rc=aTo3ZTRlaDhkZjVpNzdmOEBpang1NHg5cjgzNTMzODczNEBhNDRiMi02NTQxMWNiMDNiYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=fed9fd3624a2f84b3ee9fc5c96566c67&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "h264_540p_515283-0 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_515283-1",
+        "tbr": 515,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 5475471,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oUOqUIWEDxQ6ABDegEfuALQObFwMFoBEa8LRNo/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1006&bt=503&cs=0&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=5&rc=aTo3ZTRlaDhkZjVpNzdmOEBpang1NHg5cjgzNTMzODczNEBhNDRiMi02NTQxMWNiMDNiYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=fed9fd3624a2f84b3ee9fc5c96566c67&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "h264_540p_515283-1 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_1218437-0",
+        "tbr": 1218,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 12947270,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oYAQoFbW6qwuDDaMRfMBAjE8gUECBOWEeoCxIL/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2378&bt=1189&cs=0&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=0&rc=aTY6M2Y0NDpoaDo8ZTk6NkBpang1NHg5cjgzNTMzODczNEBeYF8xM2EzXi0xMzMzYGNjYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=c25023289474cd6f2ff8026e56e1ec4c&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "h264_540p_1218437-0 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_1218437-1",
+        "tbr": 1218,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 12947270,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/oYAQoFbW6qwuDDaMRfMBAjE8gUECBOWEeoCxIL/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2378&bt=1189&cs=0&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=0&rc=aTY6M2Y0NDpoaDo8ZTk6NkBpang1NHg5cjgzNTMzODczNEBeYF8xM2EzXi0xMzMzYGNjYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=c25023289474cd6f2ff8026e56e1ec4c&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "h264_540p_1218437-1 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_610018-0",
+        "tbr": 610,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 6482131,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/osxQW8gqfAQtf6VrgDRoMRBWIEBUFEXbwAMIb8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1190&bt=595&cs=2&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=11&rc=OzgzOGY1Zmc7aGQ2OTs1NEBpang1NHg5cjgzNTMzODczNEA2Yl4wNV9hXl4xNV4wMWE1YSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=fc9edb9575cf76ba0f5b8d9523496442&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "bytevc1_540p_610018-0 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_610018-1",
+        "tbr": 610,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 6482131,
+        "width": 576,
+        "height": 1024,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/osxQW8gqfAQtf6VrgDRoMRBWIEBUFEXbwAMIb8/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1190&bt=595&cs=2&ds=6&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=11&rc=OzgzOGY1Zmc7aGQ2OTs1NEBpang1NHg5cjgzNTMzODczNEA2Yl4wNV9hXl4xNV4wMWE1YSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=fc9edb9575cf76ba0f5b8d9523496442&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x1024",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "bytevc1_540p_610018-1 - 576x1024"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_703987-0",
+        "tbr": 703,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 7480657,
+        "width": 720,
+        "height": 1280,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4UBqTMAmAxDDw8iQHIRNWf6EeBFoEEogILEbr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1374&bt=687&cs=2&ds=3&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=14&rc=O2c1OTw4ZDU8OTM3aTc7Z0Bpang1NHg5cjgzNTMzODczNEBgYzFfXmI2NS8xXl9fYC9gYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=9e1176a18c40c53a0db9fb1c88c57d77&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "720x1280",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "bytevc1_720p_703987-0 - 720x1280"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_703987-1",
+        "tbr": 703,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 7480657,
+        "width": 720,
+        "height": 1280,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4UBqTMAmAxDDw8iQHIRNWf6EeBFoEEogILEbr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1374&bt=687&cs=2&ds=3&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=14&rc=O2c1OTw4ZDU8OTM3aTc7Z0Bpang1NHg5cjgzNTMzODczNEBgYzFfXmI2NS8xXl9fYC9gYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=9e1176a18c40c53a0db9fb1c88c57d77&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "720x1280",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.56,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+        },
+        "format": "bytevc1_720p_703987-1 - 720x1280"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@yelanfood/video/7541293742326648082"
+    },
+    "channel": "Ye Lan",
+    "channel_id": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+    "uploader": "yelanfood",
+    "uploader_id": "7282776453451498501",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+    "uploader_url": "https://www.tiktok.com/@yelanfood",
+    "track": "original sound - Ye Lan",
+    "artists": [
+      "Ye Lan"
+    ],
+    "duration": 85,
+    "title": "Let eat #yelan #eating #cooking #delicious #food ",
+    "description": "Let eat #yelan #eating #cooking #delicious #food ",
+    "timestamp": 1755844283,
+    "view_count": 40500,
+    "like_count": 2500,
+    "repost_count": 130,
+    "comment_count": 90,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4BvK6AaAOADlNk8BYEwAApCxIJliGuAYoEgi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762743600&x-signature=jxU9VrN62QhpRztoQCF3Fqn5j1M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o4BvK6AaAOADlNk8BYEwAApCxIJliGuAYoEgi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762743600&x-signature=jxU9VrN62QhpRztoQCF3Fqn5j1M%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osUDLLgOE2xBIsFgooeAxDAfw68RBWEqoIBRMb~tplv-tiktokx-origin.image?dr=14575&x-expires=1762743600&x-signature=NT5mhBRTMcgbjEhmJUfKSXWKqTY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@yelanfood/video/7541293742326648082",
+    "webpage_url_basename": "7541293742326648082",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osUDLLgOE2xBIsFgooeAxDAfw68RBWEqoIBRMb~tplv-tiktokx-origin.image?dr=14575&x-expires=1762743600&x-signature=NT5mhBRTMcgbjEhmJUfKSXWKqTY%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=sg1",
+    "display_id": "7541293742326648082",
+    "fulltitle": "Let eat #yelan #eating #cooking #delicious #food ",
+    "duration_string": "1:25",
+    "upload_date": "20250822",
+    "artist": "Ye Lan",
+    "epoch": 1762571993,
+    "ext": "mp4",
+    "vcodec": "h265",
+    "acodec": "aac",
+    "format_id": "bytevc1_720p_703987-1",
+    "tbr": 703,
+    "quality": 2,
+    "preference": -1,
+    "filesize": 7480657,
+    "width": 720,
+    "height": 1280,
+    "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/o4UBqTMAmAxDDw8iQHIRNWf6EeBFoEEogILEbr/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1374&bt=687&cs=2&ds=3&ft=4fUEKM3a8Zmo04fdzx4jVsLdPpWrKsd.&mime_type=video_mp4&qs=14&rc=O2c1OTw4ZDU8OTM3aTc7Z0Bpang1NHg5cjgzNTMzODczNEBgYzFfXmI2NS8xXl9fYC9gYSMyb2dgMmRrcWhhLS1kMTFzcw%3D%3D&btag=e00090000&expire=1762744878&l=20251108111953582ABA7577FBAB08DB6E&ply_type=2&policy=2&signature=9e1176a18c40c53a0db9fb1c88c57d77&tk=tt_chain_token",
+    "protocol": "https",
+    "video_ext": "mp4",
+    "audio_ext": "none",
+    "resolution": "720x1280",
+    "dynamic_range": "SDR",
+    "aspect_ratio": 0.56,
+    "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778123993; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"9iI7WZd2q38zMGaIACNGJZxdZJ3GryJqGI4FXnvjH5AxxyVE23EEq2G_Btq_V9VHOnB_qZ0nfPQe3QjungNHnR1mcDqvDCsx8BYdXl91TC0kuNmRJ69cRMONIc5PTTaqz7D8SzXz-gYug7I=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763435993",
+    "format": "bytevc1_720p_703987-1 - 720x1280",
+    "_type": "video",
+    "_version": {
+      "version": "2025.10.22",
+      "release_git_head": "c9356f308dd3c5f9f494cb40ed14c5df017b4fe0",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7541367147344937735",
+      "text": "oh lord, your husband is blessed!",
+      "author": "mandown",
+      "create_time": 1755861375,
+      "like_count": 6,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541381121687241493",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755864626,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541367147344937735",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541381121687241493&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2e6c0d6a&x-expires=1762657200&x-signature=EtNAFZfVtooZGCfUAoHYOpixzi4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7542016619388928781",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1756012606,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541367147344937735",
+          "reply_to_nickname": "Ye Lan",
+          "reply_to_reply_id": "7541381121687241493",
+          "reply_to_userid": "7282776453451498501",
+          "reply_to_username": "yelanfood",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Habanero Tex’s comment: Your posts definitely wake me up! I love the original content synched with a great soundtrack. 🌹🌹",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7248491215569667118&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7542016619388928781&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Your posts definitely wake me up! I love the original content synched with a great soundtrack. 🌹🌹",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/93278796d9427b2f8a20cd65a6703db5",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93278796d9427b2f8a20cd65a6703db5~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=76ce7696&x-expires=1762657200&x-signature=YIrQI%2F1YqNktFrop8WHaDw5RTs0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/93278796d9427b2f8a20cd65a6703db5~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=387924ff&x-expires=1762657200&x-signature=DKCZ%2BUFxJ3N7OBQX3wnHJYfr5Kw%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Habanero Tex",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA3AizL1I8lkMHbjJ2LOfiMJvzje1y2g7c-bl6XPleE2cXPlq2b9Aawgl1P9aeGcxp",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7248491215569667118",
+            "unique_id": "habanero.tex7",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7568649904864887570",
+      "text": "thank you for the food👍",
+      "author": "Sigma.boy342",
+      "create_time": 1762213643,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568392868244783892",
+      "text": "🙏🙏🏾 salam dari Indonesia 🙏🏻🙏",
+      "author": "Andira Saputro",
+      "create_time": 1762153803,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568731124429161223",
+      "text": "look what you did 😭😭",
+      "author": "Zack",
+      "create_time": 1762232549,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541293825969718037",
+      "text": "Let eat 😋😋😋😋😋😋",
+      "author": "Ye Lan",
+      "create_time": 1755844302,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545640281942377272",
+      "text": "",
+      "author": "Black 👑🃏",
+      "create_time": 1756856299,
+      "like_count": 7,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542004613973771025",
+      "text": "En México tenemos Tacos al Pastor y Pozole 🇲🇽",
+      "author": "Yair Damian Ventura ",
+      "create_time": 1756009801,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541897184935232311",
+      "text": "Where do they find these BEAUTIES??💯",
+      "author": "Habanero Tex",
+      "create_time": 1755984806,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541935512988238613",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755993726,
+          "digg_count": 1,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541897184935232311",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰🥰😊😊",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541935512988238613&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰😊😊",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541771258787513094",
+      "text": "I love you ❤️",
+      "author": "Lado-Oeste",
+      "create_time": 1755955467,
+      "like_count": 2,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541799176436253460",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755961964,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541771258787513094",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541799176436253460&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541296228702339871",
+      "text": "Love your outfit",
+      "author": "Curto",
+      "create_time": 1755844909,
+      "like_count": 2,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541296950180578064",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1755845029,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541296228702339871",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "thank 🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7566591395655353109",
+      "text": "",
+      "author": "ATMIN 😔",
+      "create_time": 1761734361,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541589881051464503",
+      "text": "Always looking amazing 💯",
+      "author": "fromscratchbyalbert",
+      "create_time": 1755913242,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541607452686992149",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755917332,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541589881051464503",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7547502711114777349",
+      "text": "wow",
+      "author": "Proyecto Mini Aire Acondicion.",
+      "create_time": 1757289929,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559047034352239416",
+      "text": " [sticker]",
+      "author": "丂乇ㄥᐯ|几 乃卂几乇ᘜ卂丂▄℠︻̷̿┻̿═━一̿’",
+      "create_time": 1759977806,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543987909469537040",
+      "text": "esa musiquita me suena como a Gohan 😂",
+      "author": "💧Isra S 😺 (me) 🐒",
+      "create_time": 1756471569,
+      "like_count": 4,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541397364969177870",
+      "text": "Cute girl 😲",
+      "author": "🐾____CAT____🐾",
+      "create_time": 1755868432,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541410919567115016",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1755871566,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541397364969177870",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: thank 🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541410919567115016&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "thank 🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541399643168195349",
+      "text": "年轻的老板",
+      "author": "jackreacher9872",
+      "create_time": 1755868942,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541410983970325269",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755871579,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541399643168195349",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541410983970325269&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7542539058847007510",
+      "text": "i Like your cooking very much😻",
+      "author": "Mr. Sunset",
+      "create_time": 1756134240,
+      "like_count": 2,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7542679008682951431",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1756166835,
+          "digg_count": 2,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7542539058847007510",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: thank 🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7542679008682951431&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "thank 🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2e6c0d6a&x-expires=1762657200&x-signature=EtNAFZfVtooZGCfUAoHYOpixzi4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7542311683470820127",
+      "text": "Beautiful 😍",
+      "author": "efrainmartinez785pe",
+      "create_time": 1756081318,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7542384528997679873",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1756098254,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7542311683470820127",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "thank❤️❤️",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541442072029856543",
+      "text": "Love the look👏👏👏👏👏🫰🫰",
+      "author": "userMark Kerutis",
+      "create_time": 1755878850,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541501639988413204",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755892696,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541442072029856543",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541501639988413204&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541415485017080582",
+      "text": "😘🥰😍🌹🌹🌹🌹🌹💋💋💋💋💋🤗🤗🤗🤗🤗💕💕💕💕💕",
+      "author": "Виталий Ауман",
+      "create_time": 1755872637,
+      "like_count": 1,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541417227544101652",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755873033,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541415485017080582",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541417227544101652&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0aea567&x-expires=1762657200&x-signature=XdY0bZQC5ev%2BLXc9FpzJHNJOLy4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541509046701933317",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755894418,
+          "digg_count": 0,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541415485017080582",
+          "reply_to_nickname": "Ye Lan",
+          "reply_to_reply_id": "7541417227544101652",
+          "reply_to_userid": "7282776453451498501",
+          "reply_to_username": "yelanfood",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Виталий Ауман’s comment: 🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=6911274323228427270&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541509046701933317&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/7328014906283900934",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7328014906283900934~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=8c6a16fc&x-expires=1762657200&x-signature=iEJnpwMYB13qgNeAT%2Bxr91X2HFg%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7328014906283900934~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=89bcf7d8&x-expires=1762657200&x-signature=OF5HEhOsMNgtR72cJBXUOe5GYeo%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Виталий Ауман",
+            "platform_sync_info": null,
+            "predicted_age_group": "4",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAFGuwp1GiZrg0ExWDTlEhxCQsp7ctm3WKQyHvrz0TAc-idD7jo4aWA8VNHxH9foKb",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "6911274323228427270",
+            "unique_id": "vitalka5555",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541886267530314504",
+      "text": "💐",
+      "author": "Arcangelxp 02",
+      "create_time": 1755982249,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541936065054032647",
+          "collect_stat": 0,
+          "comment_language": "es",
+          "comment_post_item_ids": null,
+          "create_time": 1755993841,
+          "digg_count": 0,
+          "forbid_reply_with_video": false,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541886267530314504",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "cómo me encantan tus videos",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/7326609326081081350",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7326609326081081350~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=98d8f37f&x-expires=1762657200&x-signature=G11HyJxeatoE3eAbZ3iSh%2FOgtxk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7326609326081081350~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=993ad1a0&x-expires=1762657200&x-signature=hie8zjzT8zYOfzjeetVjz8oiGKk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Arcangelxp 02",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAuS4sluxnKL2xS7f-5793bPNi6vvyeOv87Abu_mtHootTNwLJvt5bCNeEG8zIlMoh",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "6793184245307229189",
+            "unique_id": "arcangelxp02",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7541474346419536670",
+      "text": "🥰🥰🥰🥰❤❤❤❤😍😍😍",
+      "author": "Carlos Ramirez78748",
+      "create_time": 1755886360,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7541293742326648082",
+          "cid": "7541501687505879828",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1755892709,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7541474346419536670",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Ye Lan’s comment: 🥰🥰🥰",
+            "title": "Let eat #yelan #eating #cooking #delicious #food ",
+            "url": "https://t.tiktok.com/i18n/share/video/7541293742326648082/?_d=f09gf88977dfid&comment_author_id=7282776453451498501&mid=7541293786748570369&preview_pb=0&region=VN&share_comment_id=7541501687505879828&share_item_id=7541293742326648082&sharer_language=en&source=h5_t&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=50192a95&x-expires=1762657200&x-signature=q4TPGIagLNerE%2F84QF5XBZ1fLU0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=6dc4ae82&x-expires=1762657200&x-signature=1D0qyXjguD48snbtMI7vSE%2F5lqE%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/b2878386d61c44b5609973a3d1b7c04f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2e6c0d6a&x-expires=1762657200&x-signature=EtNAFZfVtooZGCfUAoHYOpixzi4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=sg1"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Ye Lan",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAxUY4vvoazL9lakWZ-DDYUfb9XhYJiglTVVAN27q39RGLqTpLx8z8bQ-iHY_ReCG1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7282776453451498501",
+            "unique_id": "yelanfood",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7568367418286277397",
+      "text": "🤩🤩🤩",
+      "author": "kiramini3",
+      "create_time": 1762147873,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543060499026477831",
+      "text": "❤️❤️❤️❤️❤️🥰🥰🥰🥰🥰",
+      "author": "poppy.Tk.789",
+      "create_time": 1756255643,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569955908031480587",
+      "text": "♥️♥️♥️",
+      "author": "Ismael Mato",
+      "create_time": 1762517722,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544172605245555463",
+      "text": "😁",
+      "author": "Yu and Lai",
+      "create_time": 1756514580,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542538991302378263",
+      "text": "😻😻😻",
+      "author": "Mr. Sunset",
+      "create_time": 1756134221,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542474826179740447",
+      "text": "😍😍😍",
+      "author": "efrainmartinez785pe",
+      "create_time": 1756119302,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542304277391950648",
+      "text": "🌹🌹🌹",
+      "author": "Rolus",
+      "create_time": 1756079575,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542119176174879510",
+      "text": "❤️",
+      "author": "saveriobellino95",
+      "create_time": 1756036474,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542019024268722974",
+      "text": "😋 🌸 🥢",
+      "author": "JC- 🐇",
+      "create_time": 1756013163,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541998989475480350",
+      "text": "😋 🥢 🌸",
+      "author": "JC- 🐇",
+      "create_time": 1756008505,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541869417618162446",
+      "text": "🥰🥰🥰",
+      "author": "Jose Nina527",
+      "create_time": 1755978332,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541740969793274646",
+      "text": "🥰",
+      "author": "Maurizio",
+      "create_time": 1755948417,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541635767551623958",
+      "text": "🌹",
+      "author": "Jordan",
+      "create_time": 1755923965,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541594946093302546",
+      "text": "💐",
+      "author": "Arcangelxp 02",
+      "create_time": 1755914414,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541594936270160658",
+      "text": "🌹",
+      "author": "Arcangelxp 02",
+      "create_time": 1755914414,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541555464259470086",
+      "text": "🥰🥰🥰",
+      "author": "Ben",
+      "create_time": 1755905232,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541415844313973518",
+      "text": "🙃🙃🙃",
+      "author": "saul_volleyball",
+      "create_time": 1755872741,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541388379004404502",
+      "text": "🤩",
+      "author": "angelodom24",
+      "create_time": 1755866325,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541376661335016212",
+      "text": "👌👌👌",
+      "author": "mas bay",
+      "create_time": 1755863589,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541344342306734870",
+      "text": "❤️",
+      "author": "Tonino",
+      "create_time": 1755856076,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541298074507313926",
+      "text": "❤❤❤",
+      "author": "jjvasquez17",
+      "create_time": 1755845317,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541298094375092997",
+      "text": "🥰",
+      "author": "jjvasquez17",
+      "create_time": 1755845312,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541298089639347000",
+      "text": "❤️",
+      "author": "jjvasquez17",
+      "create_time": 1755845313,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541298032161489669",
+      "text": "❤",
+      "author": "jjvasquez17",
+      "create_time": 1755845312,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569110168245502738",
+      "text": "😎",
+      "author": "kiki budiman",
+      "create_time": 1762320810,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568986843749450504",
+      "text": "😂",
+      "author": "k",
+      "create_time": 1762292100,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7567002173675537170",
+      "text": "🥀",
+      "author": "Wind",
+      "create_time": 1761829994,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566284809887220497",
+      "text": "😂",
+      "author": "ร้านสวยรวยทรัพย์",
+      "create_time": 1761662970,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561329865660695314",
+      "text": "🥰",
+      "author": "JCWK",
+      "create_time": 1760509307,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560257671024362260",
+      "text": "😁",
+      "author": "Diablo",
+      "create_time": 1760259670,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7558923539659965191",
+      "text": "❤",
+      "author": "Frenando Espinosa",
+      "create_time": 1759949045,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7547963622459785985",
+      "text": "🤣",
+      "author": "🇲🇽🇨🇦🇪🇦🇫🇷🇮🇹",
+      "create_time": 1757397236,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7547371968178537217",
+      "text": "🥰",
+      "author": "Nyan Linn Htet",
+      "create_time": 1757259506,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546968945221321490",
+      "text": "@dou57dou",
+      "author": "🌑黑金太陽♌🇹🇼",
+      "create_time": 1757165646,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546310171467744008",
+      "text": "😂",
+      "author": "Tommy",
+      "create_time": 1757012265,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545936904018690821",
+      "text": "💙",
+      "author": "Jarencio",
+      "create_time": 1756925358,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545532101488149253",
+      "text": "👌",
+      "author": "Flores Guillaume",
+      "create_time": 1756831105,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545532073412264760",
+      "text": "😂",
+      "author": "Flores Guillaume",
+      "create_time": 1756831102,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545473511856800520",
+      "text": "🥰",
+      "author": "David Dillanes",
+      "create_time": 1756817462,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545422364806218518",
+      "text": "🌺🥰🥰🌺",
+      "author": "Rebel_19620",
+      "create_time": 1756805568,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545302155810734904",
+      "text": "🥰",
+      "author": "Armando Burgos",
+      "create_time": 1756777581,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545288344600969992",
+      "text": "😂",
+      "author": "Arm Danoot",
+      "create_time": 1756774367,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545202967939728133",
+      "text": "👍",
+      "author": "Wiii",
+      "create_time": 1756754474,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545074048158614280",
+      "text": "😂😂😂",
+      "author": "salsa",
+      "create_time": 1756724453,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544835250354963206",
+      "text": "🥰",
+      "author": "Lester Chavez",
+      "create_time": 1756668856,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544822543862006541",
+      "text": "🥵🥵🥵",
+      "author": "Los Castillo",
+      "create_time": 1756665911,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544809675318887169",
+      "text": "😍",
+      "author": "หนวด เขี้ยว",
+      "create_time": 1756662906,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541301714097111824",
+      "text": "Thank you for watching. Don't forget to hit like,share and Followe 🥰🥰",
+      "author": "Ye Lan",
+      "create_time": 1755846141,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7567662375106216724",
+      "text": "lebih tergoda dengan orang yang memasak ya 🤤",
+      "author": "lewat",
+      "create_time": 1761983715,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560489066535093012",
+      "text": "nyasar ajig",
+      "author": "Mufrod",
+      "create_time": 1760313560,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542377181448651527",
+      "text": "Hôm nay đúng kiểu girl dịu dàng không còn kiểu cục súc đán.h người nữa 😂",
+      "author": "Fallenangel11193",
+      "create_time": 1756096540,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544564211482821389",
+      "text": "looks delicious",
+      "author": "Elsa",
+      "create_time": 1756605761,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}
