@@ -1,0 +1,356 @@
+{
+  "url": "https://www.tiktok.com/@tuntunstationery/video/7554239863504014610",
+  "crawled_at": "2025-11-07T20:05:15.074021Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "Gấp một hộp đựng đồ hình tròn đẹp mắt nhé #origami #diy",
+    "author_url": "https://www.tiktok.com/@tuntunstationery",
+    "author_name": "Tun Tun Stationery",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@tuntunstationery/video/7554239863504014610\" data-video-id=\"7554239863504014610\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@tuntunstationery\" href=\"https://www.tiktok.com/@tuntunstationery?refer=embed\">@tuntunstationery</a> <p>Gấp một hộp đựng đồ hình tròn đẹp mắt nhé origami diy</p> <a target=\"_blank\" title=\"♬ Mortals - Warriyo\" href=\"https://www.tiktok.com/music/Mortals-6764264632631691265?refer=embed\">♬ Mortals - Warriyo</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oM0aD0ADIAwsBQSBE5AWMAAtAKiPMKfIuwwBZi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=m7xvN%2B6cWfkO8MZxxYUGWz%2B8IfI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "tuntunstationery",
+    "embed_product_id": "7554239863504014610",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7554239863504014610",
+    "formats": [
+      {
+        "format_id": "audio",
+        "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/okNCydq4RPDrNG5cC6FEAYDeauFzmEfYQDfigB",
+        "ext": "m4a",
+        "acodec": "aac",
+        "vcodec": "none",
+        "protocol": "https",
+        "audio_ext": "m4a",
+        "video_ext": "none",
+        "vbr": 0,
+        "resolution": "audio only",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tuntunstationery/video/7554239863504014610"
+        },
+        "format": "audio - audio only"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@tuntunstationery/video/7554239863504014610"
+    },
+    "channel": "Tun Tun Stationery",
+    "channel_id": "MS4wLjABAAAA_tbeeUGAJKRRPkuRJegn3TH_NZt8_8SAjlRUVsRKUMSi8EQX9_jrHc7yYxJNe41y",
+    "uploader": "tuntunstationery",
+    "uploader_id": "7231924521900180486",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAA_tbeeUGAJKRRPkuRJegn3TH_NZt8_8SAjlRUVsRKUMSi8EQX9_jrHc7yYxJNe41y",
+    "uploader_url": "https://www.tiktok.com/@tuntunstationery",
+    "track": "Mortals",
+    "album": "Mortals",
+    "artists": [
+      "Warriyo"
+    ],
+    "duration": 34,
+    "title": "Gấp một hộp đựng đồ hình tròn đẹp mắt nhé #origami #diy",
+    "description": "Gấp một hộp đựng đồ hình tròn đẹp mắt nhé #origami #diy",
+    "timestamp": 1758882600,
+    "view_count": 40100,
+    "like_count": 1000,
+    "repost_count": 226,
+    "comment_count": 26,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oM0aD0ADIAwsBQSBE5AWMAAtAKiPMKfIuwwBZi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=m7xvN%2B6cWfkO8MZxxYUGWz%2B8IfI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oM0aD0ADIAwsBQSBE5AWMAAtAKiPMKfIuwwBZi~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=m7xvN%2B6cWfkO8MZxxYUGWz%2B8IfI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o0oBjb7mivtBIRiw0OSAKiEf8SxKAHBbYIApV9~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=pdcrbWQvPZd6RAUIrMNwrx2dgqs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@tuntunstationery/video/7554239863504014610",
+    "webpage_url_basename": "7554239863504014610",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o0oBjb7mivtBIRiw0OSAKiEf8SxKAHBbYIApV9~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=pdcrbWQvPZd6RAUIrMNwrx2dgqs%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+    "display_id": "7554239863504014610",
+    "fulltitle": "Gấp một hộp đựng đồ hình tròn đẹp mắt nhé #origami #diy",
+    "duration_string": "34",
+    "upload_date": "20250926",
+    "artist": "Warriyo",
+    "epoch": 1762545916,
+    "format_id": "audio",
+    "url": "https://sf16-ies-music-sg.tiktokcdn.com/obj/tos-alisg-ve-2774/okNCydq4RPDrNG5cC6FEAYDeauFzmEfYQDfigB",
+    "ext": "m4a",
+    "acodec": "aac",
+    "vcodec": "none",
+    "protocol": "https",
+    "audio_ext": "m4a",
+    "video_ext": "none",
+    "vbr": 0,
+    "resolution": "audio only",
+    "format": "audio - audio only",
+    "_type": "video",
+    "_version": {
+      "version": "2025.10.22",
+      "release_git_head": "c9356f308dd3c5f9f494cb40ed14c5df017b4fe0",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7559463993631539986",
+      "text": "Your video is too fast. 😅",
+      "author": "Liah",
+      "create_time": 1760074873,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557780594206540552",
+      "text": "🥰",
+      "author": "Trà Mộc",
+      "create_time": 1759682926,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569683707696038672",
+      "text": "😁",
+      "author": "bdianasalvabenite",
+      "create_time": 1762454349,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569575930155942663",
+      "text": "🥰",
+      "author": "Su Nguyen3645",
+      "create_time": 1762429243,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568810535257916181",
+      "text": "😂",
+      "author": "Aida",
+      "create_time": 1762251038,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568417668128572168",
+      "text": "😳😳😳",
+      "author": "瑠愛Rue",
+      "create_time": 1762159569,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7567578464838091521",
+      "text": "🥰",
+      "author": "༺𓆩Vi༒︎Vi𓆪༻",
+      "create_time": 1761964180,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565898271647908615",
+      "text": "🥰🥰🥰",
+      "author": "Thiên Nga",
+      "create_time": 1761572969,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565518339709485842",
+      "text": "🥰🥰🥰",
+      "author": "Ngọc Ánh",
+      "create_time": 1761484515,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565513999732589313",
+      "text": "😔",
+      "author": "Trần Huyền",
+      "create_time": 1761483508,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565454603857740545",
+      "text": "😂😂😂",
+      "author": "Đinh Hải Nam",
+      "create_time": 1761469676,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7564763390335763218",
+      "text": "🥰",
+      "author": "kaji ren",
+      "create_time": 1761308738,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563152454881231623",
+      "text": "😁😁😁",
+      "author": "Ngọc Linh",
+      "create_time": 1760933663,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563139322653508369",
+      "text": "😁😁🥰🥰",
+      "author": "nooteadongtien_123",
+      "create_time": 1760930615,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562014958675018503",
+      "text": "😅😅😅",
+      "author": "qn.n",
+      "create_time": 1760668816,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561374004242907925",
+      "text": "😂😂😂",
+      "author": "Minh Vy",
+      "create_time": 1760519585,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560619032673305364",
+      "text": "😂",
+      "author": "a_d_z09",
+      "create_time": 1760343806,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559582936762385170",
+      "text": "🥰🥰🥰",
+      "author": "Khanh Dang1555",
+      "create_time": 1760102568,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7558058941449093895",
+      "text": "😁",
+      "author": "ຍັງໂສວຢູ່ໃຜຢ່າກໄດ້ຂໍເບີ🥰🥰",
+      "create_time": 1759747733,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557900735436276498",
+      "text": "👍👍👍🥰",
+      "author": "no Fun no Life 👄",
+      "create_time": 1759710916,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557719375026963207",
+      "text": "😁",
+      "author": "PTMH 25/06/2007 KITTY",
+      "create_time": 1759668675,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557700292345365266",
+      "text": "🥰",
+      "author": "Trucloan0208",
+      "create_time": 1759664230,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556448363286872852",
+      "text": "🥰🥰🥰",
+      "author": "Hihehiu",
+      "create_time": 1759372748,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556164067440132881",
+      "text": "😁",
+      "author": "maian",
+      "create_time": 1759306563,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7555456456130216711",
+      "text": "❤️❤️❤",
+      "author": "hoang.huyen.1989",
+      "create_time": 1759141800,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554727597096502024",
+      "text": "😍",
+      "author": "voanhlinh",
+      "create_time": 1758972095,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

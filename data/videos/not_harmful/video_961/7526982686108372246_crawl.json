@@ -1,0 +1,2578 @@
+{
+  "url": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246",
+  "crawled_at": "2025-11-07T20:58:29.928637Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "#Universum #und #heilen ",
+    "author_url": "https://www.tiktok.com/@tvandroid650",
+    "author_name": "Meditation",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@tvandroid650/video/7526982686108372246\" data-video-id=\"7526982686108372246\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@tvandroid650\" href=\"https://www.tiktok.com/@tvandroid650?refer=embed\">@tvandroid650</a> <p><a title=\"universum\" target=\"_blank\" href=\"https://www.tiktok.com/tag/universum?refer=embed\">#Universum</a> <a title=\"und\" target=\"_blank\" href=\"https://www.tiktok.com/tag/und?refer=embed\">#und</a> <a title=\"heilen\" target=\"_blank\" href=\"https://www.tiktok.com/tag/heilen?refer=embed\">#heilen</a> </p> <a target=\"_blank\" title=\"♬ Originalton - Meditation\" href=\"https://www.tiktok.com/music/Originalton-7526982738360945430?refer=embed\">♬ Originalton - Meditation</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 866,
+    "thumbnail_height": 576,
+    "thumbnail_url": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oYYfRNEQIFgoFsdfrNFk1sN14uYpmEA4DBTRBu~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=2fq2m3Cv4gBCVYVitN1nsk21HJI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "tvandroid650",
+    "embed_product_id": "7526982686108372246",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7526982686108372246",
+    "formats": [
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "download",
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/okERE4qERkrf1Y74bggTDITdQA4opuDeOFyFFB/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=844&bt=422&cs=0&ds=3&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=Zmg1OjZoNGhpOTo6NWVmZkBpMzttOHE5cjRtNDMzbzczNUBiX19fYTNfNTExXjQvMmMzYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=4e2c2173f622b63db4548a6a4b306ee6&tk=tt_chain_token",
+        "format_note": "watermarked",
+        "preference": -2,
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "dynamic_range": "SDR",
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "download - unknown (watermarked)"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_419093-0",
+        "tbr": 419,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 28623524,
+        "width": 866,
+        "height": 576,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8ibEy7fp2oI0vCICNO0cQis8TbBVBwCA6361A/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=818&bt=409&cs=0&ds=6&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=aWczNjo1ZGU3OWk7ZDw3ZkBpMzttOHE5cjRtNDMzbzczNUAuMjIxYTMtNi0xYjE2LjNeYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=3795fd3400f6862b6d11bfc15d9d5077&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "866x576",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "h264_540p_419093-0 - 866x576"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_419093-1",
+        "tbr": 419,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 28623524,
+        "width": 866,
+        "height": 576,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/o8ibEy7fp2oI0vCICNO0cQis8TbBVBwCA6361A/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=818&bt=409&cs=0&ds=6&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=aWczNjo1ZGU3OWk7ZDw3ZkBpMzttOHE5cjRtNDMzbzczNUAuMjIxYTMtNi0xYjE2LjNeYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=3795fd3400f6862b6d11bfc15d9d5077&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "866x576",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "h264_540p_419093-1 - 866x576"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_223567-0",
+        "tbr": 223,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 15269334,
+        "width": 866,
+        "height": 576,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ocRxRT46oQkdEHFuABdFG7YEIpDg4eA1Fgf68r/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=436&bt=218&cs=2&ds=6&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=11&rc=NjZmOTk7Njc4OjpkaDQ0aUBpMzttOHE5cjRtNDMzbzczNUAyNjVeNDVgX2IxLS0vNmBfYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=dc9f5362d4ef14366c15d23465780d84&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "866x576",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "bytevc1_540p_223567-0 - 866x576"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_540p_223567-1",
+        "tbr": 223,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 15269334,
+        "width": 866,
+        "height": 576,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068c001-no/ocRxRT46oQkdEHFuABdFG7YEIpDg4eA1Fgf68r/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=436&bt=218&cs=2&ds=6&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=11&rc=NjZmOTk7Njc4OjpkaDQ0aUBpMzttOHE5cjRtNDMzbzczNUAyNjVeNDVgX2IxLS0vNmBfYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=dc9f5362d4ef14366c15d23465780d84&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "866x576",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "bytevc1_540p_223567-1 - 866x576"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_291406-0",
+        "tbr": 291,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 19902656,
+        "width": 1082,
+        "height": 720,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oMkBdfrAjTpDi4uugl9RwFfYERFFxBEogQ4I11/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=568&bt=284&cs=2&ds=3&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=14&rc=M2UzOjg6O2RmOzM1PGYzO0BpMzttOHE5cjRtNDMzbzczNUAvLi8zYDYyNmExMS4xXmBgYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=8eaf72595a7cc5fc08476057469f7ade&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "1082x720",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "bytevc1_720p_291406-0 - 1082x720"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h265",
+        "acodec": "aac",
+        "format_id": "bytevc1_720p_291406-1",
+        "tbr": 291,
+        "quality": 2,
+        "preference": -1,
+        "filesize": 19902656,
+        "width": 1082,
+        "height": 720,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oMkBdfrAjTpDi4uugl9RwFfYERFFxBEogQ4I11/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=568&bt=284&cs=2&ds=3&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=14&rc=M2UzOjg6O2RmOzM1PGYzO0BpMzttOHE5cjRtNDMzbzczNUAvLi8zYDYyNmExMS4xXmBgYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=8eaf72595a7cc5fc08476057469f7ade&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "1082x720",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 1.5,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+        },
+        "format": "bytevc1_720p_291406-1 - 1082x720"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246"
+    },
+    "channel": "Meditation",
+    "channel_id": "MS4wLjABAAAAbbybHDamepH003vFUuvHrHlCDodr-XInOMqRRe4x0--NKXSml57-ILAtzgwrh9GC",
+    "uploader": "tvandroid650",
+    "uploader_id": "7057049965147980805",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAbbybHDamepH003vFUuvHrHlCDodr-XInOMqRRe4x0--NKXSml57-ILAtzgwrh9GC",
+    "uploader_url": "https://www.tiktok.com/@tvandroid650",
+    "track": "Originalton",
+    "artists": [
+      "Meditation"
+    ],
+    "duration": 546,
+    "title": "#Universum #und #heilen ",
+    "description": "#Universum #und #heilen ",
+    "timestamp": 1752512228,
+    "view_count": 11800,
+    "like_count": 1051,
+    "repost_count": 256,
+    "comment_count": 230,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oonsIy8cCBAuNVEUApi3CI0BxC6woASOI0fN1i~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=2d5Dh5zcqQHuW4yFDmmjoju%2BSEA%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oYYfRNEQIFgoFsdfrNFk1sN14uYpmEA4DBTRBu~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=2fq2m3Cv4gBCVYVitN1nsk21HJI%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oohIwi3AIs0I0ANf1r8OVpuvVohBCAiCycWCu6~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=4NwKPKe5A6s4nN1Ti1CeCXfSSn0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@tvandroid650/video/7526982686108372246",
+    "webpage_url_basename": "7526982686108372246",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-pu-sign-no.tiktokcdn-eu.com/tos-no1a-p-0037-no/oohIwi3AIs0I0ANf1r8OVpuvVohBCAiCycWCu6~tplv-tiktokx-origin.image?dr=14575&x-expires=1762718400&x-signature=4NwKPKe5A6s4nN1Ti1CeCXfSSn0%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my2",
+    "display_id": "7526982686108372246",
+    "fulltitle": "#Universum #und #heilen ",
+    "duration_string": "9:06",
+    "upload_date": "20250714",
+    "artist": "Meditation",
+    "epoch": 1762549110,
+    "ext": "mp4",
+    "vcodec": "h265",
+    "acodec": "aac",
+    "format_id": "bytevc1_720p_291406-1",
+    "tbr": 291,
+    "quality": 2,
+    "preference": -1,
+    "filesize": 19902656,
+    "width": 1082,
+    "height": 720,
+    "url": "https://v19-webapp-prime.tiktok.com/video/tos/no1a/tos-no1a-ve-0068-no/oMkBdfrAjTpDi4uugl9RwFfYERFFxBEogQ4I11/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=568&bt=284&cs=2&ds=3&ft=-Csk_mH1PD12NWWxHd-UxfeFaY6e3wv25HcAp&mime_type=video_mp4&qs=14&rc=M2UzOjg6O2RmOzM1PGYzO0BpMzttOHE5cjRtNDMzbzczNUAvLi8zYDYyNmExMS4xXmBgYSNyaWJiMmRjYG5hLS1kMTFzcw%3D%3D&btag=e000a0000&expire=1762722456&l=202511080458306B0D2BBF6A7E6FE637E1&ply_type=2&policy=2&signature=8eaf72595a7cc5fc08476057469f7ade&tk=tt_chain_token",
+    "protocol": "https",
+    "video_ext": "mp4",
+    "audio_ext": "none",
+    "resolution": "1082x720",
+    "dynamic_range": "SDR",
+    "aspect_ratio": 1.5,
+    "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1778101110; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; passport_auth_status=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Expires=1765085004; passport_auth_status_ss=b8d801922a4b455b405bf6994fade073%2C063941b21aed31105bffa0d912bcf9fa; Domain=.tiktok.com; Path=/; Secure; Expires=1765085004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"HWqW-BIy_iAJFHw7kxsXcFv8ZmdDhwKlKu3iYTxgkM9rB54FzNbZtv-iPSXLdkLrlYFkr9grUiy2d5Y8xZO8HdoeEfGT-s9EVbJd1W4itP501c1ZIHkNKu1LFXTSDWjT65gUdB-2eZeiAg==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1763413110",
+    "format": "bytevc1_720p_291406-1 - 1082x720",
+    "_type": "video",
+    "_version": {
+      "version": "2025.10.22",
+      "release_git_head": "c9356f308dd3c5f9f494cb40ed14c5df017b4fe0",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7565931545392415510",
+      "text": "🙏🙏🙏Amen 🙏🙏🙏🥰",
+      "author": "9i",
+      "create_time": 1761580723,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551432297946841878",
+      "text": "Liebe",
+      "author": "GER",
+      "create_time": 1758204856,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556164995079062275",
+      "text": "danke universum",
+      "author": "mila",
+      "create_time": 1759306789,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545552096746242838",
+      "text": "Danke dass es uns gibt ❤️❤️❤️",
+      "author": "danielafriedrich725",
+      "create_time": 1756835761,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544861411655664406",
+      "text": "Ich danke ❤️🙏",
+      "author": "ankapfaff",
+      "create_time": 1756674951,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7550050592543933206",
+      "text": "777,",
+      "author": "Andrzej456",
+      "create_time": 1757883150,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556844905571812118",
+      "text": "SENSATIONELLLLLLL...BRILLIANTEN REDEN...ILOVETT....\nDANKESCHÖN LIEBE UNIVERSUM....ILOVETT....🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰",
+      "author": "Buggy 14 Cristina Alexe",
+      "create_time": 1759465119,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551496252618572566",
+      "text": "danke",
+      "author": "witch",
+      "create_time": 1758219740,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531735030169125654",
+      "text": "Danke liebes Universum",
+      "author": "Dr doza",
+      "create_time": 1753618735,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533028502632268566",
+      "text": "🙏💖🙏so sei es🙏💖🙏\n🦋🤲🦋danke liebes Universum, dass du alles, was für mich bestimmmt ist,zur richtigen Zeit in mein leben lässt, ich nehme es voller liebe, licht u vertrauen an🦋🤲🦋 ..,und manchmal:\n*sende ein Lächeln in die Welt u sei dir sicher, dass die Welt dir ein Lächeln zurück schenkt* ✨❤️✨",
+      "author": "💥ickelinche💥",
+      "create_time": 1753919900,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556205201256088342",
+      "text": "Amen 🙏",
+      "author": "Sahin",
+      "create_time": 1759316144,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545773809834689303",
+      "text": "Liebe 🥰",
+      "author": "Björn Karsten Völkl",
+      "create_time": 1756887398,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7550413183903630102",
+      "text": "ich bin Licht❤Ich bin Kraft😘ich bin Verbindung mit dem Universum💕Danke Universum von meine finanziellen🙏Amem Gratidao😇",
+      "author": "Alertse a Suiris",
+      "create_time": 1757967569,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529415738080166678",
+      "text": "Vielen Dank liebes Universum., 🥰🥰🥰🥰🥰🥰🥰",
+      "author": "Tatjana Mafalda Maria Zuber",
+      "create_time": 1753078730,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543477554104959766",
+      "text": "🥰lebe🥰",
+      "author": "kazimcmert",
+      "create_time": 1756352796,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529319096608260886",
+      "text": "Danke lieber gott ❤️",
+      "author": "Begisha Jashari",
+      "create_time": 1753056248,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531133346609464086",
+      "text": "ich bin reines Licht",
+      "author": "Uwe Fritz-Barner",
+      "create_time": 1753478634,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546847886672823062",
+      "text": "Danke",
+      "author": "Anna Grotherr",
+      "create_time": 1757137487,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528517961050800918",
+      "text": "Danke liebes Universum🥰🥰",
+      "author": "Jutta Leder",
+      "create_time": 1752869696,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529732645866341142",
+      "text": "Jeder der das liest ist ein wunderbarer Mensch",
+      "author": "kooooorrekt",
+      "create_time": 1753152555,
+      "like_count": 12,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7526982686108372246",
+          "cid": "7548272058657915670",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1757469127,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7529732645866341142",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "sladdy’s comment: ❤️",
+            "title": "#Universum #und #heilen ",
+            "url": "https://m.tiktok.com/v/7526982686108372246.html?_d=f09gf88977dfid&comment_author_id=7235604014518354950&preview_pb=0&share_comment_id=7548272058657915670&share_item_id=7526982686108372246&sharer_language=en&source=h5_m&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "❤️",
+          "text_extra": [],
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-useast2a-avt-0068-giso/7235604404555448346",
+              "url_list": [
+                "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/7235604404555448346~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=d24cb1ff&x-expires=1762632000&x-signature=pm0WXyCaSFU2gntSDVpqcZZfn8E%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/7235604404555448346~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=347b8394&x-expires=1762632000&x-signature=xmubuAQQjWZVzj8jPhS56WPrLPY%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-giso/7235604404555448346~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=7744f39f&x-expires=1762632000&x-signature=sZwjLSFOFFaFvayNJu3TxEYfxNk%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "sladdy",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAVyz2hwRUTP7ITpZGZvf-_idR2yqFuIlkhQuMYtJuc6eT_S2bXfBpMdHVUcsR9LP9",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7235604014518354950",
+            "unique_id": "sladjanadenic86",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7557663381184873238",
+      "text": "Amen!",
+      "author": "Andreas Krings",
+      "create_time": 1759655638,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534989616875995927",
+      "text": "ich bin Licht ☀️",
+      "author": "miragavrilovic5",
+      "create_time": 1754376511,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556687526942933782",
+      "text": "Danke Universum 🙏",
+      "author": "jojo",
+      "create_time": 1759428432,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7550051076624499478",
+      "text": "Liebe, 777,",
+      "author": "Andrzej456",
+      "create_time": 1757883259,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535515533152912150",
+      "text": "Alles Liebe an alle",
+      "author": "martinapopp1",
+      "create_time": 1754498942,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545185010807096086",
+      "text": "liebe❤️❤️",
+      "author": "Markus Pichler",
+      "create_time": 1756750290,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535614715180319510",
+      "text": "❤️❤️❤️❤️🙏🙏🙏🙏🙏❤️❤️❤️❤️❤️❤️Amin Amin Amin Amin ❤️❤️❤️❤️❤️❤️❤️",
+      "author": "gul",
+      "create_time": 1754522040,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7550412178773132054",
+      "text": "Gott beschützen alles Kindern von dieser Welt und meine Enkelkinder und meine Sohn und meine Tochter🙏Amem Gratidao😇",
+      "author": "Alertse a Suiris",
+      "create_time": 1757967337,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534457164564349718",
+      "text": "Ich Danke Dir Lieber Vater Das Du Uns Immer da bist Wenn Man Dich braucht Und Ich bin So DANKBAR dafür das Was Du uns erzählst Und Ich Möchte Mich Sehr Dafür Bedanken Und hilf Mir Bitte das man wieder Glücklich wird Ich Glaube Immer An Dich",
+      "author": "Lucky19841004April",
+      "create_time": 1754252519,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535074484300399382",
+      "text": "ICH DANKE DEM UNIVERSUM",
+      "author": "Simone Junker",
+      "create_time": 1754396261,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7550441129637643030",
+      "text": "Amen 🙏",
+      "author": "ariahamraz2",
+      "create_time": 1757974092,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7539873986882110230",
+      "text": "Liebe und Frieden für alle ❤️",
+      "author": "libertydragon32",
+      "create_time": 1755513727,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527109579000644374",
+      "text": "Ich bin Liebe ❤️Ich bin Licht 😊 Danke 🥰",
+      "author": "Swobnelda",
+      "create_time": 1752541812,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529683980162843414",
+      "text": "Danke liebes Universum ich werde positiv bleiben ❤️✨❤️✨❤️✨❤️",
+      "author": "gHeidi Plage",
+      "create_time": 1753141198,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7526982686108372246",
+          "cid": "7531382724508107542",
+          "collect_stat": 0,
+          "comment_language": "de",
+          "comment_post_item_ids": null,
+          "create_time": 1753536704,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7529683980162843414",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "Pa So765’s comment: Danke liebes universum 🥰🥰🥰",
+            "title": "#Universum #und #heilen ",
+            "url": "https://m.tiktok.com/v/7526982686108372246.html?_d=f09gf88977dfid&comment_author_id=7085060251750745094&preview_pb=0&share_comment_id=7531382724508107542&share_item_id=7526982686108372246&sharer_language=en&source=h5_m&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Danke liebes universum 🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/7085060835063627782",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7085060835063627782~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=227ed95a&x-expires=1762632000&x-signature=tUFcEHpNm3Fhi2lQrr8oUzUN%2Bl4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7085060835063627782~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5bff1386&x-expires=1762632000&x-signature=le3BJJa2yvGXTPJQqymIGay4STA%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Pa So765",
+            "platform_sync_info": null,
+            "predicted_age_group": "-1",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAPnotgewdtigUcPj8VphuQft2VAwn7C3ixaBhC5ZU2NRbzG0KsnlCJxKsN2Z1n6wv",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7085060251750745094",
+            "unique_id": "paso7654",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7528992479056937761",
+      "text": "Ich Danke dir Universum",
+      "author": "Dr Schiwago",
+      "create_time": 1752980259,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7536085261978616598",
+      "text": "Liebe 🍀",
+      "author": "Andrea Nemeth740",
+      "create_time": 1754631616,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534984652051612438",
+      "text": "Wir sind bereit unsere Gedanken ins positive zu lenken und uns zu befreien um liebe ,Kraft, Entschlossenheit und Glück anzuziehen .\nDanke für dieses Video 🥰🥰",
+      "author": "skorpin6",
+      "create_time": 1754375356,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541152386124612375",
+      "text": "777",
+      "author": "xxx",
+      "create_time": 1755811374,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529202432418743062",
+      "text": "Danke Universum",
+      "author": "Rentner",
+      "create_time": 1753029062,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535007197774267158",
+      "text": "ich danke dem Universum !",
+      "author": "Airbrush Matt",
+      "create_time": 1754380602,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529459056798008086",
+      "text": "Danke 🙏",
+      "author": "sherisinxsm",
+      "create_time": 1753088815,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551105790728979222",
+      "text": "Liebe.",
+      "author": "Andrzej456",
+      "create_time": 1758128833,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544608182925886230",
+      "text": "Ich vertraue 🥰",
+      "author": "gerlindeoswald",
+      "create_time": 1756616029,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7532696478679155478",
+      "text": "Vielen Dank, was für ein tolles Video 🍀👏",
+      "author": "ineswollmann2",
+      "create_time": 1753842620,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533423979608982294",
+      "text": "Vertrauen",
+      "author": "tweety45034",
+      "create_time": 1754011988,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7536339548320203543",
+      "text": "Amen 🙏",
+      "author": "user3280662775188",
+      "create_time": 1754690800,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531915630762066710",
+      "text": "123 💫💚🪐",
+      "author": "KINGKOOLKABUL",
+      "create_time": 1753660792,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533218992418128662",
+      "text": "Ich bin Liebe ❤️Ich bin Licht 😊 Danke 🥰",
+      "author": "graziellar01",
+      "create_time": 1753964242,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530385659652014870",
+      "text": "Seit gesegnet!",
+      "author": "user2446071663583",
+      "create_time": 1753304547,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7532970855182795542",
+      "text": "Danke für alle Großen und Kleinen Segnungen. ❤️",
+      "author": "annettewiederstei",
+      "create_time": 1753906463,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534457300946797334",
+      "text": "scön",
+      "author": "HITMAN",
+      "create_time": 1754252551,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530172573398811414",
+      "text": "👌🥰✌️Mein ganzes Leben vertraue ich auf Gott er ist für mich die pure Liebe und die gebe ich an euch alle weiter also Liebe geht raus aus der Oberpfalz 🥰",
+      "author": "Claudia Rathmann",
+      "create_time": 1753254953,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529122865997431574",
+      "text": "Dankeschön Amen 🙏🙏",
+      "author": "Butterfly",
+      "create_time": 1753010535,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527516382679335703",
+      "text": "Wir empfange aus dem Universum Licht und Liebe",
+      "author": "roland",
+      "create_time": 1752636537,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527036773353636630",
+      "text": "Ja Dankeschön liebes Universum 🙏🙏🙏ich bin Licht und Liebe 🦋🦋🦋",
+      "author": "🥰",
+      "create_time": 1752524827,
+      "like_count": 7,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527073015487021846",
+      "text": "dakeschön Universum 🌹🌹🥰🥰🥰❤❤❤❤❤",
+      "author": "dashurija_04",
+      "create_time": 1752533272,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527007547963376406",
+      "text": "BlagoDarü 😁🥰♥️BlagoSlowljaü 😁🥰🥰♥️♥️♥️",
+      "author": "user6169133613949 Leonhard  Ja",
+      "create_time": 1752518021,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531090573991478038",
+      "text": "Das ist die einzige wahre Wahrheit. 🥰🥰🥰",
+      "author": "lil Hoss",
+      "create_time": 1753468679,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527549755283899158",
+      "text": "Vielen lieben Dank für deine Worte! Ich spüre es...",
+      "author": "natuerlich_ich",
+      "create_time": 1752644282,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7526987401349186326",
+      "text": "Ich weiss Gott kennt mich, besser als ich mich selbst. Es ist so beruhigend, daß zu wissen.",
+      "author": "Marianne",
+      "create_time": 1752513330,
+      "like_count": 16,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527983896412062486",
+      "text": "Liebe 🙏🙏❤️❤️❤️😍",
+      "author": "Schule Leben ❤️❤️‍🔥❤️‍🔥❤️‍🔥",
+      "create_time": 1752745348,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528030940879553303",
+      "text": "Danke🙏🙏🙏",
+      "author": "Karin",
+      "create_time": 1752756300,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543382292543472406",
+      "text": "Amen das licht ist da in mir",
+      "author": "Black",
+      "create_time": 1756330566,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7548944974644069123",
+      "text": "gib mir kraft",
+      "author": "felek",
+      "create_time": 1757625732,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527602617884738326",
+      "text": "💚 Danke und ich liebe meine Mitmenschen, denn sie sind Licht.",
+      "author": "Daniela Halbach90",
+      "create_time": 1752656583,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554888282036405014",
+      "text": "Ich hoffe weiter",
+      "author": "Bella",
+      "create_time": 1759009513,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529637989712134934",
+      "text": "Ich bin liebe 🧡",
+      "author": "Galina",
+      "create_time": 1753130474,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7553552180067615510",
+      "text": "Danke universum 🙏❤",
+      "author": "Uschi",
+      "create_time": 1758698441,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556059854898316054",
+      "text": "DANKE UNIVERSUNG.😏😏😏😏😳😳😳😳😳😳😳",
+      "author": "DORIS",
+      "create_time": 1759282381,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7548947621962154774",
+      "text": "Ich danke dir an die Erinnerung",
+      "author": "johannhoweiler456",
+      "create_time": 1757626350,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527633265190044438",
+      "text": "liebe",
+      "author": "bodo14",
+      "create_time": 1752663714,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527563997685973782",
+      "text": "Danke 🥰",
+      "author": "Luise Auböck",
+      "create_time": 1752647601,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534678999747199766",
+      "text": "Danke ❤️für alles 🍀🥰😍 ich liebe das Universum ❤️",
+      "author": "My Angel",
+      "create_time": 1754304174,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7547795526014305047",
+      "text": "Danke Universum 🥰",
+      "author": "renate",
+      "create_time": 1757358101,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7553474113013957398",
+      "text": "Du bist wertvolle 🥰",
+      "author": "Andrea",
+      "create_time": 1758680355,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544067813821334294",
+      "text": "🙏 Namaste",
+      "author": "danduesen",
+      "create_time": 1756490174,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541152952322114326",
+      "text": "Wer dies liest ist ein wunderbarer Mensch ✨",
+      "author": "Torsten Köller",
+      "create_time": 1755811507,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7553535688130659074",
+      "text": "Ich bin dankbar für alles was ich habe",
+      "author": "mary23",
+      "create_time": 1758694597,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7549297207728980758",
+      "text": "Ich bin dankbar für meine leben",
+      "author": "Emilia Andrei",
+      "create_time": 1757707738,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529617606024889090",
+      "text": "Das Leben kann so schön sein 🤗🤗🤗♥️♥️♥️",
+      "author": "Heike Siegler",
+      "create_time": 1753125727,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545941968573022998",
+      "text": "Liebe",
+      "author": "Monimie",
+      "create_time": 1756926534,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527698018351481622",
+      "text": "Danke 🙏",
+      "author": "♑️ Shakhaan 🦋",
+      "create_time": 1752678783,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7558154135871357718",
+      "text": "Frieden in unserem Herzen besiegt den Krieg der Schmerzen ❣️❣️❣",
+      "author": "N.F.123",
+      "create_time": 1759769901,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554662720935576342",
+      "text": "Du bist ein Göttliches Wesen. Du kannst alles erschaffen.",
+      "author": "Herold Barbato",
+      "create_time": 1758956996,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7553175915195368214",
+      "text": "Danke Universum, ich gebe das Licht weiter damit das Licht stärker wird🙏💜",
+      "author": "Ingelore",
+      "create_time": 1758610829,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7548272692059718422",
+      "text": "Livht, Wahrheit und Liebe\nDanke ♡",
+      "author": "sladdy",
+      "create_time": 1757469241,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557785015733715734",
+      "text": "Ich vertraue in Liebe ❤",
+      "author": "giselapassmann813",
+      "create_time": 1759683962,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527222413760365314",
+      "text": "ich bin berait",
+      "author": "meco",
+      "create_time": 1752568057,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545184846232158998",
+      "text": "danke Universum für alles gute das du mir gibst🙏🙏🙏🙏🙏",
+      "author": "Markus Pichler",
+      "create_time": 1756750256,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545941707230380822",
+      "text": "Danke für das Sein.",
+      "author": "Monimie",
+      "create_time": 1756926473,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529197006952645398",
+      "text": "Liebe 💘",
+      "author": "bix",
+      "create_time": 1753027803,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527036456381645590",
+      "text": "Danke 🙏",
+      "author": "Stanko Stefanovic_art",
+      "create_time": 1752524754,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529887732585661206",
+      "text": "Danke danke das es dich gibt, von mir aus tiefstem Herzen ❤️",
+      "author": "Patricia Rieck",
+      "create_time": 1753188624,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7544826233285821206",
+      "text": "gerne gebe ich mein Licht weiter",
+      "author": "Uwe Genzel",
+      "create_time": 1756666760,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527130585556730646",
+      "text": "Ich bin bereit danke universum 😇😇😇",
+      "author": "mariana",
+      "create_time": 1752546752,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7545620259698803478",
+      "text": "Danke Universum",
+      "author": "123sky81",
+      "create_time": 1756851649,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7532857958876005142",
+      "text": "Mit Liebe",
+      "author": "xs",
+      "create_time": 1753880178,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527689823550341910",
+      "text": "@ich bin licht",
+      "author": "mimi",
+      "create_time": 1752676881,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529094091269079830",
+      "text": "благодарю 🥰",
+      "author": "Aktolkyn💕🥰,Anne🤩",
+      "create_time": 1753003840,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531795488565363478",
+      "text": "Amen Danke schön Universum 💓💓",
+      "author": "Karola",
+      "create_time": 1753632808,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534785957452759830",
+      "text": "danke",
+      "author": "Evelyn Wehinger",
+      "create_time": 1754329078,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7540255402152854294",
+      "text": "Richtig Dankeschön Universum und Engel für all eure Hilfe .licht.liebe.kraft.Gesundheit und Wohlstand 🤗dies wünsche ich allen auferweckten und noch viel mehr 🤗",
+      "author": "kimi",
+      "create_time": 1755602532,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535082344844772118",
+      "text": "ich hoffe du heilst mein bruder/schwester wünsche euch allen viel Liebe Licht und Kraft 🥰🥰🥰✌️✌️✌️",
+      "author": "62Prof.Dr.Zazaloge23",
+      "create_time": 1754398084,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534378705188389654",
+      "text": "Gibt mir sehr viel danke😃",
+      "author": "Eva",
+      "create_time": 1754234255,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527358549619213078",
+      "text": "Liebe ❤️❤️❤️❤️❤️",
+      "author": "M A",
+      "create_time": 1752599749,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530399203836232470",
+      "text": "Vielen Dank für die positive Energie ❤️❤️❤️❤️",
+      "author": "Malu",
+      "create_time": 1753307708,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7549096623391277846",
+      "text": "i h bin Licht i CH bin positiv ich empfange",
+      "author": "user8820992775811",
+      "create_time": 1757661052,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528626271800230678",
+      "text": "Danke Universum 🙏",
+      "author": "Luna Mimi",
+      "create_time": 1752894994,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543481749096776470",
+      "text": "Danke ich bin Licht Ich bin Liebe Ich bin Kraft danke für kleine und große Segnung ❤️❤️❤️🙏🏻🙏🏻🙏🏻🍀🍀🍀🥰🥰🥰👏👏👏👏",
+      "author": "schanel2m",
+      "create_time": 1756353762,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528525931947688726",
+      "text": "Universum Ich vertraue",
+      "author": "kwa2988",
+      "create_time": 1752871551,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529602039178740502",
+      "text": "❤❤danke",
+      "author": "sudcroplati6365",
+      "create_time": 1753122102,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7532515978238116630",
+      "text": "Liebe dich selbst und positive Gedsnkrn und Handlungen so findest du zu dir und spürst die Verbindung zum Universum.",
+      "author": "Gabi",
+      "create_time": 1753800558,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531848502818865922",
+      "text": "Es ist schön das es Dich gibt",
+      "author": "Anja N.",
+      "create_time": 1753645147,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534918075357250326",
+      "text": "MANN MUSS LIEBE GEBEN.\nDAN BEKOMT MANN AUCH.",
+      "author": "Iren Maraš",
+      "create_time": 1754359913,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527017640008827670",
+      "text": "liebe",
+      "author": "melana",
+      "create_time": 1752520376,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527212506431980310",
+      "text": "Danke Universum",
+      "author": "Edgar Mehlhaff Lk GF Parsau",
+      "create_time": 1752565747,
+      "like_count": 3,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7526982686108372246",
+          "cid": "7549096162931573526",
+          "collect_stat": 0,
+          "comment_language": "de",
+          "comment_post_item_ids": null,
+          "create_time": 1757660943,
+          "digg_count": 1,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7527212506431980310",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 0,
+              "extra": "{}"
+            },
+            "desc": "user8820992775811’s comment: @Danke universum",
+            "title": "#Universum #und #heilen ",
+            "url": "https://m.tiktok.com/v/7526982686108372246.html?_d=f09gf88977dfid&comment_author_id=7537221788679095318&preview_pb=0&share_comment_id=7549096162931573526&share_item_id=7526982686108372246&sharer_language=en&source=h5_m&u_code=f09gf5a9194j7d"
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "@Danke universum",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "musically-maliva-obj/1594805258216454",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=afcbd99e&x-expires=1762632000&x-signature=ZkJ6CyjmXMggX40mnVOXpokA7F8%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-va.tiktokcdn.com/musically-maliva-obj/1594805258216454~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=8f1497b4&x-expires=1762632000&x-signature=qT3G1HwlilF05JmigiifD8%2F7Yf0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "user8820992775811",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAcr8AIp77i_OrN4NQn5NhmNbkIUjCgI_A8wksKuYoMaU8sCWaBJt4L5cEOm5o5l-Z",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7537221788679095318",
+            "unique_id": "user8820992775811",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7531511746554331926",
+      "text": "Ich danke für das Gespräch ich Versuch es 🙏",
+      "author": "sonjaboeschenstei",
+      "create_time": 1753566743,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530948266893968150",
+      "text": "Ich möchte den Universum Danken!",
+      "author": "christine",
+      "create_time": 1753435548,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7526982686108372246",
+          "cid": "7531383830047064854",
+          "collect_stat": 0,
+          "comment_language": "de",
+          "comment_post_item_ids": null,
+          "create_time": 1753536961,
+          "digg_count": 2,
+          "forbid_reply_with_video": true,
+          "image_list": null,
+          "is_author_digged": true,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7530948266893968150",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "danke 🥰🥰🥰",
+          "text_extra": [],
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/7085060835063627782",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7085060835063627782~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=227ed95a&x-expires=1762632000&x-signature=tUFcEHpNm3Fhi2lQrr8oUzUN%2Bl4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/7085060835063627782~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=5bff1386&x-expires=1762632000&x-signature=le3BJJa2yvGXTPJQqymIGay4STA%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Pa So765",
+            "platform_sync_info": null,
+            "predicted_age_group": "-1",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAPnotgewdtigUcPj8VphuQft2VAwn7C3ixaBhC5ZU2NRbzG0KsnlCJxKsN2Z1n6wv",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7085060251750745094",
+            "unique_id": "paso7654",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7531315310654210838",
+      "text": "You can shine",
+      "author": "Michael Moa",
+      "create_time": 1753521003,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527113233518969622",
+      "text": "Liebe",
+      "author": "Gjyli",
+      "create_time": 1752542673,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531035928606163734",
+      "text": "danke für das Licht",
+      "author": "Maik",
+      "create_time": 1753455956,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542682984006353686",
+      "text": "Liebe, Licht Leben ,Heilen und in Zuversicht verweilen. Danke",
+      "author": "Raoma",
+      "create_time": 1756167781,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542694015839191830",
+      "text": "Wer das liest, ist Seelen-Liebe, geliebt, stark & empfängt „positive Energie“ 😊 💖✨ Danke 🫶 erhalten 26.08.",
+      "author": "★彡ⓒℍ𝓡Ｉ𝕤ˢᎥ彡★",
+      "create_time": 1756170351,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531855777288913687",
+      "text": "Bin sehr dankbar liebe Universum 🙏🏻❤️",
+      "author": "Gentiana Gjoshi",
+      "create_time": 1753646837,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7536212842636690198",
+      "text": "Je mehr ich empfange, desto mehr kann ich geben",
+      "author": "melliteamhappy",
+      "create_time": 1754661303,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535128108103385878",
+      "text": "Ich warte noch immer ein Super Saiyajin zu werden",
+      "author": "domsinik89",
+      "create_time": 1754408743,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7536275454479581974",
+      "text": "wir sind alle aus Licht und Liebe geschaffen",
+      "author": "Mel",
+      "create_time": 1754675872,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527310542517830422",
+      "text": "Danke. Univerum",
+      "author": "Erika",
+      "create_time": 1752588574,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531660344705221398",
+      "text": "Ja Danke 🍀🙏",
+      "author": "Balon75",
+      "create_time": 1753601344,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7542406629276205846",
+      "text": "In liebe bleiben 🙏😇💚",
+      "author": "💚Mario Geißenhöner💚",
+      "create_time": 1756103414,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7526989395410551574",
+      "text": "das war sicherlich mein heiliger Geist 🙏🙏🙏🙏♥️♥️♥️♥️",
+      "author": "Maria Magdalena",
+      "create_time": 1752513799,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529474159350039318",
+      "text": "Ich bin bereit",
+      "author": "Sven",
+      "create_time": 1753092330,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530131961218777878",
+      "text": "Guten Morgen 🥰...ich habe heute morgen tatsächlich das Universum gefragt, was wie ich ein aktuelles Problem lösen könnte das mich sehr belastet. ich habe die Antwort nun bekommen....ich darf nur \"sein\" und Dankbarkeit zeigen. Da ich jeden Augenblick für das alles was ich habe und lebe aus ganzem Herzen dankbar bin, muss ich nur noch üben zu \"sein\"😘",
+      "author": "Suzan Brand-Sahin",
+      "create_time": 1753245505,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527233113183257366",
+      "text": "danke Universum 🙏🙏🙏",
+      "author": "E.W.",
+      "create_time": 1752570555,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527563520377258774",
+      "text": "Universum hilf uns🤩",
+      "author": "Luise Auböck",
+      "create_time": 1752647480,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527708702071915286",
+      "text": "🙏Danke Universum",
+      "author": "Pinky",
+      "create_time": 1752681278,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527017384612578070",
+      "text": "ich bin Licht",
+      "author": "melana",
+      "create_time": 1752520311,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529006484241203990",
+      "text": "I believe wirh faith, love and gratitude",
+      "author": "Christian Brem",
+      "create_time": 1752983504,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530893986244903702",
+      "text": "Liebe für alle, denkt positiv",
+      "author": "uschi",
+      "create_time": 1753422918,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529224864289424150",
+      "text": "Liebe Dankbarkeit Nahrung Gesundheit 🙏",
+      "author": "whitewitch",
+      "create_time": 1753034280,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533400044217631510",
+      "text": "Ich bin die Quelle wow",
+      "author": "✨Forever✨",
+      "create_time": 1754006399,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531446686451974934",
+      "text": "Ich bin Liebe🫶 ich bin Licht 🙏 Danke",
+      "author": "Ivonna#",
+      "create_time": 1753551592,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529291700754465558",
+      "text": "ja und Danke.Amen 🙏🙏🙏🙏",
+      "author": "Coblavie Michael",
+      "create_time": 1753049844,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531132962068742934",
+      "text": "wir alle sind eins, sind liebe ❤",
+      "author": "Uwe Fritz-Barner",
+      "create_time": 1753478552,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531533486819541783",
+      "text": "Universum mache die Menschen offen für sich selbst.",
+      "author": "ralfwerner945",
+      "create_time": 1753571811,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530954212647125782",
+      "text": "Ich vertraue 🙏",
+      "author": "Ursula Lüscher",
+      "create_time": 1753436933,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527764262615335702",
+      "text": "Dankeschön 🥰🍀",
+      "author": "kary2810",
+      "create_time": 1752694208,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527793756171600662",
+      "text": "Danke liebes Universums ich bin das Licht ❤️❤️❤️❤️Danke Universums",
+      "author": "InGe🫦",
+      "create_time": 1752701076,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527292646235374358",
+      "text": "Danke Universum das habe ich gerade gebraucht.",
+      "author": "andreasrsner0",
+      "create_time": 1752584403,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527342938017252118",
+      "text": "Ja Dankeschön Universum",
+      "author": "Maria Ebersberger",
+      "create_time": 1752596115,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527793441339441922",
+      "text": "danke Universum",
+      "author": "Sabine",
+      "create_time": 1752701002,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535071457740440342",
+      "text": "Mein Buchtip: LICHTFADEN- Ein Buch der Erinnerung, erklärt genau wer und was wir sind . Wir haben nur eine Aufgabe hier ……. Auf Amazon erhältlich",
+      "author": "Isi Zahira",
+      "create_time": 1754395550,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527207390362911510",
+      "text": "ich bin liebe und Kraft 🥰",
+      "author": "Anneliese",
+      "create_time": 1752564559,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528518575003599638",
+      "text": "Dankeschön 🥰",
+      "author": "st",
+      "create_time": 1752869833,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529400311254745879",
+      "text": "ja Dankeschön liebes unversum 🙏🙏ich bin Licht und Liebe ❤️🍀🍀",
+      "author": "Time 🤍🌹",
+      "create_time": 1753075147,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527200646198723350",
+      "text": "Danke Universum",
+      "author": "Andreas Bathen",
+      "create_time": 1752562988,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527786111545246486",
+      "text": "Dankeschön liebes Universum 🙏🙏🙏",
+      "author": "EinzigeundBeste",
+      "create_time": 1752699295,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527117122847277846",
+      "text": "Liebe Danke Universum 🥰",
+      "author": "petra",
+      "create_time": 1752543615,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527265302154265366",
+      "text": "Ich habe dir für deine wundervollen und berührenden Worte zu danken 🙏 ! Sie geben mir Kraft, Hoffnung und Zuversicht. Es ist ein schönes Gefühl, zu wissen, dass man nie alleine ist 🥰♥️",
+      "author": "Melodie76",
+      "create_time": 1752578037,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529764795697316630",
+      "text": "Ich bin Glücklich den ich bin mir Bewusst wie mächtig meine Gedanken sind",
+      "author": "◉‿◉Ivan",
+      "create_time": 1753160026,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529973794459452182",
+      "text": "Danke Danke Danke et gratitude à toi..",
+      "author": "sursaut d'orgueil",
+      "create_time": 1753208653,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527259636089914134",
+      "text": "Ich bin Licht",
+      "author": "Rosalie Hierholzer",
+      "create_time": 1752576719,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529012588870730518",
+      "text": "ich bin Liebe Danke für die Führung",
+      "author": "Andrea Gietl",
+      "create_time": 1752984930,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527194470258459414",
+      "text": "Vielen Dank, ich bin bereit neue Energie zu empfangen und altes loszulassen. Ich fange neu an, danke liebes Universum. Ich vertraue, ich bin dankbar !",
+      "author": "glanzelena",
+      "create_time": 1752561556,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528323882748461846",
+      "text": "Danke lieber Gott,liebes Universum für all deine Segen, Liebe,Schutz, Führung und Frieden, Amen 🙏 ich sende euch Liebe und Licht ♥️💛💚💖",
+      "author": "Sakura_jenny_",
+      "create_time": 1752824517,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534883034812252950",
+      "text": "ja leutr eas gutea herz haben ich müchte helfen und die was schlechte herz haben ich müchte die lernen gut zu sein❤️",
+      "author": "Sejdi Sallahi",
+      "create_time": 1754351687,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527564852808008470",
+      "text": "Universum schick uns Kraft und Energie",
+      "author": "Luise Auböck",
+      "create_time": 1752647803,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527188669771612950",
+      "text": "Sei gesegnet, geliebt und geführt. Danke, Danke, Danke 🍀🦋🍀",
+      "author": "Leonie",
+      "create_time": 1752560215,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534364106451731222",
+      "text": "Liebe 🙏❤️🙏❤️Licht u Frieden für alle 😇😇",
+      "author": "Engel888222",
+      "create_time": 1754230858,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527478021164466946",
+      "text": "alhamdulillah 🌹",
+      "author": "Die stolze Kanakin",
+      "create_time": 1752627605,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7532971147097555734",
+      "text": "Jeder der das liest ist ein wunderbarer Mensch und wertvoll 😘❤️",
+      "author": "annettewiederstei",
+      "create_time": 1753906529,
+      "like_count": 4,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535185474316157718",
+      "text": "ja es ist schon komisch, wenn ich tiktoke wunder ich mich schon das es sich anfühlt als ob es auf mich zugeschnitten ist...",
+      "author": "dondelahtb2305",
+      "create_time": 1754422094,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527174814069555970",
+      "text": "Ich bin bereit Danke Universum",
+      "author": "Karla Anja",
+      "create_time": 1752557002,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527394094974632706",
+      "text": "Danke liebes Universum 🥰",
+      "author": "Sev Erin565",
+      "create_time": 1752608021,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527327151256584982",
+      "text": "Dankeschön liebes Universum . Ich bin bereit für neue Energie",
+      "author": "monika b",
+      "create_time": 1752592440,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531087873690714902",
+      "text": "ich liebe euch alle 🥰🥰🥰🥰🥰🥰",
+      "author": "lil Hoss",
+      "create_time": 1753468054,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527121223302578966",
+      "text": "Bin bereit loszulassen Danke Universum für Licht Liebe und positive Gedanken, Hoffnung Danke Universum 🙏🙏🙏🙏🙏",
+      "author": "SHACIRA",
+      "create_time": 1752544529,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529445454967603990",
+      "text": "Ich bin liebe ich bin licht danken Universum 🙏🙏🙏❤️❤️❤️",
+      "author": "lisaaaaaa",
+      "create_time": 1753085648,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7526993751961666326",
+      "text": "🙏❤️Ich bin bereit ❤️🙏Danke Universum 🙏❤️Liebe und Licht ❤️🙏",
+      "author": "Lydia Meier",
+      "create_time": 1752514810,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531626136423514902",
+      "text": "ich bin Licht🙏,ich bin Liebe❤️,ich bin Kraft 🙏🙏🙏🙏🙏🙏🙏",
+      "author": "Oma2224",
+      "create_time": 1753593419,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529240602727514902",
+      "text": "sooo schön gesprochen 🙏❤️danke lieber Gott unser Vater ❤️🍀🙏 🕊🐞danke liebes Universum🙏🍀❤️🐞🕊\ndanke liebe Engel🐞🕊🍀🙏❤️",
+      "author": "Laryme",
+      "create_time": 1753037944,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535122382081639190",
+      "text": "Danke für alle guten was ich empfinde.. schicke .. empfangen darf 🍀🍀🍀",
+      "author": "Betty  Grga Mimir",
+      "create_time": 1754407410,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527194529423164182",
+      "text": "Ich bin die Kraft ich bin liebe ich bin das wissen ich bin das Reichtum ich bin Licht und ich bin mein eigenes Schöpfer mein Leben dankbar an Allah 🤲💚🌹",
+      "author": "Emanette bilelim",
+      "create_time": 1752561570,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529275115285529366",
+      "text": "Ich bin liebe u ich bin Licht,wie jeder einzelne auf dieser Erde! Wir sind eine Menschheitsfamilie 🙏🥰🥰🥰 liebt euch u vergesst die Religionen🙏",
+      "author": "Bibi",
+      "create_time": 1753045981,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529275497940124438",
+      "text": "Seht euch einfach nur als Menschen❤️❤️",
+      "author": "Bibi",
+      "create_time": 1753046071,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7555188960097387286",
+      "text": "🙏💯🙏🙏🥰",
+      "author": "Klingenkeiler",
+      "create_time": 1759079520,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7553179730279957270",
+      "text": "🥰🍀",
+      "author": "kekejejebekeen",
+      "create_time": 1758611714,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7552281881111741206",
+      "text": "🙏🙏🙏",
+      "author": "Zarlacht Z",
+      "create_time": 1758402662,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551896237282263830",
+      "text": "❤️❤️❤️❤️🙏🙏🙏🙏🙏🙏",
+      "author": "tizianamancuso469",
+      "create_time": 1758312873,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551130660799709974",
+      "text": "🥰",
+      "author": "Gaby",
+      "create_time": 1758134620,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7549045527234921238",
+      "text": "❤️🙏❤",
+      "author": "Claudia Reitz",
+      "create_time": 1757649206,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7547484077055443734",
+      "text": "🍀",
+      "author": "marcodifuria996",
+      "create_time": 1757285597,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7543761400377115414",
+      "text": "❤️",
+      "author": "Nevaa",
+      "create_time": 1756418835,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541862342817710870",
+      "text": "🥰💖✨️💫🌟💛🤗🙏🏻🪷🧿",
+      "author": "🪬🧿💫🌟1111AnoNym7777🌟💫🧿🪬",
+      "create_time": 1755976675,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7537116047057666838",
+      "text": "🥰🥰🥰",
+      "author": "Honorata Lück",
+      "create_time": 1754871603,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7535721058939224854",
+      "text": "💖🙏🏻",
+      "author": "Monika",
+      "create_time": 1754546804,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534377050367591190",
+      "text": "🙂",
+      "author": "Eva",
+      "create_time": 1754233868,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533899055295693590",
+      "text": "❤️💯😇👍🔥",
+      "author": "bobby",
+      "create_time": 1754122585,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7533459357246669590",
+      "text": "🙏❣️",
+      "author": "veki⚛️❣️🙏🙂",
+      "create_time": 1754020249,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531683238638371606",
+      "text": "👌",
+      "author": "kaykrauseberlin",
+      "create_time": 1753606672,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7531231532502631190",
+      "text": "❤️",
+      "author": "Amrei Weitemeier",
+      "create_time": 1753501554,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529477558963454742",
+      "text": "🌈🍀🙌",
+      "author": "waldgunter7",
+      "create_time": 1753093121,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7529074381738803990",
+      "text": "🌹🌹🌹",
+      "author": "Maja🍀😺🍀",
+      "create_time": 1752999249,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7528519893306606338",
+      "text": "🙏🙏🙏❤️",
+      "author": "mariontsa",
+      "create_time": 1752870140,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527767975828407062",
+      "text": "🙏🙏🙏",
+      "author": "Joanna Dossouvi",
+      "create_time": 1752695075,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527763477412053782",
+      "text": "❤",
+      "author": "siwo313",
+      "create_time": 1752694029,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527575061805581078",
+      "text": "🤗🤲✨👍",
+      "author": "franzhellstern",
+      "create_time": 1752650161,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527196604416279318",
+      "text": "👍👍👍🙏🙏🙏💪💪💪💕💕💕",
+      "author": "user9270003350004",
+      "create_time": 1752562045,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527146345745941270",
+      "text": "👍🙏✌🙏👍",
+      "author": "Albena  & Versai",
+      "create_time": 1752550409,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527058961184965398",
+      "text": "👍",
+      "author": "jsjkfbs",
+      "create_time": 1752529997,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7527008320797868822",
+      "text": "🙏🙏🙏",
+      "author": "Mari Florea",
+      "create_time": 1752518207,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7568254162020172566",
+      "text": "❤",
+      "author": "lucid2453",
+      "create_time": 1762121501,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7549984799033934595",
+      "text": "🥰",
+      "author": "3720327499694",
+      "create_time": 1757867828,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534997277425926934",
+      "text": "🙏🙏🙏❤️🌹",
+      "author": "user7626673468473",
+      "create_time": 1754378283,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534783854998733590",
+      "text": "❤️🙏❤️",
+      "author": "Patrick",
+      "create_time": 1754328588,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7530235333246452502",
+      "text": "👍",
+      "author": "Nihed Dridi",
+      "create_time": 1753269549,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7534868175676703511",
+      "text": "Stimulierend 😅",
+      "author": "Thor Stone Gate",
+      "create_time": 1754348227,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7558909453566427907",
+      "text": "ahmendankè",
+      "author": "Johann Bruggersess",
+      "create_time": 1759945766,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7549081899744035606",
+      "text": "Zieh deine Mundwinkel hoch und freue dich einfach es ist nicht schwer oder ? 🙂🙃🙂",
+      "author": "Mr.Happiness",
+      "create_time": 1757657626,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}
