@@ -1,0 +1,309 @@
+{
+  "url": "https://www.tiktok.com/@petchannel89/video/7562123197361999111",
+  "crawled_at": "2025-12-15T17:35:18.735046Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "🪩#fyp #viral #xuhuong #mèo #pet ",
+    "author_url": "https://www.tiktok.com/@petchannel89",
+    "author_name": "Động Dog&Cat",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@petchannel89/video/7562123197361999111\" data-video-id=\"7562123197361999111\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@petchannel89\" href=\"https://www.tiktok.com/@petchannel89?refer=embed\">@petchannel89</a> <p>🪩<a title=\"fyp\" target=\"_blank\" href=\"https://www.tiktok.com/tag/fyp?refer=embed\">#fyp</a> <a title=\"viral\" target=\"_blank\" href=\"https://www.tiktok.com/tag/viral?refer=embed\">#viral</a> <a title=\"xuhuong\" target=\"_blank\" href=\"https://www.tiktok.com/tag/xuhuong?refer=embed\">#xuhuong</a> <a title=\"mèo\" target=\"_blank\" href=\"https://www.tiktok.com/tag/m%C3%A8o?refer=embed\">#mèo</a> <a title=\"pet\" target=\"_blank\" href=\"https://www.tiktok.com/tag/pet?refer=embed\">#pet</a> </p> <a target=\"_blank\" title=\"♬ nhạc nền - Bông💐 - Động Dog&Cat\" href=\"https://www.tiktok.com/music/nhạc-nền-Bông💐-7562123226416581392?refer=embed\">♬ nhạc nền - Bông💐 - Động Dog&Cat</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 768,
+    "thumbnail_url": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owra9YIT7yOVDvASii9vPIEa8QDMXPBBFAEPA~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=gEnA9EASq%2BE3VDTwvZZp%2B7jnij4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "petchannel89",
+    "embed_product_id": "7562123197361999111",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7562123197361999111",
+    "formats": [
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "download",
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooAy1RxIIZ7BAL178goQfADDTdD5CeGxIIwejU/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=2148&bt=1074&cs=0&ds=3&ft=-Csk_m7nPD12NuClZd-Uxl-vXY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=ZTs1NWU0NmU6Z2g7M2Q5ZUBpajgzNnY5cmUzNjMzODczNEAxMF8wYGBfNWMxL2AyXzZhYSM0ci82MmRrcW1hLS1kMTFzcw%3D%3D&btag=e000b8000&expire=1765992934&l=20251216013518FAB9101284923309A303&ply_type=2&policy=2&signature=9a5f75e6ddda507d8399990af2117fdb&tk=tt_chain_token",
+        "format_note": "watermarked",
+        "preference": -2,
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "dynamic_range": "SDR",
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1781372119; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"UE6fLnptGw42Q1FRQTHYDCZAEed5Mi0ZAeyFrP_IAKChRRjhPyavnLrcorWgAnEHYhhyGb5wBrrTWbjh9b_Xzp21J_0HJlja-ldoXCrLGT4Jf2eEARqT0dPwCX-7lNhpKvZ8lXUY5ZRbB4c=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1766684118",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@petchannel89/video/7562123197361999111"
+        },
+        "format": "download - unknown (watermarked)"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_967845-0",
+        "tbr": 967,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 1843019,
+        "width": 576,
+        "height": 768,
+        "url": "https://v16-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooAgDIwRoIdgDjPI1eyeCLD5fGaRIBQxUE8AxA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1890&bt=945&cs=0&ds=6&ft=-Csk_m7nPD12NuClZd-Uxl-vXY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=Zjc5Zjw2NmhlaTw2NjYzNkBpajgzNnY5cmUzNjMzODczNEBjLTAyMy5iNmIxMDIxNWEvYSM0ci82MmRrcW1hLS1kMTFzcw%3D%3D&btag=e000b8000&expire=1765992934&l=20251216013518FAB9101284923309A303&ply_type=2&policy=2&signature=571ad0714585cdcb7e7f035ceeeddd86&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x768",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.75,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1781372119; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"UE6fLnptGw42Q1FRQTHYDCZAEed5Mi0ZAeyFrP_IAKChRRjhPyavnLrcorWgAnEHYhhyGb5wBrrTWbjh9b_Xzp21J_0HJlja-ldoXCrLGT4Jf2eEARqT0dPwCX-7lNhpKvZ8lXUY5ZRbB4c=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1766684118",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@petchannel89/video/7562123197361999111"
+        },
+        "format": "h264_540p_967845-0 - 576x768"
+      },
+      {
+        "ext": "mp4",
+        "vcodec": "h264",
+        "acodec": "aac",
+        "format_id": "h264_540p_967845-1",
+        "tbr": 967,
+        "quality": 1,
+        "preference": -1,
+        "filesize": 1843019,
+        "width": 576,
+        "height": 768,
+        "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooAgDIwRoIdgDjPI1eyeCLD5fGaRIBQxUE8AxA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1890&bt=945&cs=0&ds=6&ft=-Csk_m7nPD12NuClZd-Uxl-vXY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=Zjc5Zjw2NmhlaTw2NjYzNkBpajgzNnY5cmUzNjMzODczNEBjLTAyMy5iNmIxMDIxNWEvYSM0ci82MmRrcW1hLS1kMTFzcw%3D%3D&btag=e000b8000&expire=1765992934&l=20251216013518FAB9101284923309A303&ply_type=2&policy=2&signature=571ad0714585cdcb7e7f035ceeeddd86&tk=tt_chain_token",
+        "protocol": "https",
+        "video_ext": "mp4",
+        "audio_ext": "none",
+        "resolution": "576x768",
+        "dynamic_range": "SDR",
+        "aspect_ratio": 0.75,
+        "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1781372119; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"UE6fLnptGw42Q1FRQTHYDCZAEed5Mi0ZAeyFrP_IAKChRRjhPyavnLrcorWgAnEHYhhyGb5wBrrTWbjh9b_Xzp21J_0HJlja-ldoXCrLGT4Jf2eEARqT0dPwCX-7lNhpKvZ8lXUY5ZRbB4c=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1766684118",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@petchannel89/video/7562123197361999111"
+        },
+        "format": "h264_540p_967845-1 - 576x768"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@petchannel89/video/7562123197361999111"
+    },
+    "channel": "Động Dog&Cat",
+    "channel_id": "MS4wLjABAAAAlq6Ewrxidpwgd6--Boifyzzf7W4Pulz_juLkZgLbgRqJM7af4YgrhFmkuziB6WbX",
+    "uploader": "petchannel89",
+    "uploader_id": "7558471998503601159",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAlq6Ewrxidpwgd6--Boifyzzf7W4Pulz_juLkZgLbgRqJM7af4YgrhFmkuziB6WbX",
+    "uploader_url": "https://www.tiktok.com/@petchannel89",
+    "track": "nhạc nền - Bông💐",
+    "artists": [
+      "Động Dog&Cat"
+    ],
+    "duration": 15,
+    "title": "🪩#fyp #viral #xuhuong #mèo #pet ",
+    "description": "🪩#fyp #viral #xuhuong #mèo #pet ",
+    "timestamp": 1760694016,
+    "view_count": 4781,
+    "like_count": 191,
+    "repost_count": 48,
+    "comment_count": 5,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/o0ESPawIvIPPiA4isBB8OAYrMAV2yDD5EQXFI~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=9skXqedl1YKahv9W2TfA00fbHns%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/owra9YIT7yOVDvASii9vPIEa8QDMXPBBFAEPA~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=gEnA9EASq%2BE3VDTwvZZp%2B7jnij4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osPIQlyVIArDDi8BEYlEMAFioKaPPSIOHwvAB~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=669JP4PT4eP%2BadKFyN5TWke6y0A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@petchannel89/video/7562123197361999111",
+    "webpage_url_basename": "7562123197361999111",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/osPIQlyVIArDDi8BEYlEMAFioKaPPSIOHwvAB~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=669JP4PT4eP%2BadKFyN5TWke6y0A%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "display_id": "7562123197361999111",
+    "fulltitle": "🪩#fyp #viral #xuhuong #mèo #pet ",
+    "duration_string": "15",
+    "upload_date": "20251017",
+    "artist": "Động Dog&Cat",
+    "epoch": 1765820119,
+    "ext": "mp4",
+    "vcodec": "h264",
+    "acodec": "aac",
+    "format_id": "h264_540p_967845-1",
+    "tbr": 967,
+    "quality": 1,
+    "preference": -1,
+    "filesize": 1843019,
+    "width": 576,
+    "height": 768,
+    "url": "https://v19-webapp-prime.tiktok.com/video/tos/alisg/tos-alisg-pve-0037c001/ooAgDIwRoIdgDjPI1eyeCLD5fGaRIBQxUE8AxA/?a=1988&bti=ODszNWYuMDE6&ch=0&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C&cv=1&br=1890&bt=945&cs=0&ds=6&ft=-Csk_m7nPD12NuClZd-Uxl-vXY6e3wv25HcAp&mime_type=video_mp4&qs=0&rc=Zjc5Zjw2NmhlaTw2NjYzNkBpajgzNnY5cmUzNjMzODczNEBjLTAyMy5iNmIxMDIxNWEvYSM0ci82MmRrcW1hLS1kMTFzcw%3D%3D&btag=e000b8000&expire=1765992934&l=20251216013518FAB9101284923309A303&ply_type=2&policy=2&signature=571ad0714585cdcb7e7f035ceeeddd86&tk=tt_chain_token",
+    "protocol": "https",
+    "video_ext": "mp4",
+    "audio_ext": "none",
+    "resolution": "576x768",
+    "dynamic_range": "SDR",
+    "aspect_ratio": 0.75,
+    "cookies": "_ttp=34wyWDXvxmF602Htsl0oDR6JCNq; Domain=.tiktok.com; Path=/; Secure; Expires=1795834961; tt_csrf_token=A6kVUZcK-ro_L6C62WbmQwfALArHC4HF-pTM; Domain=.tiktok.com; Path=/; Secure; tt_chain_token=\"bIQCOyoJbQ000pox+IBxHQ==\"; Domain=.tiktok.com; Path=/; Secure; Expires=1781372119; passport_csrf_token=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; passport_csrf_token_default=3e2175a5e77e24a26515b4e6f7b50740; Domain=.tiktok.com; Path=/; Secure; Expires=1767674732; s_v_web_id=verify_mhodh7s9_f6H7RhcI_zN3b_4VwP_AxSW_OnDGZUzFJBgu; Domain=.tiktok.com; Path=/; Secure; multi_sids=7569810985282094098%3Aade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; cmpl_token=AgQQAPOFF-RO0rkzsFuCpB0r82zGAoWNv4UOYKOhVw; Domain=.tiktok.com; Path=/; Secure; Expires=1767677004; sid_guard=ade59ff71c0c0e5cc0fe1f23772b37c1%7C1762493004%7C15552000%7CWed%2C+06-May-2026+05%3A23%3A24+GMT; Domain=.tiktok.com; Path=/; Secure; Expires=1793597004; uid_tt=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; uid_tt_ss=ac0557b89a0248004ba199e09ced5e656aa70515a78deb5b62cd048a83d31edc; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_tt=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sessionid_ss=ade59ff71c0c0e5cc0fe1f23772b37c1; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; tt_session_tlb_tag=sttt%7C5%7CreWf9xwMDlzA_h8jdys3wf________-ji4fpfjT0V1140MZnLSHWNBnXgRLIZvw1fxmxRRmvw7s%3D; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; sid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; ssid_ucp_v1=1.0.0-KDYzMTBmY2U1ODFjN2FkYjNmOGUwYWE1YjcwYTk2N2FkYzhhMjMxMTEKIQiSiNvUwN_XhmkQzIS2yAYYswsgDDC1vrXIBjgIQBJIBBADGgJteSIgYWRlNTlmZjcxYzBjMGU1Y2MwZmUxZjIzNzcyYjM3YzE; Domain=.tiktok.com; Path=/; Secure; Expires=1778045004; store-country-code=vn; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-code-src=uid; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; tt-target-idc-sign=X46gRkvSgmGWHXja-gzeN1KwdE4cBtH3zFXAhG3-BtWzH-YdFZEQct_uBwMTYtfjrNxqy_GJyyU9vrDSU9xBVMhZYzNMj8Yj-vL3ZdUiBlJfwT_RyqsMw9cBp-UMAurlaLw7iKPn1sOB_2Mr4OgfdC72r1rSon8aLN6RpZxfHlcPgzQDAzxGLO1WCcDi3Grn071JYzpIP3H4Uj5tKf5cHSGRn8O-z3hwE-QaTWdxP_Dv9m7mqKXg9LpTBaiRQ0apSWQMga4QK4y5B4To6e0pZD8oaixa2PVdqGeLesDSGOjsT94m5Qtsw2dBLvi1Cl2PDtg34s_m8F2kwZanwVGyMx5JeHbhEA1jVyuFTZ4wmF-6mQMCj4IoVYUBqf6cEHJl1nz6p3h7j4AFPdhgbDj7nwn0zI1o0xP8WGmE_kn9e53ehBx6IU-iOQJ-JXc_4e8_1n_tP7nZqBQAfB5B-a8mW0iUyH2XBzKKIebPZ8u02eRKDVUUZnutFcgBXjbQW4hW; Domain=.tiktok.com; Path=/; Expires=1794029034; ttwid=1%7CyHVVoWeMmc-3HMQzGeLAWTKsoEmn5lOxHLhrceV4g3w%7C1762493033%7Caa33d6157603beb187ae2fd554015cf463e69a9385fbc54d7a3e7a848a9df8fc; Domain=.tiktok.com; Path=/; Secure; Expires=1794029034; store-idc=alisg; Domain=.tiktok.com; Path=/; Expires=1794029034; store-country-sign=MEIEDGNAqWqR2a0er4zjeAQgMuurAVNuf3SOpc_lCsUS6OVOTEMJPGY7fje3VCShvuYEEKSUWUChT9xgz3oinfsoj_8; Domain=.tiktok.com; Path=/; Expires=1794029034; odin_tt=fdb338ea9924b66e069cd3826b52e91602d6c7c70440ed4a45253d1bdcb67e7b33079c363923c1afe01be7d6a0aed5f094b6d26ad61219129e2c4adf8ef71b17c80e515b61a158847d9b8a0bdf5ce20d; Domain=.tiktok.com; Path=/; Expires=1794029677; msToken=\"UE6fLnptGw42Q1FRQTHYDCZAEed5Mi0ZAeyFrP_IAKChRRjhPyavnLrcorWgAnEHYhhyGb5wBrrTWbjh9b_Xzp21J_0HJlja-ldoXCrLGT4Jf2eEARqT0dPwCX-7lNhpKvZ8lXUY5ZRbB4c=\"; Domain=.tiktok.com; Path=/; Secure; Expires=1766684118",
+    "format": "h264_540p_967845-1 - 576x768",
+    "_type": "video",
+    "_version": {
+      "version": "2025.12.08",
+      "release_git_head": "7a52ff29d86efc8f3adeba977b2009ce40b8e52e",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": [
+    {
+      "cid": "7562151300026090241",
+      "text": "ủa cam 😼",
+      "author": "dN",
+      "create_time": 1760700847,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7562123197361999111",
+          "cid": "7562158377523331848",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760702208,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562151300026090241",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "🐱 said: 😎",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/c5d162975bc6f3bc4417535533ef1a6a",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c5d162975bc6f3bc4417535533ef1a6a~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=3cb51120&x-expires=1765904400&x-signature=DrQ0Ptvf2aSiLkq3utL1HdKsbeg%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c5d162975bc6f3bc4417535533ef1a6a~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=3b1a89fc&x-expires=1765904400&x-signature=7CghlH5T9pQlipH2EWDdi7gb6xM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c5d162975bc6f3bc4417535533ef1a6a~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=372b485f&x-expires=1765904400&x-signature=hRUdGO1QC2QDP5iAdvvqa22gnFA%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Động Dog&Cat",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAlq6Ewrxidpwgd6--Boifyzzf7W4Pulz_juLkZgLbgRqJM7af4YgrhFmkuziB6WbX",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7558471998503601159",
+            "unique_id": "petchannel89",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7565764897017430802",
+      "text": "😂😂😂",
+      "author": "Pnga90",
+      "create_time": 1761541922,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7564876840634204949",
+      "text": "@𝑩𝒂́𝒏𝒉 𝑯𝒆̣ 🎀",
+      "author": "ThuHa1207",
+      "create_time": 1761335164,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562124795354727175",
+      "text": "Bè ưi, tui thấy ngừi mún nhảy là bè mới đúm 😂😂",
+      "author": "Thảo Gấu 🪢",
+      "create_time": 1760694389,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

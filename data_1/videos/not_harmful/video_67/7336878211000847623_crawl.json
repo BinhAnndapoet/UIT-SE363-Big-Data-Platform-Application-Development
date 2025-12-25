@@ -1,0 +1,120 @@
+{
+  "url": "https://www.tiktok.com/@nguyen_hue8994/video/7336878211000847623",
+  "crawled_at": "2025-12-15T17:16:13.274006Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "Light led 💡🌌🌆🎇 #denled #trangtri #xuhuong #gaming #tiktok ",
+    "author_url": "https://www.tiktok.com/@nguyen_hue8994",
+    "author_name": "Jesko",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@nguyen_hue8994/video/7336878211000847623\" data-video-id=\"7336878211000847623\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@nguyen_hue8994\" href=\"https://www.tiktok.com/@nguyen_hue8994?refer=embed\">@nguyen_hue8994</a> <p>Light led 💡🌌🌆🎇 <a title=\"denled\" target=\"_blank\" href=\"https://www.tiktok.com/tag/denled?refer=embed\">#denled</a> <a title=\"trangtri\" target=\"_blank\" href=\"https://www.tiktok.com/tag/trangtri?refer=embed\">#trangtri</a> <a title=\"xuhuong\" target=\"_blank\" href=\"https://www.tiktok.com/tag/xuhuong?refer=embed\">#xuhuong</a> <a title=\"gaming\" target=\"_blank\" href=\"https://www.tiktok.com/tag/gaming?refer=embed\">#gaming</a> <a title=\"tiktok\" target=\"_blank\" href=\"https://www.tiktok.com/tag/tiktok?refer=embed\">#tiktok</a> </p> <a target=\"_blank\" title=\"♬ 你是我唯一的执着（男生版） - 曾庆浪\" href=\"https://www.tiktok.com/music/你是我唯一的执着男生版-6843598808245422094?refer=embed\">♬ 你是我唯一的执着（男生版） - 曾庆浪</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ooeDKeGHLTdlopjk0jD8ACKIxWaQgoEeAL6daI~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=GpDi1Dw5CGEctJGuca52RX00rwo%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "nguyen_hue8994",
+    "embed_product_id": "7336878211000847623",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7336878211000847623",
+    "formats": [
+      {
+        "format_id": "audio",
+        "url": "https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-ve-2774/e3ad0dc53ef8427b976ec3b5288d4fe6?lk3s=08d74b56&x-expires=1765840573&x-signature=9HpsM0HveMHyVwm3Gn%2Bsdlv2Jvo%3D",
+        "ext": "m4a",
+        "acodec": "aac",
+        "vcodec": "none",
+        "protocol": "https",
+        "audio_ext": "m4a",
+        "video_ext": "none",
+        "vbr": 0,
+        "resolution": "audio only",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@nguyen_hue8994/video/7336878211000847623"
+        },
+        "format": "audio - audio only"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@nguyen_hue8994/video/7336878211000847623"
+    },
+    "channel": "Jesko",
+    "channel_id": "MS4wLjABAAAAAJjIKomoIX_DW8NNPz404fAXTgbqGPBEbB_6dv1Azj6mgv9EuOOMSRCnYd3Arm18",
+    "uploader": "nguyen_hue8994",
+    "uploader_id": "6991086549198980098",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAAJjIKomoIX_DW8NNPz404fAXTgbqGPBEbB_6dv1Azj6mgv9EuOOMSRCnYd3Arm18",
+    "uploader_url": "https://www.tiktok.com/@nguyen_hue8994",
+    "track": "你是我唯一的执着（男生版）",
+    "artists": [
+      "曾庆浪"
+    ],
+    "duration": 26,
+    "title": "Light led 💡🌌🌆🎇 #denled #trangtri #xuhuong #gaming #tiktok ",
+    "description": "Light led 💡🌌🌆🎇 #denled #trangtri #xuhuong #gaming #tiktok ",
+    "timestamp": 1708250083,
+    "view_count": 386,
+    "like_count": 5,
+    "repost_count": 0,
+    "comment_count": 0,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/192a834b57f14ccfaf80c1dbfe0f6ccd_1708250091~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=rRK0HChfYnxerQodsLKwIcH8W8k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p9-sign-sg.tiktokcdn.com/tos-alisg-p-0037/ooeDKeGHLTdlopjk0jD8ACKIxWaQgoEeAL6daI~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=5rXNUFz3P0HTociQCwMdu4%2BGnak%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c23fde1f9fd4d46a9063310ab284af3_1708250090~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=ixbrVwIJB1%2FZhT1AUmZOd%2FIQdrU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@nguyen_hue8994/video/7336878211000847623",
+    "webpage_url_basename": "7336878211000847623",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/5c23fde1f9fd4d46a9063310ab284af3_1708250090~tplv-tiktokx-origin.image?dr=14575&x-expires=1765990800&x-signature=ixbrVwIJB1%2FZhT1AUmZOd%2FIQdrU%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "display_id": "7336878211000847623",
+    "fulltitle": "Light led 💡🌌🌆🎇 #denled #trangtri #xuhuong #gaming #tiktok ",
+    "duration_string": "26",
+    "upload_date": "20240218",
+    "artist": "曾庆浪",
+    "epoch": 1765818974,
+    "format_id": "audio",
+    "url": "https://sf16-music-sign.tiktokcdn.com/obj/tos-alisg-ve-2774/e3ad0dc53ef8427b976ec3b5288d4fe6?lk3s=08d74b56&x-expires=1765840573&x-signature=9HpsM0HveMHyVwm3Gn%2Bsdlv2Jvo%3D",
+    "ext": "m4a",
+    "acodec": "aac",
+    "vcodec": "none",
+    "protocol": "https",
+    "audio_ext": "m4a",
+    "video_ext": "none",
+    "vbr": 0,
+    "resolution": "audio only",
+    "format": "audio - audio only",
+    "_type": "video",
+    "_version": {
+      "version": "2025.12.08",
+      "release_git_head": "7a52ff29d86efc8f3adeba977b2009ce40b8e52e",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": []
+}

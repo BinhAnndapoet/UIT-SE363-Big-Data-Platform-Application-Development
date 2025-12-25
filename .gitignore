@@ -1,0 +1,9 @@
+# Logs
+logger/
+logs/
+*.log
+
+# OS / editor
+.DS_Store
+__pycache__/
+*.pyc

@@ -1,0 +1,901 @@
+{
+  "url": "https://www.tiktok.com/@chaellzi/video/7562337291163815184",
+  "crawled_at": "2025-12-16T06:52:53.889447Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "",
+    "author_url": "https://www.tiktok.com/",
+    "author_name": "@",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/\" data-video-id=\"7562337291163815184\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@\" href=\"https://www.tiktok.com/?refer=embed\">@</a> <p></p> <a target=\"_blank\" title=\"♬  -\" href=\"https://www.tiktok.com/?refer=embed\">♬  - </a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 0,
+    "thumbnail_height": 0,
+    "thumbnail_url": "",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "",
+    "embed_product_id": "7562337291163815184",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7562337291163815184: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+  "comments": [
+    {
+      "cid": "7562340454625739538",
+      "text": "me after not drinking for four (4) days 💔",
+      "author": "123456789012345gwen",
+      "create_time": 1760744615,
+      "like_count": 57,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7562743648258212609",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760838486,
+          "digg_count": 1,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562340454625739538",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "real tbh",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970",
+              "url_list": [
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=83eed0c3&x-expires=1765951200&x-signature=nWGVnERhnKLboaZaoL1%2BqQGkNp0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=7367bf10&x-expires=1765951200&x-signature=XYRx3vCUIDCDjCvmkCip2HLeu1U%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=2a4080c4&x-expires=1765951200&x-signature=iVad9UL5bj6Mn7g1BZlpYmkD82o%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "chelsy",
+            "platform_sync_info": null,
+            "predicted_age_group": "3",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA9UDKKZ8hxgVidVbythZ9PTmrqbfCi1sqbT7JZJA8-_3A8t0PMgN14QJ7q5kCfQNe",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7133604725111653381",
+            "unique_id": "chaellzi",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7573148646520570644",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1763261095,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562340454625739538",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "Me drinking rn- im sorryyy",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-maliva-avt-0068/fc99504d80b6bb32bdbcf17fd2400ffb",
+              "url_list": [
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc99504d80b6bb32bdbcf17fd2400ffb~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=31786331&x-expires=1765951200&x-signature=2ZyaNr%2BQCer0g4sSZmBT8KKOOes%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/fc99504d80b6bb32bdbcf17fd2400ffb~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=3313bd0d&x-expires=1765951200&x-signature=smjpxEyonZsskZGslpZDtE%2BFTgw%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "fw_spamzz.20",
+            "platform_sync_info": null,
+            "predicted_age_group": "3",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAEF9uctqsaNrqBlhup3nfuYKBH0zoDnJzAztZTxgLhwUt6t7u3BdZR_XUi29VGkbk",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "6902801564537914369",
+            "unique_id": "fw_spamzz.20",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7574991807944672055",
+      "text": "I HAVENT HAD ANY IN 2 WEEKS 😭",
+      "author": "☆ ɴᴀᴛʜᴀʟɪᴇ ☆",
+      "create_time": 1763690243,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563150205656007437",
+      "text": "At the job👨‍🔧",
+      "author": "Rubbertoe",
+      "create_time": 1760933169,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563297580412125959",
+      "text": "Me too twin",
+      "author": "PEDGEON",
+      "create_time": 1760967447,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562370879217648414",
+      "text": "",
+      "author": "デビッド",
+      "create_time": 1760751694,
+      "like_count": 93,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571815796561855248",
+      "text": "",
+      "author": "yaya",
+      "create_time": 1762950751,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562409533750952717",
+      "text": "counting the days till the monthly kbbq + soju tower",
+      "author": "dav",
+      "create_time": 1760760704,
+      "like_count": 4,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562431328998687519",
+      "text": "Just 15 more days 😭",
+      "author": "Zane",
+      "create_time": 1760765785,
+      "like_count": 4,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7575100016755311368",
+      "text": "literally",
+      "author": "sosickofally",
+      "create_time": 1763715420,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562429682618188558",
+      "text": "😮‍💨😮‍💨",
+      "author": "Mark🌙",
+      "create_time": 1760765407,
+      "like_count": 18,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562338283997741832",
+      "text": "2 more weeks",
+      "author": "lia",
+      "create_time": 1760744106,
+      "like_count": 8,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562362932458832658",
+      "text": "Real",
+      "author": "alyza",
+      "create_time": 1760749844,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563949890536981278",
+      "text": "Booze is bad",
+      "author": "SangxRaven",
+      "create_time": 1761119439,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574678452872479501",
+      "text": "",
+      "author": "🥀roseolex🥀",
+      "create_time": 1763617296,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7572041894089343752",
+      "text": "set na",
+      "author": "uno",
+      "create_time": 1763003407,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562655879645414158",
+      "text": "Sober October doing a number on me 😔",
+      "author": "Emerson Sorto",
+      "create_time": 1760818052,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562404582481216269",
+      "text": "Sum real shit was just said👌",
+      "author": "neverwasherelol2",
+      "create_time": 1760759553,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562344953565692693",
+      "text": "",
+      "author": "duemont",
+      "create_time": 1760745658,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562504107825316630",
+      "text": "@kajuska_",
+      "author": "fukii💋",
+      "create_time": 1760782715,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7577512992658080523",
+      "text": "@JXNZ 🎰.",
+      "author": "murddaa_kam",
+      "create_time": 1764277238,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574392987603239735",
+      "text": "🥰😁",
+      "author": "Social_sipper",
+      "create_time": 1763550874,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574293637036737300",
+      "text": "🥰🥰🥰",
+      "author": "•",
+      "create_time": 1763527682,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562338300431844114",
+      "text": "unless u come over now",
+      "author": "lia",
+      "create_time": 1760744114,
+      "like_count": 1,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7562349914140558097",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760746836,
+          "digg_count": 1,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562338300431844114",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "ugh i wish bae",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=7367bf10&x-expires=1765951200&x-signature=XYRx3vCUIDCDjCvmkCip2HLeu1U%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=83eed0c3&x-expires=1765951200&x-signature=nWGVnERhnKLboaZaoL1%2BqQGkNp0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=d1eb0364&x-expires=1765951200&x-signature=a2bvFpNHMMt%2Bk7LQ933mwukU170%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "chelsy",
+            "platform_sync_info": null,
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA9UDKKZ8hxgVidVbythZ9PTmrqbfCi1sqbT7JZJA8-_3A8t0PMgN14QJ7q5kCfQNe",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7133604725111653381",
+            "unique_id": "chaellzi",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7571256141825540878",
+      "text": "tomorrow’s day one no bottle 😞",
+      "author": "VLives",
+      "create_time": 1762820460,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7578581005797737236",
+      "text": "me and my whiskey",
+      "author": "爱",
+      "create_time": 1764525915,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7577618881788510984",
+      "text": "i want red wine 😔",
+      "author": "⫍ ⃢👁ܫ👁⃢ ⫎",
+      "create_time": 1764301890,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563945887774655239",
+      "text": "www",
+      "author": "David",
+      "create_time": 1761118400,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562719966118937365",
+      "text": "Halloweekend is comin twin 😝🍻",
+      "author": "Selwyn 🇵🇭",
+      "create_time": 1760832976,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562700301682574110",
+      "text": "Bottle in my car as we speak",
+      "author": "Bento_box",
+      "create_time": 1760828399,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562689884792750868",
+      "text": "What if I crave you? 😁🫰",
+      "author": "Idiot sandwich",
+      "create_time": 1760825976,
+      "like_count": 0,
+      "reply_count": 3,
+      "replies": [
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7562693508902077201",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760826840,
+          "digg_count": 1,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": true,
+          "label_list": [
+            {
+              "text": "Creator",
+              "type": 1
+            }
+          ],
+          "label_text": "Creator",
+          "label_type": 1,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562689884792750868",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "dont u have a gf😭😭😭😭",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=7367bf10&x-expires=1765951200&x-signature=XYRx3vCUIDCDjCvmkCip2HLeu1U%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=83eed0c3&x-expires=1765951200&x-signature=nWGVnERhnKLboaZaoL1%2BqQGkNp0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/956c4ec47dc8daa9d0daf52614046970~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=d1eb0364&x-expires=1765951200&x-signature=a2bvFpNHMMt%2Bk7LQ933mwukU170%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "chelsy",
+            "platform_sync_info": null,
+            "predicted_age_group": "3",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA9UDKKZ8hxgVidVbythZ9PTmrqbfCi1sqbT7JZJA8-_3A8t0PMgN14QJ7q5kCfQNe",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7133604725111653381",
+            "unique_id": "chaellzi",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7563128158088069906",
+          "collect_stat": 0,
+          "comment_language": "un",
+          "comment_post_item_ids": null,
+          "create_time": 1760928007,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": [
+            {
+              "crop_url": {
+                "height": 1275,
+                "uri": "tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616",
+                "url_list": [
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-medium.image?dr=8569&refresh_token=09f166bf&x-expires=1797400800&x-signature=no4NaDLo4O1BuPsCn1Zl1%2Bfmyhw%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-medium.image?dr=8569&refresh_token=ccce1db8&x-expires=1797400800&x-signature=bpNFh8OjLTJbVj8fu5iYH5GFM0c%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-medium.jpeg?dr=8569&refresh_token=cf9fe782&x-expires=1797400800&x-signature=mI08k3COW3swN7%2F4r2ARzGdao8Y%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my"
+                ],
+                "url_prefix": null,
+                "width": 1284
+              },
+              "origin_url": {
+                "height": 1275,
+                "uri": "tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616",
+                "url_list": [
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-origin.image?dr=8569&refresh_token=ec808dcc&x-expires=1797400800&x-signature=6bjj4yJLDPzULwJ9xO5CeRW6XqM%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-origin.image?dr=8569&refresh_token=cc2f8dd6&x-expires=1797400800&x-signature=Ibdw8uwNn1f%2BRkk9FBvHAI5vQkA%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/b51b6feadb7346ae852819e6ea258616~tplv-jj85edgx6n-image-origin.jpeg?dr=8569&refresh_token=e49837da&x-expires=1797400800&x-signature=ZL5C2LqPFy%2B5zMTfzi8B%2FBoivmg%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my"
+                ],
+                "url_prefix": null,
+                "width": 1284
+              }
+            }
+          ],
+          "is_author_digged": false,
+          "is_comment_translatable": false,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562689884792750868",
+          "reply_to_nickname": "chelsy",
+          "reply_to_reply_id": "7562693508902077201",
+          "reply_to_userid": "7133604725111653381",
+          "reply_to_username": "chaellzi",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/a93dc5f016fd36ef31243e58bb38bfa6",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a93dc5f016fd36ef31243e58bb38bfa6~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=d512e42d&x-expires=1765951200&x-signature=wfMPuCEKifrjUvuR9FZwoqiLM%2B4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a93dc5f016fd36ef31243e58bb38bfa6~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=29905446&x-expires=1765951200&x-signature=rqWvibC%2BO%2Blq%2FnmmpEXgx9PkS0g%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/a93dc5f016fd36ef31243e58bb38bfa6~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f426ed6a&x-expires=1765951200&x-signature=lrxW0bPz3ss3mX%2FAdeXo48Po2wQ%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "🥷rd",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAtv7ZRERS5tffj2tcPeLSndV7jqxjXYorB9qIGiKQrHmy30XrMe05Gd6kdj6KDpLC",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7328536515105244165",
+            "unique_id": "jittleyute1",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7562337291163815184",
+          "cid": "7562694094621000469",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760826972,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": [
+            {
+              "crop_url": {
+                "height": 280,
+                "uri": "tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460",
+                "url_list": [
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-medium.image?dr=8569&refresh_token=6790091e&x-expires=1797400800&x-signature=1%2F3xacszHCfcaXIuMMSuateNdGY%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-medium.image?dr=8569&refresh_token=c205306b&x-expires=1797400800&x-signature=vuLLqFdm2rjzFewJwXuhRBmH%2B%2F4%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-medium.jpeg?dr=8569&refresh_token=f019dce2&x-expires=1797400800&x-signature=JWPRYQ%2BAKwAumAEHarpLZlVrWtA%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my"
+                ],
+                "url_prefix": null,
+                "width": 366
+              },
+              "origin_url": {
+                "height": 280,
+                "uri": "tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460",
+                "url_list": [
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-origin.image?dr=8569&refresh_token=7b96d5db&x-expires=1797400800&x-signature=OxKwRHaCRShrwDraT3SF27odgdk%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p16-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-origin.image?dr=8569&refresh_token=c7bcc82b&x-expires=1797400800&x-signature=%2F1tIZsLvY6oKAVLA3%2FxnlZX04rs%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my",
+                  "https://p19-comment-sign-sg.tiktokcdn.com/tos-alisg-i-zt8igodiya-sg/33a2af7dcbb844c7a866a3447e422460~tplv-jj85edgx6n-image-origin.jpeg?dr=8569&refresh_token=6c41a6f0&x-expires=1797400800&x-signature=iYTFTscpbdENBt06JE9aWxXAnfE%3D&t=67a6c45e&ps=a0626fcd&shp=ff37627b&shcp=ff37627b&idc=my"
+                ],
+                "url_prefix": null,
+                "width": 366
+              }
+            }
+          ],
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": true,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7562689884792750868",
+          "reply_to_nickname": "chelsy",
+          "reply_to_reply_id": "7562693508902077201",
+          "reply_to_userid": "7133604725111653381",
+          "reply_to_username": "chaellzi",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 11,
+          "stick_position": 0,
+          "text": "Nah but it could be you 👀",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/7e7002dba8c62cfb19bcdbeac9be2674",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7e7002dba8c62cfb19bcdbeac9be2674~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=94838e29&x-expires=1765951200&x-signature=3oKeFk9XqiRoL5zU6oG5jeIpGbs%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7e7002dba8c62cfb19bcdbeac9be2674~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=3eb22df1&x-expires=1765951200&x-signature=VdXv8mUV1L7vVukmjyYh6yw23Aw%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/7e7002dba8c62cfb19bcdbeac9be2674~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=a0242fbb&x-expires=1765951200&x-signature=v19HOAymJHf0xeTOrwJtVZN0emY%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Idiot sandwich",
+            "platform_sync_info": null,
+            "predicted_age_group": "-1",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAA6N5VxdVKJV0SpC_lJabZKUoxUIk9C8x28SyhhQM9qaGPIGzDC1JdQFSc-xS7mDCI",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7005356819124438022",
+            "unique_id": "waddlebefliyn",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7562394935968072456",
+      "text": "me 2 hun",
+      "author": "angel",
+      "create_time": 1760757294,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563443775947916045",
+      "text": "i got pink whitney and buzzball in my car😛",
+      "author": "Leo🇵🇭🇨🇳",
+      "create_time": 1761001493,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563103334534693646",
+      "text": "real ( i was just drunk 5 hours ago)",
+      "author": "Deepinyojawz",
+      "create_time": 1760922229,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562735119523660558",
+      "text": "Alcohol is craving you too",
+      "author": "GLOOM",
+      "create_time": 1760836510,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562528823833936653",
+      "text": "alcohol misses u girl what are u doing",
+      "author": "dak",
+      "create_time": 1760788528,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7562407542355329800",
+      "text": "@Gregory please, i can’t be the only one doing a tactical in the toilet next week",
+      "author": "Jason Phung",
+      "create_time": 1760760226,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

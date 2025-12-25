@@ -60,7 +60,7 @@ OUTPUT_CSV = os.path.join(CRAWL_DIR, "tiktok_links.csv")
 RISKY_HASHTAGS = [
     # 1. Nội dung nhạy cảm / Gợi dục (Sexual / Suggestive)
     "sexy", "bikini", "body", "nhaycam", "18plus", "gáixinh", "gai18", 
-    "lingerie", "kiss", "flirt", "seductive",
+    "lingerie", "kiss", "flirt", "seductive", "sex"
     
     # 2. Bạo lực / Tội phạm / Chất kích thích (Violence / Crime / Drugs)
     "bạo_lực", "đánh_nhau", "phóng_lợn", "fight", "streetfight", # Bạo lực (Thêm TA)

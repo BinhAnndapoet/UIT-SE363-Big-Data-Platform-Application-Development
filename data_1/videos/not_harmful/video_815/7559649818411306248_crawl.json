@@ -1,0 +1,755 @@
+{
+  "url": "https://www.tiktok.com/@neji.tech/video/7559649818411306248",
+  "crawled_at": "2025-12-16T05:26:32.867238Z",
+  "oembed": null,
+  "yt_dlp_error": "ERROR: [TikTok] 7559649818411306248: Video not available, status code 100004; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+  "comments": [
+    {
+      "cid": "7559989116936422165",
+      "text": "b650 socket gì vậy shop",
+      "author": "Cương",
+      "create_time": 1760197141,
+      "like_count": 1,
+      "reply_count": 2,
+      "replies": [
+        {
+          "aweme_id": "7559649818411306248",
+          "cid": "7559992771180856081",
+          "collect_stat": 0,
+          "comment_language": "vi",
+          "comment_post_item_ids": null,
+          "create_time": 1760197991,
+          "digg_count": 1,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7559989116936422165",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "am5 nha bn",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 1,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/94fc6fb475806246e80ee72dc2badbff",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94fc6fb475806246e80ee72dc2badbff~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=61c38561&x-expires=1765947600&x-signature=losmEj7FfJQ8VCvgiVbeplXIMl0%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94fc6fb475806246e80ee72dc2badbff~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=3107bd95&x-expires=1765947600&x-signature=m0N7y8CeQg%2FQuHeR8TudZMAa6Xg%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/94fc6fb475806246e80ee72dc2badbff~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=f28d8689&x-expires=1765947600&x-signature=JSS%2FJRe%2FPpJGKqPQZI3ZYjfT4UM%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Nguyên Sr",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAATqX7VeS9v3mFeLh5pNRxdqNu0yCBQF9rUMtbx7Zhnsb70eeEH3x3fSnwap-bUVQ1",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7007668055519527962",
+            "unique_id": "rodkhoinguyen",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        },
+        {
+          "aweme_id": "7559649818411306248",
+          "cid": "7561419294611309332",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1760530133,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7559989116936422165",
+          "reply_to_nickname": "Nguyên Sr",
+          "reply_to_reply_id": "7559992771180856081",
+          "reply_to_userid": "7007668055519527962",
+          "reply_to_username": "rodkhoinguyen",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "thanks",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/c7ae0bc286f9dfc572b38baad50bd20f",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c7ae0bc286f9dfc572b38baad50bd20f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=fe9f5a13&x-expires=1765947600&x-signature=9FerNFmVFFZM1xfUWtnLORc%2FWm4%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c7ae0bc286f9dfc572b38baad50bd20f~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=451b1363&x-expires=1765947600&x-signature=Ze9wbUKOt5aWRyr7TdQfJVNKrjw%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c7ae0bc286f9dfc572b38baad50bd20f~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=6646a3c4&x-expires=1765947600&x-signature=FxzQhUVLSeZ3EHBk11SvQI%2BJ9tc%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "Cương",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAvAM_8OEpblPFSI07KdRe_qPzCiaf8qKH4cwmZlVnthtQNFJk1o2DwaGt1JG1fHMt",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7324700298373989394",
+            "unique_id": "hi.khuat.duy",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7581406893215843090",
+      "text": "có cặp ram 2x16gb ddr4 ko shop ơi",
+      "author": "John",
+      "create_time": 1765183868,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7583793603131278101",
+      "text": "nhắn có rep đâu tr",
+      "author": "🫥",
+      "create_time": 1765739560,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560160633863193352",
+      "text": "cái shop này nhắn trên toptop k rep luôn mà 🥲",
+      "author": "Moji",
+      "create_time": 1760237073,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7573336989443130113",
+      "text": "có ram 8gb ddr4 2400 ko",
+      "author": "mèo béo",
+      "create_time": 1763304938,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7575839026684527378",
+      "text": "Ở hn mua đx ko a",
+      "author": "Phan Minh Hải",
+      "create_time": 1763887489,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571716268316377857",
+      "text": "còn ssd không ạ",
+      "author": "Ngọc Minh",
+      "create_time": 1762927586,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565394150809322248",
+      "text": "3080 còn ko shop?",
+      "author": "Lâm Lê",
+      "create_time": 1761455596,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565020195070051090",
+      "text": "Ssd còn k ạ, em đã ib",
+      "author": "booghetanhanh",
+      "create_time": 1761368530,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560918598622069521",
+      "text": "3080 rog còn k vậy ạ",
+      "author": "Sơn Thanh",
+      "create_time": 1760413557,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560561844046742292",
+      "text": "Ram DR mấy bro",
+      "author": "Thanh Duy",
+      "create_time": 1760330489,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7564736060179268360",
+      "text": "Cã bộ còn k shop",
+      "author": "Trần Mèo.",
+      "create_time": 1761302374,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560067973730272018",
+      "text": "Ib e main chip ram ạ",
+      "author": "Lưu Ngọc Bảo",
+      "create_time": 1760215503,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7575790337379517204",
+      "text": "còn j ko a",
+      "author": "Uyn",
+      "create_time": 1763876157,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561757916044460808",
+      "text": "hà nội mua được ko",
+      "author": "️",
+      "create_time": 1760608971,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560727996698886930",
+      "text": "Mua kiểu gì nhỉ",
+      "author": "Huyên",
+      "create_time": 1760369172,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574343656506802961",
+      "text": "check ib mình nha",
+      "author": "Phan Thành Lợi",
+      "create_time": 1763539324,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569220722800673543",
+      "text": "Pc 7 củ có gì ah",
+      "author": "ThichchoiMinecraft",
+      "create_time": 1762346539,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565892725783085842",
+      "text": "Ssd còn ko a",
+      "author": "googs2910",
+      "create_time": 1761571677,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563340104892711681",
+      "text": "Ram còn k ib e vs",
+      "author": "Không Thích So",
+      "create_time": 1760977361,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560758521957237512",
+      "text": "bên mình ko có web hả anh",
+      "author": "Ken:)?",
+      "create_time": 1760376279,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561063175404503826",
+      "text": "Mua kiểu gì nhỉ , ntin shop có rep đâu kkk",
+      "author": "Tân Nguyễn iuem",
+      "create_time": 1760447213,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560511110177899282",
+      "text": "check giúp mình cây ssd nhé",
+      "author": "Sơn Wjbu",
+      "create_time": 1760318684,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561605209635537685",
+      "text": "ram còn k ạ ib e với",
+      "author": "Võ Minh Thương",
+      "create_time": 1760573435,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560219206723371796",
+      "text": "3070ti suprim thu lại bn shop",
+      "author": "Lynna Storee",
+      "create_time": 1760250715,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560662988869763847",
+      "text": "Check ib cặp ssd với ad",
+      "author": "Pí",
+      "create_time": 1760354036,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565690489682756360",
+      "text": "Ssd còn k a",
+      "author": "Ny pé Tranggg 😻",
+      "create_time": 1761524609,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560509294312784658",
+      "text": "Em có gửi tin nhắn hỏi cây ssd, mình check giúp e ạ",
+      "author": "Tiziihahaaha",
+      "create_time": 1760318260,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7563503371081990933",
+      "text": "ram còn k ạ",
+      "author": "Quangson2310",
+      "create_time": 1761015370,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7561780886732669717",
+      "text": "lap chip đỏ thì nên mua con nào ạ",
+      "author": "tncug",
+      "create_time": 1760614320,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560062754967864082",
+      "text": "ssd còn không ạ",
+      "author": ":)",
+      "create_time": 1760214292,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560348107751064327",
+      "text": "3080 còn ko b",
+      "author": "Huy Nhổn",
+      "create_time": 1760280722,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7569005152138986248",
+      "text": "Ssd ss ship cod ko",
+      "author": "Văn Trình",
+      "create_time": 1762296372,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560293805129040661",
+      "text": "3080 còn ko shop?",
+      "author": "…",
+      "create_time": 1760268083,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560161003864146709",
+      "text": "bên b nhận ship ra hn k",
+      "author": "CuongAcoustic",
+      "create_time": 1760237168,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559946670525416200",
+      "text": "ssd 1 là ssd lap ad a",
+      "author": "Thotnani🐢",
+      "create_time": 1760187259,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7572927569747378961",
+      "text": "Còn cặp ram ko em đang cần á😳😳",
+      "author": "Nguyên Yêu Đời",
+      "create_time": 1763209610,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560287159066051344",
+      "text": "3080 còn k shop",
+      "author": "Lol Prank",
+      "create_time": 1760266544,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560194548258521874",
+      "text": "bên shon còn con 3080 ko ạ , mình ghé cửa hàng lấy lun !!",
+      "author": "ngọc hoa cải",
+      "create_time": 1760244972,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560205567843762965",
+      "text": "Ss 980pro tuổi thọ bao nhiêu % xốp",
+      "author": "Bo & Mew",
+      "create_time": 1760247536,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560017881883771664",
+      "text": "Sức khoẻ bnh b",
+      "author": "nsownhihi",
+      "create_time": 1760203842,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560117114851197703",
+      "text": "Còn ssd ko ạ",
+      "author": "naht004",
+      "create_time": 1760226956,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560021884583117589",
+      "text": "ssdr 4 cho lap ko anh ơi ram",
+      "author": "Huy Trần95549",
+      "create_time": 1760204769,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560202276972364551",
+      "text": "Còn ssd ko a",
+      "author": "MNHAT💙",
+      "create_time": 1760246769,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560007777494500116",
+      "text": "đồ thanh lí muốn mua thì liên hệ ai vậy b",
+      "author": "Công Dũng PC",
+      "create_time": 1760201482,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560067669740061458",
+      "text": "Ib e với ạ",
+      "author": "Lưu Ngọc Bảo",
+      "create_time": 1760215433,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560051594625729288",
+      "text": "3080 bh bao lâu v a",
+      "author": "Hải",
+      "create_time": 1760211689,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560178547060900629",
+      "text": "Còn ssd k shop, e mua ạ",
+      "author": "Không Tên",
+      "create_time": 1760241250,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560208821399601928",
+      "text": "ram nhiêu gb thế a",
+      "author": "AsusROGsTrix",
+      "create_time": 1760248293,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560171774965547796",
+      "text": "shop bán ram laptop ko",
+      "author": "mất não thâm niên",
+      "create_time": 1760239764,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560124419512812295",
+      "text": "còn ssd k e",
+      "author": "Bố Tóp Mỡ",
+      "create_time": 1760228664,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559983384810980114",
+      "text": "con 3080 ngon choét ae ơi",
+      "author": "Mecha Toys",
+      "create_time": 1760195801,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559948359203390215",
+      "text": "bán onl k a",
+      "author": "Yuhyyz<(\")",
+      "create_time": 1760187648,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559943282802295560",
+      "text": "Ủa sớm🗿🗿🗿",
+      "author": "120HZ",
+      "create_time": 1760186468,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559961923879240469",
+      "text": "Bay nhanh thế ạ",
+      "author": "PK Tiến Ninh",
+      "create_time": 1760190808,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559954840177246994",
+      "text": "cho minh 1 cái ssd",
+      "author": "Minh Phước",
+      "create_time": 1760189155,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560000020784399112",
+      "text": "lấy e ssd",
+      "author": "Dwhoanq",
+      "create_time": 1760199675,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559994784351240967",
+      "text": "mình muốn mua ssd",
+      "author": "bibabibo",
+      "create_time": 1760198460,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559945829068473106",
+      "text": "bảo hành 1 ngày hả 😂",
+      "author": "Đức Tấn",
+      "create_time": 1760187062,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559993032301462290",
+      "text": "ssd còn ko v",
+      "author": "DingDongMC",
+      "create_time": 1760198048,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560271726417904392",
+      "text": "Main còn k ạ , rep inb em vs",
+      "author": "Tân Nguyễn iuem",
+      "create_time": 1760262941,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559943459182084872",
+      "text": "thứ hai",
+      "author": "Ninh Nguyen",
+      "create_time": 1760186510,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560320469665547026",
+      "text": "😳😳😳",
+      "author": "chill chill",
+      "create_time": 1760274287,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559943432735736594",
+      "text": "😁😁😁",
+      "author": "Phát cat",
+      "create_time": 1760186502,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7560000064401474324",
+      "text": "vãi ssd 500gb mà 500k mà còn samsung thì ác đấy",
+      "author": "trọng WATER",
+      "create_time": 1760199690,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

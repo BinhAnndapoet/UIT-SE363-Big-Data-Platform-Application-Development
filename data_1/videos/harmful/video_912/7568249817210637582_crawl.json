@@ -1,0 +1,34 @@
+{
+  "url": "https://www.tiktok.com/@project_halloween25/video/7568249817210637582",
+  "crawled_at": "2025-12-16T06:31:02.694938Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "#heros #halloween #drink #alcohol #viral ",
+    "author_url": "https://www.tiktok.com/@project_halloween25",
+    "author_name": "project halloween",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@project_halloween25/video/7568249817210637582\" data-video-id=\"7568249817210637582\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@project_halloween25\" href=\"https://www.tiktok.com/@project_halloween25?refer=embed\">@project_halloween25</a> <p><a title=\"heros\" target=\"_blank\" href=\"https://www.tiktok.com/tag/heros?refer=embed\">#heros</a> <a title=\"halloween\" target=\"_blank\" href=\"https://www.tiktok.com/tag/halloween?refer=embed\">#halloween</a> <a title=\"drink\" target=\"_blank\" href=\"https://www.tiktok.com/tag/drink?refer=embed\">#drink</a> <a title=\"alcohol\" target=\"_blank\" href=\"https://www.tiktok.com/tag/alcohol?refer=embed\">#alcohol</a> <a title=\"viral\" target=\"_blank\" href=\"https://www.tiktok.com/tag/viral?refer=embed\">#viral</a> </p> <a target=\"_blank\" title=\"♬ original sound - project halloween\" href=\"https://www.tiktok.com/music/original-sound-7568249884869659406?refer=embed\">♬ original sound - project halloween</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 540,
+    "thumbnail_height": 960,
+    "thumbnail_url": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/oIQRgejIIHA8zQ8HASzA5eqckCXZM0DM6d8dOe~tplv-tiktokx-origin.image?dr=14575&x-expires=1766037600&x-signature=S4gXIatpwWFNLFlilPgoluxh3K4%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "project_halloween25",
+    "embed_product_id": "7568249817210637582",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7568249817210637582: Unable to extract webpage video data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+  "comments": [
+    {
+      "cid": "7568251013607031607",
+      "text": "@krewy15 @† we gotta do",
+      "author": "Tyler Stein",
+      "create_time": 1762120780,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}

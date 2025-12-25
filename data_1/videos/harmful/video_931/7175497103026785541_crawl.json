@@ -1,0 +1,24 @@
+{
+  "url": "https://www.tiktok.com/@ssatisfyingvideos14/video/7175497103026785541",
+  "crawled_at": "2025-12-16T06:41:04.420662Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "",
+    "author_url": "https://www.tiktok.com/",
+    "author_name": "@",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/\" data-video-id=\"7175497103026785541\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@\" href=\"https://www.tiktok.com/?refer=embed\">@</a> <p></p> <a target=\"_blank\" title=\"♬  -\" href=\"https://www.tiktok.com/?refer=embed\">♬  - </a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 0,
+    "thumbnail_height": 0,
+    "thumbnail_url": "",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "",
+    "embed_product_id": "7175497103026785541",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7175497103026785541: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+  "comments": []
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://www.tiktok.com/@melingerie.s1/video/7569604915560008978",
+  "crawled_at": "2025-12-16T00:45:45.983098Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "CT4 em về thêm màu mới xuất sắc ạ 😍 #melingerie #lingerie #bra #noiy #dolot ",
+    "author_url": "https://www.tiktok.com/@melingerie.s1",
+    "author_name": "MELINGERIE - CỬA HÀNG SỐ 1",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@melingerie.s1/video/7569604915560008978\" data-video-id=\"7569604915560008978\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@melingerie.s1\" href=\"https://www.tiktok.com/@melingerie.s1?refer=embed\">@melingerie.s1</a> <p>CT4 em về thêm màu mới xuất sắc ạ 😍 <a title=\"melingerie\" target=\"_blank\" href=\"https://www.tiktok.com/tag/melingerie?refer=embed\">#melingerie</a> <a title=\"lingerie\" target=\"_blank\" href=\"https://www.tiktok.com/tag/lingerie?refer=embed\">#lingerie</a> <a title=\"bra\" target=\"_blank\" href=\"https://www.tiktok.com/tag/bra?refer=embed\">#bra</a> <a title=\"noiy\" target=\"_blank\" href=\"https://www.tiktok.com/tag/noiy?refer=embed\">#noiy</a> <a title=\"dolot\" target=\"_blank\" href=\"https://www.tiktok.com/tag/dolot?refer=embed\">#dolot</a> </p> <a target=\"_blank\" title=\"♬ Im your Christmas present baby demo - KAFKAF\" href=\"https://www.tiktok.com/music/Im-your-Christmas-present-baby-demo-7441981929378908945?refer=embed\">♬ Im your Christmas present baby demo - KAFKAF</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQAaA0lB9yHiCCiIKqIASOAKiowfcJ5MAAhE5B~tplv-tiktokx-origin.image?dr=14575&x-expires=1766016000&x-signature=KwnynrhzIRoCiRSz2Y2QssNYPQc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "melingerie.s1",
+    "embed_product_id": "7569604915560008978",
+    "embed_type": "video"
+  },
+  "yt_dlp_info": {
+    "id": "7569604915560008978",
+    "formats": [
+      {
+        "format_id": "audio",
+        "url": "https://v77.tiktokcdn.com/60b3df425847e9fcd47a4a8c8d1a2ac5/6941fd5b/video/tos/alisg/tos-alisg-v-27dcd7/oUSHsnwMEMrzCFaBGAQEAgBOqjARBzDfUEyfJz/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=.NpOcInz7ThYzjgPXq8Zmo&mime_type=audio_mpeg&qs=13&rc=am07Znk5cjttdzMzODU8NEBpam07Znk5cjttdzMzODU8NEBtYS8zMmRzajBgLS1kMS1zYSNtYS8zMmRzajBgLS1kMS1zcw%3D%3D&vvpl=1&l=20251216084546F135B81EA4C55B99C7F1&btag=e00048000&cc=13",
+        "ext": "mp3",
+        "acodec": "mp3",
+        "vcodec": "none",
+        "protocol": "https",
+        "audio_ext": "mp3",
+        "video_ext": "none",
+        "vbr": 0,
+        "resolution": "audio only",
+        "http_headers": {
+          "User-Agent": "Mozilla/5.0",
+          "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "Accept-Language": "en-us,en;q=0.5",
+          "Sec-Fetch-Mode": "navigate",
+          "Referer": "https://www.tiktok.com/@melingerie.s1/video/7569604915560008978"
+        },
+        "format": "audio - audio only"
+      }
+    ],
+    "subtitles": {},
+    "http_headers": {
+      "User-Agent": "Mozilla/5.0",
+      "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+      "Accept-Language": "en-us,en;q=0.5",
+      "Sec-Fetch-Mode": "navigate",
+      "Referer": "https://www.tiktok.com/@melingerie.s1/video/7569604915560008978"
+    },
+    "channel": "MELINGERIE - CỬA HÀNG SỐ 1",
+    "channel_id": "MS4wLjABAAAAIUYusOL7CXd9P1Q0P7hCQIeVvX9rq5EBisfjO1dGwxGVW3Ns5yKnFidOeoG7QNFU",
+    "uploader": "melingerie.s1",
+    "uploader_id": "7351604590577533954",
+    "channel_url": "https://www.tiktok.com/@MS4wLjABAAAAIUYusOL7CXd9P1Q0P7hCQIeVvX9rq5EBisfjO1dGwxGVW3Ns5yKnFidOeoG7QNFU",
+    "uploader_url": "https://www.tiktok.com/@melingerie.s1",
+    "track": "Im your Christmas present baby demo",
+    "artists": [
+      "KAFKAF"
+    ],
+    "duration": 12,
+    "title": "CT4 em về thêm màu mới xuất sắc ạ 😍 #melingerie #lingerie #bra #noiy ...",
+    "description": "CT4 em về thêm màu mới xuất sắc ạ 😍 #melingerie #lingerie #bra #noiy #dolot ",
+    "timestamp": 1762435989,
+    "view_count": 5414,
+    "like_count": 18,
+    "repost_count": 0,
+    "comment_count": 0,
+    "thumbnails": [
+      {
+        "id": "dynamicCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQAaA0lB9yHiCCiIKqIASOAKiowfcJ5MAAhE5B~tplv-tiktokx-origin.image?dr=14575&x-expires=1766016000&x-signature=KwnynrhzIRoCiRSz2Y2QssNYPQc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -2
+      },
+      {
+        "id": "cover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oQAaA0lB9yHiCCiIKqIASOAKiowfcJ5MAAhE5B~tplv-tiktokx-origin.image?dr=14575&x-expires=1766016000&x-signature=KwnynrhzIRoCiRSz2Y2QssNYPQc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      },
+      {
+        "id": "originCover",
+        "url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oU7SipbYaAFeBjH8AILpGooGVeseQ5UIDICsMI~tplv-tiktokx-origin.image?dr=14575&x-expires=1766016000&x-signature=YYIx050NN9Kdkm%2BrEIVGTFjByj8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+        "preference": -1
+      }
+    ],
+    "webpage_url": "https://www.tiktok.com/@melingerie.s1/video/7569604915560008978",
+    "webpage_url_basename": "7569604915560008978",
+    "webpage_url_domain": "tiktok.com",
+    "extractor": "TikTok",
+    "extractor_key": "TikTok",
+    "thumbnail": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oU7SipbYaAFeBjH8AILpGooGVeseQ5UIDICsMI~tplv-tiktokx-origin.image?dr=14575&x-expires=1766016000&x-signature=YYIx050NN9Kdkm%2BrEIVGTFjByj8%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "display_id": "7569604915560008978",
+    "fulltitle": "CT4 em về thêm màu mới xuất sắc ạ 😍 #melingerie #lingerie #bra #noiy ...",
+    "duration_string": "12",
+    "upload_date": "20251106",
+    "artist": "KAFKAF",
+    "epoch": 1765845946,
+    "format_id": "audio",
+    "url": "https://v77.tiktokcdn.com/60b3df425847e9fcd47a4a8c8d1a2ac5/6941fd5b/video/tos/alisg/tos-alisg-v-27dcd7/oUSHsnwMEMrzCFaBGAQEAgBOqjARBzDfUEyfJz/?a=1180&bti=ODszNWYuMDE6&ch=0&cr=0&dr=0&er=0&lr=default&cd=0%7C0%7C0%7C0&br=250&bt=125&ds=5&ft=.NpOcInz7ThYzjgPXq8Zmo&mime_type=audio_mpeg&qs=13&rc=am07Znk5cjttdzMzODU8NEBpam07Znk5cjttdzMzODU8NEBtYS8zMmRzajBgLS1kMS1zYSNtYS8zMmRzajBgLS1kMS1zcw%3D%3D&vvpl=1&l=20251216084546F135B81EA4C55B99C7F1&btag=e00048000&cc=13",
+    "ext": "mp3",
+    "acodec": "mp3",
+    "vcodec": "none",
+    "protocol": "https",
+    "audio_ext": "mp3",
+    "video_ext": "none",
+    "vbr": 0,
+    "resolution": "audio only",
+    "format": "audio - audio only",
+    "_type": "video",
+    "_version": {
+      "version": "2025.12.08",
+      "release_git_head": "7a52ff29d86efc8f3adeba977b2009ce40b8e52e",
+      "repository": "yt-dlp/yt-dlp"
+    }
+  },
+  "comments": []
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.tiktok.com/@funny_roy93/video/7276261402275335457",
+  "crawled_at": "2025-12-16T06:32:49.504951Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "🤣🤣#funnyvideo #prank #comedy #funny #laugh #fail #failarmy #funnyprankvideo ",
+    "author_url": "https://www.tiktok.com/@funny_roy93",
+    "author_name": "Funny Prank Video",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@funny_roy93/video/7276261402275335457\" data-video-id=\"7276261402275335457\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@funny_roy93\" href=\"https://www.tiktok.com/@funny_roy93?refer=embed\">@funny_roy93</a> <p>🤣🤣<a title=\"funnyvideo\" target=\"_blank\" href=\"https://www.tiktok.com/tag/funnyvideo?refer=embed\">#funnyvideo</a> <a title=\"prank\" target=\"_blank\" href=\"https://www.tiktok.com/tag/prank?refer=embed\">#prank</a> <a title=\"comedy\" target=\"_blank\" href=\"https://www.tiktok.com/tag/comedy?refer=embed\">#comedy</a> <a title=\"funny\" target=\"_blank\" href=\"https://www.tiktok.com/tag/funny?refer=embed\">#funny</a> <a title=\"laugh\" target=\"_blank\" href=\"https://www.tiktok.com/tag/laugh?refer=embed\">#laugh</a> <a title=\"fail\" target=\"_blank\" href=\"https://www.tiktok.com/tag/fail?refer=embed\">#fail</a> <a title=\"failarmy\" target=\"_blank\" href=\"https://www.tiktok.com/tag/failarmy?refer=embed\">#failarmy</a> <a title=\"funnyprankvideo\" target=\"_blank\" href=\"https://www.tiktok.com/tag/funnyprankvideo?refer=embed\">#funnyprankvideo</a> </p> <a target=\"_blank\" title=\"♬ 这是什么 - 创作灵感\" href=\"https://www.tiktok.com/music/这是什么-7028415938949138439?refer=embed\">♬ 这是什么 - 创作灵感</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-p-0037-euttp/oceLjeqEDQPIgIeRn0bk0LsArXr9JneEGBdTEN~tplv-tiktokx-origin.image?dr=14575&x-expires=1766037600&x-signature=3XBgCGL0TWaPRKdXVQZjNrT%2Bx9k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "funny_roy93",
+    "embed_product_id": "7276261402275335457",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7276261402275335457: Unable to extract webpage video data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+  "comments": []
+}

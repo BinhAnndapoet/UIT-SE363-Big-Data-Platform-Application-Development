@@ -1,0 +1,24 @@
+{
+  "url": "https://www.tiktok.com/@andendethuong/video/7564774243418852626",
+  "crawled_at": "2025-12-16T05:28:58.340193Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "cha nào tạo ra cái sound này z nó chửi t ùm sùm ở bển r kìa #xuhuong #haihuoctiktok #cliphai #lolem #ilovetiktok ",
+    "author_url": "https://www.tiktok.com/@andendethuong",
+    "author_name": "chán cơm thèm phở",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/@andendethuong/video/7564774243418852626\" data-video-id=\"7564774243418852626\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@andendethuong\" href=\"https://www.tiktok.com/@andendethuong?refer=embed\">@andendethuong</a> <p>cha nào tạo ra cái sound này z nó chửi t ùm sùm ở bển r kìa <a title=\"xuhuong\" target=\"_blank\" href=\"https://www.tiktok.com/tag/xuhuong?refer=embed\">#xuhuong</a> <a title=\"haihuoctiktok\" target=\"_blank\" href=\"https://www.tiktok.com/tag/haihuoctiktok?refer=embed\">#haihuoctiktok</a> <a title=\"cliphai\" target=\"_blank\" href=\"https://www.tiktok.com/tag/cliphai?refer=embed\">#cliphai</a> <a title=\"lolem\" target=\"_blank\" href=\"https://www.tiktok.com/tag/lolem?refer=embed\">#lolem</a> <a title=\"ilovetiktok\" target=\"_blank\" href=\"https://www.tiktok.com/tag/ilovetiktok?refer=embed\">#ilovetiktok</a> </p> <a target=\"_blank\" title=\"♬ nhạc nền - Diep An chao xinnn - chán cơm thèm phở\" href=\"https://www.tiktok.com/music/nhạc-nền-Diep-An-chao-xinnn-7564774264361290497?refer=embed\">♬ nhạc nền - Diep An chao xinnn - chán cơm thèm phở</a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 576,
+    "thumbnail_height": 1024,
+    "thumbnail_url": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-p-0037/oINfIPCRDAWQwPjA2QJh8C4A2v5M9WBNvojeeI~tplv-tiktokx-origin.image?dr=14575&x-expires=1766034000&x-signature=EQoxTKwGwD7jc1WprvBhFiQ9vqc%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=my",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "andendethuong",
+    "embed_product_id": "7564774243418852626",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7564774243418852626: Unable to extract webpage video data; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U",
+  "comments": []
+}

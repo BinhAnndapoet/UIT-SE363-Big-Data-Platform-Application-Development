@@ -1,0 +1,852 @@
+{
+  "url": "https://www.tiktok.com/@sheeshaloves1/video/7258674465620495642",
+  "crawled_at": "2025-12-16T04:34:48.031284Z",
+  "oembed": {
+    "version": "1.0",
+    "type": "video",
+    "title": "",
+    "author_url": "https://www.tiktok.com/",
+    "author_name": "@",
+    "width": "100%",
+    "height": "100%",
+    "html": "<blockquote class=\"tiktok-embed\" cite=\"https://www.tiktok.com/\" data-video-id=\"7258674465620495642\" data-embed-from=\"oembed\" style=\"max-width:605px; min-width:325px;\"> <section> <a target=\"_blank\" title=\"@\" href=\"https://www.tiktok.com/?refer=embed\">@</a> <p></p> <a target=\"_blank\" title=\"♬  -\" href=\"https://www.tiktok.com/?refer=embed\">♬  - </a> </section> </blockquote> <script async src=\"https://www.tiktok.com/embed.js\"></script>",
+    "thumbnail_width": 0,
+    "thumbnail_height": 0,
+    "thumbnail_url": "",
+    "provider_url": "https://www.tiktok.com",
+    "provider_name": "TikTok",
+    "author_unique_id": "",
+    "embed_product_id": "7258674465620495642",
+    "embed_type": "video"
+  },
+  "yt_dlp_error": "ERROR: [TikTok] 7258674465620495642: This post may not be comfortable for some audiences. Log in for access. Use --cookies-from-browser or --cookies for the authentication. See  https://github.com/yt-dlp/yt-dlp/wiki/FAQ#how-do-i-pass-cookies-to-yt-dlp  for how to manually pass cookies",
+  "comments": [
+    {
+      "cid": "7261608830956536577",
+      "text": "follow back plz",
+      "author": "🦋",
+      "create_time": 1690725065,
+      "like_count": 5,
+      "reply_count": 1,
+      "replies": [
+        {
+          "aweme_id": "7258674465620495642",
+          "cid": "7565121324650840850",
+          "collect_stat": 0,
+          "comment_language": "en",
+          "comment_post_item_ids": null,
+          "create_time": 1761392225,
+          "digg_count": 0,
+          "fold_status": 0,
+          "image_list": null,
+          "is_author_digged": false,
+          "is_comment_translatable": true,
+          "is_high_purchase_intent": false,
+          "label_list": null,
+          "no_show": false,
+          "reply_comment": null,
+          "reply_id": "7261608830956536577",
+          "reply_to_reply_id": "0",
+          "share_info": {
+            "acl": {
+              "code": 1,
+              "extra": "{\"is_share_handler_failed\":\"1\"}"
+            },
+            "desc": "",
+            "title": "",
+            "url": ""
+          },
+          "status": 1,
+          "stick_position": 0,
+          "text": "who need?",
+          "text_extra": [],
+          "thread_has_more": false,
+          "thread_id": -1,
+          "trans_btn_style": 0,
+          "user": {
+            "account_labels": null,
+            "ad_cover_url": null,
+            "advance_feature_item_order": null,
+            "advanced_feature_info": null,
+            "avatar_thumb": {
+              "uri": "tos-alisg-avt-0068/27be60e601528682805a383319ea2de2",
+              "url_list": [
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/27be60e601528682805a383319ea2de2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=e2a3dbb8&x-expires=1765944000&x-signature=0v8cAsNNBqMOwtWgU%2F6cEgMcXhQ%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p9-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/27be60e601528682805a383319ea2de2~tplv-tiktokx-cropcenter:100:100.jpg?dr=14579&refresh_token=d13bc470&x-expires=1765944000&x-signature=y8mrY%2Bt2UCyZ96vKktr1Prvwh4I%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my",
+                "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/27be60e601528682805a383319ea2de2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=8a6d0b3e&x-expires=1765944000&x-signature=txEy5CBxr10nTXVMcLvA52%2Fq%2B8s%3D&t=4d5b0474&ps=13740610&shp=30310797&shcp=ff37627b&idc=my"
+              ],
+              "url_prefix": null
+            },
+            "bold_fields": null,
+            "can_message_follow_status_list": null,
+            "can_set_geofencing": null,
+            "cha_list": null,
+            "cover_url": null,
+            "custom_verify": "",
+            "enterprise_verify_reason": "",
+            "events": null,
+            "followers_detail": null,
+            "geofencing": null,
+            "homepage_bottom_toast": null,
+            "item_list": null,
+            "mutual_relation_avatars": null,
+            "need_points": null,
+            "nickname": "NJ WEEDMAN JOINT",
+            "platform_sync_info": null,
+            "predicted_age_group": "",
+            "relative_users": null,
+            "search_highlight": null,
+            "sec_uid": "MS4wLjABAAAAvQJAqZz7Qn1qhGPOuPGFdt1Pygx8cQx2OvCfB0U9GSymm0oqfE-v30tUV1usVbQR",
+            "shield_edit_field_info": null,
+            "type_label": null,
+            "uid": "7561541226752590849",
+            "unique_id": "njweedmanjoint2",
+            "user_profile_guide": null,
+            "user_tags": null,
+            "white_cover_url": null
+          },
+          "user_buried": false,
+          "user_digged": 0
+        }
+      ]
+    },
+    {
+      "cid": "7298750639349744390",
+      "text": "hy",
+      "author": "sultan abdultuh",
+      "create_time": 1699376627,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7365535743923897094",
+      "text": "hyee ❤️❤️😍🥰🥰😘😘😘😘😘😏",
+      "author": "Ali Hassan",
+      "create_time": 1714923751,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7349275861944255238",
+      "text": "yra yr chilm knsi ha sada flavour ha isme ya tupe bhi ha",
+      "author": "🌹itz_hassan🥀",
+      "create_time": 1711138917,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7261608750502150930",
+      "text": "nicee",
+      "author": "🦋",
+      "create_time": 1690725047,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7548160904770847496",
+      "text": "waoo",
+      "author": "Imran Shaikh",
+      "create_time": 1757443177,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557648654104019720",
+      "text": "☺",
+      "author": "خان 💸",
+      "create_time": 1759652210,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7557066477305086727",
+      "text": "😂",
+      "author": "Malik Malik",
+      "create_time": 1759516663,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820032829702919",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993620,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820040273953543",
+      "text": "😭",
+      "author": "Adnan",
+      "create_time": 1758993619,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820041091384072",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993619,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820019764822792",
+      "text": "🥰",
+      "author": "Adnan",
+      "create_time": 1758993618,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820014789985042",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993615,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820022556967698",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993613,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554819957721547527",
+      "text": "🥰",
+      "author": "Adnan",
+      "create_time": 1758993601,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554819953397236488",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993600,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554819936167871240",
+      "text": "😭",
+      "author": "Adnan",
+      "create_time": 1758993598,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7541536773517181703",
+      "text": "😂",
+      "author": "Anas Ahmed Siddiqui",
+      "create_time": 1755900876,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7583819585460945681",
+      "text": "🥰",
+      "author": "Åttullah Sumalani ♥️",
+      "create_time": 1765745628,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7258863996651242246",
+      "text": "🥰🥰🥰🥰🥰",
+      "author": "Jhelum queen❤",
+      "create_time": 1690085990,
+      "like_count": 3,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7582715413923005202",
+      "text": "❤",
+      "author": "Shakib Abedin",
+      "create_time": 1765488527,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7581458830463533832",
+      "text": "🥰",
+      "author": "Farman Khan123",
+      "create_time": 1765195948,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7581458833919771399",
+      "text": "❤️",
+      "author": "Farman Khan123",
+      "create_time": 1765195948,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7581172577721221905",
+      "text": "♥♥♥",
+      "author": "shaheen512@gmail,com",
+      "create_time": 1765129300,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7258955973074420486",
+      "text": "☺️☺️☺️☺️☺️",
+      "author": "my love z",
+      "create_time": 1690111632,
+      "like_count": 1,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7580817273444549392",
+      "text": "🖤🖤🖤",
+      "author": "Ladla Butt",
+      "create_time": 1765046586,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7580618401842152200",
+      "text": "😂",
+      "author": "BUKHARI 😎",
+      "create_time": 1765000278,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7578340622224163600",
+      "text": "🥰",
+      "author": "Natalia Guarniso",
+      "create_time": 1764469958,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7577040938514727698",
+      "text": "😂",
+      "author": "༒☠️HACKER☠️༒",
+      "create_time": 1764167324,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7576312923821441809",
+      "text": "🥰",
+      "author": "jutt Punjab da🥰👑",
+      "create_time": 1763997831,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7576038433392788232",
+      "text": "💯",
+      "author": "malik saudia ال 0015🇵🇰✈️🇸🇦",
+      "create_time": 1763933933,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7575648571250459399",
+      "text": "🥰🥰🥰",
+      "author": "sad boy🙁",
+      "create_time": 1763843155,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7575472687456682769",
+      "text": "☺️",
+      "author": "Aliyan King🦁",
+      "create_time": 1763802191,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574441926067733255",
+      "text": "🥰🥰🥰",
+      "author": "sajad sweetheart 🥰🥰🥰",
+      "create_time": 1763562199,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7574188705415152401",
+      "text": "❤❤❤",
+      "author": "⚔️🚬Nomi jaura 786💪❤️‍🔥",
+      "create_time": 1763503253,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7573692912739812103",
+      "text": "😂",
+      "author": "rodysayed",
+      "create_time": 1763387800,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7573238444768707335",
+      "text": "🥰",
+      "author": "Raisbilal54825",
+      "create_time": 1763281990,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7573075945084437265",
+      "text": "🥰",
+      "author": "M Tahir",
+      "create_time": 1763244178,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571311981572244245",
+      "text": "☺️",
+      "author": "ayzal rana",
+      "create_time": 1762833453,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571119379770573588",
+      "text": "😏😏😏",
+      "author": "Ali brand595",
+      "create_time": 1762788607,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571119358085186324",
+      "text": "🥰🥰🥰",
+      "author": "Ali brand595",
+      "create_time": 1762788598,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571100847833809684",
+      "text": "😁",
+      "author": "احساس محبت !🫀🍂",
+      "create_time": 1762784290,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571100839344587540",
+      "text": "😂",
+      "author": "احساس محبت !🫀🍂",
+      "create_time": 1762784288,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7571100841416098581",
+      "text": "🥰",
+      "author": "احساس محبت !🫀🍂",
+      "create_time": 1762784288,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7570782382258307861",
+      "text": "❤❤❤",
+      "author": "Naqeeb mahlra 302",
+      "create_time": 1762710146,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7570765665160184597",
+      "text": "🥰🥰🥰",
+      "author": "𝑀𝓎 𝐿❤𝓋𝑒 𝑀𝓎 𝒸𝓇𝒾𝒸𝓀𝓇",
+      "create_time": 1762706436,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7570192731377877780",
+      "text": "♥",
+      "author": "🤍...𝓓.ح...🖤",
+      "create_time": 1762572856,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7570085841726636808",
+      "text": "❤️",
+      "author": "𓆩ɑ̈ↄใ⎽ɹ̤ᓆ⎽ɺỈ𓆪",
+      "create_time": 1762547982,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7567009092641358599",
+      "text": "🥰🥰🥰",
+      "author": "🦅Broken angel🕷️🕸️",
+      "create_time": 1761831603,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566592022909747979",
+      "text": "🥰",
+      "author": "Taycaff. Still",
+      "create_time": 1761734511,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566320333877166869",
+      "text": "😁",
+      "author": "funny videos 756",
+      "create_time": 1761671245,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566310010507313938",
+      "text": "❤",
+      "author": "My love 😍",
+      "create_time": 1761668834,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566304760518656776",
+      "text": "🥰🥰🥰",
+      "author": "Gangster 🥷✌️",
+      "create_time": 1761667614,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7566194945507492615",
+      "text": "😂",
+      "author": "kojji0561",
+      "create_time": 1761642048,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565616683618059030",
+      "text": "🥰",
+      "author": "LucaDuric1999",
+      "create_time": 1761507413,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565237889861157633",
+      "text": "🥰🥰🥰",
+      "author": "✨DANISH.💞RiND😈💯",
+      "create_time": 1761419219,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7564775423373427477",
+      "text": "👌",
+      "author": "Shan890",
+      "create_time": 1761311538,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7564540397999358727",
+      "text": "♥",
+      "author": "umair Khan",
+      "create_time": 1761256834,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559889561380586248",
+      "text": "❤",
+      "author": "Anaya baloch 😈😛",
+      "create_time": 1760173958,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7559840251549303560",
+      "text": "👍👍👍",
+      "author": "💫⚡ADNAN.KHAN💫❤️",
+      "create_time": 1760162478,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7556247235803939602",
+      "text": "❤",
+      "author": "Ali haidair virk 4648",
+      "create_time": 1759325912,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7555174908575187730",
+      "text": "❣",
+      "author": "Malik Tuheed",
+      "create_time": 1759076246,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820019005571847",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993618,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820036217602824",
+      "text": "🤣",
+      "author": "Adnan",
+      "create_time": 1758993616,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820028236153618",
+      "text": "🥰",
+      "author": "Adnan",
+      "create_time": 1758993616,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820010721919762",
+      "text": "😭",
+      "author": "Adnan",
+      "create_time": 1758993617,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554820009894773512",
+      "text": "😭",
+      "author": "Adnan",
+      "create_time": 1758993614,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7554352966108234503",
+      "text": "🥰",
+      "author": "rizwan ali",
+      "create_time": 1758884871,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7551886086445695762",
+      "text": "❤❤❤",
+      "author": "Touqeer  729💕🥀🌾🌹🫀💕🥀🌾🌹",
+      "create_time": 1758310510,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7548210624724697876",
+      "text": "🥰🥰🥰",
+      "author": "Qamar Waheed",
+      "create_time": 1757454761,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546838241610679048",
+      "text": "🥰🥰🥰",
+      "author": "Hassan ali6601",
+      "create_time": 1757135211,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546838237177365266",
+      "text": "❤️❤️❤️",
+      "author": "Hassan ali6601",
+      "create_time": 1757135213,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7546347445756920594",
+      "text": "🥰",
+      "author": "🥀Haris Khan💫",
+      "create_time": 1757020950,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7538493597076128530",
+      "text": "🌹",
+      "author": "Munawar Kharal",
+      "create_time": 1755192323,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7390826013578773256",
+      "text": "@ITX ZOE 🥰🥰",
+      "author": "⚜️سید_AMAN⚜️",
+      "create_time": 1720810809,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7371816524465799942",
+      "text": "♥️♥️♥️",
+      "author": "zarmish",
+      "create_time": 1716384802,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7367794329697600261",
+      "text": "🥰🥰🥰",
+      "author": "syedawais53",
+      "create_time": 1715448307,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7354375770922107653",
+      "text": "@Aisha khan",
+      "author": "ash khan",
+      "create_time": 1712324060,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7347632846972257029",
+      "text": "😈😈😈😈😈",
+      "author": "MANI🖕☠️😈💀",
+      "create_time": 1710754100,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7340757520359129862",
+      "text": "❤️❤️❤️",
+      "author": "legend nokia",
+      "create_time": 1709153317,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7565167352121049874",
+      "text": "HF lover 🧫🍺",
+      "author": "🚩. imran ALi,5,12,Taurus ♉🐂",
+      "create_time": 1761402790,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7355560541133456133",
+      "text": "bhai mujhe shisha ka bowl chahiye jiss me pani hota hai",
+      "author": "👑✌️Randhawa✌️👑",
+      "create_time": 1712599914,
+      "like_count": 0,
+      "reply_count": 0,
+      "replies": []
+    },
+    {
+      "cid": "7259806900383957765",
+      "text": "Come back to allah",
+      "author": "🤫",
+      "create_time": 1690305530,
+      "like_count": 2,
+      "reply_count": 0,
+      "replies": []
+    }
+  ]
+}
