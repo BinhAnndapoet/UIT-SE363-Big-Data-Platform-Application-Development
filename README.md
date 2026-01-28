@@ -99,6 +99,27 @@ UIT-SE363-Big-Data-Platform-Application-Development/
     └── audios/              # ← Extract here
 ```
 
+> **💡 Alternative**: If you **don't have the data**, you can run the **streaming pipeline** which will automatically crawl new videos for you. Skip to "Run with Docker" section.
+
+### Setup TikTok Cookies (Required for Crawling)
+
+> **Important**: TikTok requires authentication cookies to download videos. Without valid cookies, crawling will fail with 403 errors.
+
+**Steps to get cookies:**
+
+1. Install the Chrome extension **"Get cookies.txt LOCALLY"** from Chrome Web Store
+2. Login to TikTok in Chrome
+3. Click the extension icon and select **"Export All Cookies"**
+4. Save the file as `cookies.txt`
+5. Copy to the required location:
+   ```bash
+   # For streaming pipeline (Docker)
+   cp cookies.txt streaming/ingestion/cookies.txt
+   
+   # For manual crawling scripts:
+   cp cookies.txt crawl_scripts/cookies.txt
+   ```
+
 ### Run with Docker (Ubuntu)
 
 ```bash
@@ -176,6 +197,13 @@ UIT-SE363-Big-Data-Platform-Application-Development/
 │   ├── scripts/                        # Utility scripts
 │   │   └── push_hf_model.py            # Push to HuggingFace Hub
 │   └── shared_utils/                   # Common utilities
+│
+├── crawl_scripts/                      # 🕷️ Crawling Scripts
+│   ├── ScrapingVideoTiktok.py          # Main video scraper
+│   ├── crawl_tiktok_links_update_v1.py # Link crawler v1
+│   ├── crawl_tiktok_links_update_viet.py # Link crawler (Vietnamese)
+│   ├── create_sub_samples_tiktok_links.py # Sample creator
+│   └── find_tiktok_links.py            # Link finder
 │
 ├── notebooks/                          # 📓 Jupyter Notebooks
 │   ├── ScrapingVideoTiktok.ipynb       # Web scraping notebook
