@@ -1,0 +1,26 @@
+# Airflow Python Dependencies
+# For layer caching - COPY this before source code
+
+# Data processing
+pandas==2.0.3
+openpyxl==3.1.2
+tqdm==4.66.1
+regex==2023.10.3
+emoji==2.8.0
+
+# Storage & Messaging
+minio==7.2.0
+kafka-python==2.0.2
+
+# Database
+psycopg2-binary==2.9.9
+
+# Web scraping
+selenium==4.15.2
+selenium-stealth==1.0.6
+selenium-wire==5.1.0
+webdriver-manager==4.0.1
+blinker==1.7.0
+
+# Video download
+yt-dlp

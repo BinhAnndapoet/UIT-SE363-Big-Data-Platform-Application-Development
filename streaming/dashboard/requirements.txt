@@ -1,0 +1,13 @@
+streamlit
+pandas
+psycopg2-binary
+sqlalchemy
+boto3
+botocore
+numpy
+matplotlib
+streamlit-autorefresh==1.0.1
+plotly
+requests
+streamlit-option-menu
+kafka-python

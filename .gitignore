@@ -3,7 +3,31 @@ logger/
 logs/
 *.log
 
+
 # OS / editor
 .DS_Store
 __pycache__/
 *.pyc
+.vscode/
+.pytest_cache/
+
+# output
+output/
+results/
+
+
+# Chrome data
+chrome_profile/
+
+
+# data
+temp_downloads/
+data_viet/
+
+
+# state
+state/
+
+# models
+models/
+*_model/

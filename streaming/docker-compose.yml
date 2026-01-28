@@ -1,0 +1,358 @@
+services:
+  # ----------------------------------------------------------------
+  # 1. HẠ TẦNG DỮ LIỆU (Kafka, Postgres, MinIO)
+  # ----------------------------------------------------------------
+  zookeeper:
+    image: confluentinc/cp-zookeeper:7.4.0
+    container_name: zookeeper
+    environment:
+      ZOOKEEPER_CLIENT_PORT: 2181
+    networks:
+      - tiktok-network
+
+  kafka:
+    image: confluentinc/cp-kafka:7.4.0
+    container_name: kafka
+    depends_on: [zookeeper]
+    ports: ["9092:9092", "29092:29092"]
+    environment:
+      KAFKA_BROKER_ID: 1
+      KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+      KAFKA_ADVERTISED_LISTENERS: PLAINTEXT://kafka:29092,PLAINTEXT_HOST://localhost:9092
+      KAFKA_LISTENER_SECURITY_PROTOCOL_MAP: PLAINTEXT:PLAINTEXT,PLAINTEXT_HOST:PLAINTEXT
+      KAFKA_INTER_BROKER_LISTENER_NAME: PLAINTEXT
+      KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "bash",
+          "-c",
+          "unset KAFKA_JMX_OPTS; kafka-topics --bootstrap-server localhost:9092 --list",
+        ]
+      interval: 10s
+      timeout: 10s
+      retries: 5
+    networks:
+      - tiktok-network
+
+  minio:
+    image: minio/minio
+    container_name: minio
+    ports: ["9000:9000", "9001:9001"]
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-admin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-password123}
+    volumes: ["./state/minio_data:/data"]
+    # [FIX] Chỉ chạy server, bỏ qua các bước tạo bucket bằng script
+    command: server /data --console-address ":9001"
+    healthcheck:
+      # MinIO exposes readiness endpoint without auth
+      # NOTE: `curl` is available in most MinIO images; if your tag lacks it, we can switch to a tiny sidecar healthcheck.
+      test:
+        [
+          "CMD-SHELL",
+          "curl -fsS http://localhost:9000/minio/health/ready >/dev/null || exit 1",
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    networks:
+      - tiktok-network
+
+  # Init job: tạo bucket/policy bằng MinIO Client (mc) một cách ổn định.
+  # Tránh phụ thuộc việc container MinIO server có sẵn binary `mc`.
+  minio-init:
+    image: minio/mc
+    container_name: minio-init
+    depends_on:
+      minio:
+        condition: service_healthy
+    restart: "no"
+    environment:
+      MINIO_ENDPOINT: ${MINIO_ENDPOINT:-http://minio:9000}
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER:-admin}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD:-password123}
+      MINIO_BUCKET_VIDEOS: ${MINIO_BUCKET_VIDEOS:-tiktok-raw-videos}
+      MINIO_BUCKET_AUDIOS: ${MINIO_BUCKET_AUDIOS:-tiktok-raw-audios}
+    entrypoint:
+      - /bin/sh
+      - -c
+      - |
+        until mc alias set local "$MINIO_ENDPOINT" "$MINIO_ROOT_USER" "$MINIO_ROOT_PASSWORD" >/dev/null 2>&1; do
+          echo "...Đợi MinIO khởi động...";
+          sleep 2;
+        done
+        mc mb "local/$MINIO_BUCKET_VIDEOS" --ignore-existing >/dev/null 2>&1
+        mc mb "local/$MINIO_BUCKET_AUDIOS" --ignore-existing >/dev/null 2>&1
+        mc anonymous set download "local/$MINIO_BUCKET_VIDEOS" >/dev/null 2>&1
+        mc anonymous set download "local/$MINIO_BUCKET_AUDIOS" >/dev/null 2>&1
+        echo "✅ MinIO buckets/policy đã sẵn sàng."
+    networks:
+      - tiktok-network
+
+  postgres:
+    image: postgres:15
+    container_name: postgres
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-password}
+      POSTGRES_DB: ${POSTGRES_DB:-tiktok_safety_db}
+    volumes:
+      - ./state/postgres_data:/var/lib/postgresql/data
+      - ./infra/postgres:/docker-entrypoint-initdb.d
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U user -d tiktok_safety_db"]
+      interval: 5s
+    networks:
+      - tiktok-network
+
+  # ----------------------------------------------------------------
+  # 2. XỬ LÝ (Spark Master, Worker & Processor)
+  # ----------------------------------------------------------------
+  spark-master:
+    build:
+      context: ./spark
+      dockerfile: Dockerfile
+    container_name: spark-master
+    ports: ["9090:8080", "7077:7077"]
+    command:
+      ["/opt/spark/bin/spark-class", "org.apache.spark.deploy.master.Master"]
+    volumes:
+      - ./processing:/app/processing
+      - ./ingestion:/app/ingestion
+      - ../train_eval_module:/models
+    networks:
+      - tiktok-network
+
+  spark-worker:
+    build:
+      context: ./spark
+      dockerfile: Dockerfile
+    container_name: spark-worker
+    depends_on: [spark-master]
+    command:
+      [
+        "/opt/spark/bin/spark-class",
+        "org.apache.spark.deploy.worker.Worker",
+        "spark://spark-master:7077",
+      ]
+    environment:
+      - SPARK_WORKER_MEMORY=12g
+      - SPARK_EXECUTOR_MEMORY=10g
+    volumes:
+      - ./processing:/app/processing
+      - ../train_eval_module:/models
+    networks:
+      - tiktok-network
+
+  spark-processor: # TỰ ĐỘNG CHẠY THAY VÌ CHẠY FILE .SH
+    build:
+      context: ./spark
+      dockerfile: Dockerfile
+    container_name: spark-processor
+    depends_on:
+      spark-master: { condition: service_started }
+      kafka: { condition: service_healthy }
+      postgres: { condition: service_healthy }
+      minio-init: { condition: service_completed_successfully }
+    restart: on-failure
+    volumes:
+      - ./processing:/app/processing
+      - ../train_eval_module:/models
+      - ./state/ivy2:/tmp/.ivy2
+      - ./state/spark_checkpoints:/opt/spark/checkpoints
+    environment:
+      - SPARK_DRIVER_EXTRA_JAVA_OPTIONS=-Divy.home=/tmp/.ivy2
+      - IVY_HOME=/tmp/.ivy2
+      - TRANSFORMERS_CACHE=/tmp/.cache
+      - SPARK_CHECKPOINT_DIR=${SPARK_CHECKPOINT_DIR:-/opt/spark/checkpoints/tiktok_multimodal}
+      - KAFKA_STARTING_OFFSETS=${KAFKA_STARTING_OFFSETS:-latest}
+      - USE_FUSION_MODEL=${USE_FUSION_MODEL:-true}
+      - TEXT_WEIGHT=${TEXT_WEIGHT:-0.3}
+      - DECISION_THRESHOLD=${DECISION_THRESHOLD:-0.5}
+      - POSTGRES_HOST=${POSTGRES_HOST:-postgres}
+      - POSTGRES_PORT=${POSTGRES_PORT:-5432}
+      - POSTGRES_DB=${POSTGRES_DB:-tiktok_safety_db}
+      - POSTGRES_USER=${POSTGRES_USER:-user}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-password}
+      - MINIO_ENDPOINT=${MINIO_ENDPOINT:-http://minio:9000}
+      - MINIO_ROOT_USER=${MINIO_ROOT_USER:-admin}
+      - MINIO_ROOT_PASSWORD=${MINIO_ROOT_PASSWORD:-password123}
+      # HuggingFace Hub models (optional - if set, loads from Hub instead of local)
+      - HF_MODEL_TEXT=${HF_MODEL_TEXT:-}
+      - HF_MODEL_VIDEO=${HF_MODEL_VIDEO:-}
+      - HF_MODEL_FUSION=${HF_MODEL_FUSION:-}
+      - HF_TOKEN=${HF_TOKEN:-}
+    command: >
+      /opt/spark/bin/spark-submit
+      --master spark://spark-master:7077
+      --conf "spark.jars.ivy=/tmp/.ivy2"
+      --packages org.apache.spark:spark-sql-kafka-0-10_2.12:3.5.0,org.postgresql:postgresql:42.7.1
+      /app/processing/spark_processor.py
+    networks:
+      - tiktok-network
+
+  # ----------------------------------------------------------------
+  # 3. ĐIỀU PHỐI (Airflow - Đã bổ sung Scheduler và Command)
+  # ----------------------------------------------------------------
+  airflow-db:
+    image: postgres:13
+    container_name: airflow-db
+    environment:
+      POSTGRES_USER: ${AIRFLOW_DB_USER:-airflow}
+      POSTGRES_PASSWORD: ${AIRFLOW_DB_PASSWORD:-airflow}
+      POSTGRES_DB: ${AIRFLOW_DB_NAME:-airflow}
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "pg_isready -U ${AIRFLOW_DB_USER:-airflow} -d ${AIRFLOW_DB_NAME:-airflow}",
+        ]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+    networks:
+      - tiktok-network
+
+  airflow-init:
+    build: { context: ./airflow, dockerfile: Dockerfile.airflow }
+    depends_on:
+      airflow-db:
+        condition: service_healthy
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor # FIX: Chuyển sang LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://${AIRFLOW_DB_USER:-airflow}:${AIRFLOW_DB_PASSWORD:-airflow}@airflow-db/${AIRFLOW_DB_NAME:-airflow}
+      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET_KEY:-my_very_secret_key_123}
+    command: bash -c "airflow db init && airflow users create --username ${AIRFLOW_ADMIN_USERNAME:-admin} --firstname admin --lastname admin --role Admin --email ${AIRFLOW_ADMIN_EMAIL:-admin@example.com} --password ${AIRFLOW_ADMIN_PASSWORD:-admin}"
+    networks:
+      - tiktok-network
+
+  airflow-webserver:
+    build: { context: ./airflow, dockerfile: Dockerfile.airflow }
+    container_name: airflow-webserver
+    depends_on:
+      airflow-init: { condition: service_completed_successfully }
+    ports: ["8080:8080"]
+    command: webserver
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./state/airflow_logs:/opt/airflow/logs # logs là runtime state
+      - ./ingestion:/opt/project/streaming/ingestion
+      - ./data:/opt/project/streaming/data
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor # FIX: Chuyển sang LocalExecutor
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://${AIRFLOW_DB_USER:-airflow}:${AIRFLOW_DB_PASSWORD:-airflow}@airflow-db/${AIRFLOW_DB_NAME:-airflow}
+      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET_KEY:-my_very_secret_key_123}
+      - AIRFLOW__API__AUTH_BACKENDS=airflow.api.auth.backend.basic_auth
+      - AIRFLOW_CONN_POSTGRES_PIPELINE=postgresql://${POSTGRES_USER:-user}:${POSTGRES_PASSWORD:-password}@${POSTGRES_HOST:-postgres}:${POSTGRES_PORT:-5432}/${POSTGRES_DB:-tiktok_safety_db} # Tự động tạo Connection ID 'postgres_pipeline'
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          "curl -fsS http://localhost:8080/health >/dev/null || exit 1",
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+    networks:
+      - tiktok-network
+
+  airflow-scheduler: # DỊCH VỤ MỚI - BẮT BUỘC ĐỂ CHẠY DAG
+    build: { context: ./airflow, dockerfile: Dockerfile.airflow }
+    container_name: airflow-scheduler
+    depends_on:
+      airflow-init: { condition: service_completed_successfully }
+    shm_size: "2gb" # THÊM DÒNG NÀY ĐỂ CHROME KHÔNG BỊ CRASH ---
+    command: scheduler
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./state/airflow_logs:/opt/airflow/logs
+      - ./ingestion:/opt/project/streaming/ingestion
+      - ./data:/opt/project/streaming/data
+      - ./state/chrome_profile:/workspace/chrome_profile
+    environment:
+      - AIRFLOW__CORE__EXECUTOR=LocalExecutor # Thêm Executor để chạy song song
+      - AIRFLOW__DATABASE__SQL_ALCHEMY_CONN=postgresql+psycopg2://${AIRFLOW_DB_USER:-airflow}:${AIRFLOW_DB_PASSWORD:-airflow}@airflow-db/${AIRFLOW_DB_NAME:-airflow}
+      - AIRFLOW__WEBSERVER__SECRET_KEY=${AIRFLOW_WEBSERVER_SECRET_KEY:-my_very_secret_key_123} # Thêm Secret Key
+      - AIRFLOW_CONN_POSTGRES_PIPELINE=postgresql://${POSTGRES_USER:-user}:${POSTGRES_PASSWORD:-password}@${POSTGRES_HOST:-postgres}:${POSTGRES_PORT:-5432}/${POSTGRES_DB:-tiktok_safety_db}
+    networks:
+      - tiktok-network
+
+  # ----------------------------------------------------------------
+  # 4. MLflow (Model Registry & Tracking)
+  # ----------------------------------------------------------------
+  mlflow:
+    image: ghcr.io/mlflow/mlflow:v2.8.1
+    container_name: mlflow
+    ports: ["5000:5000"]
+    command: >
+      mlflow server
+      --host 0.0.0.0
+      --port 5000
+      --backend-store-uri file:/mlflow/backend
+      --default-artifact-root file:/mlflow/artifacts
+      --serve-artifacts
+    volumes:
+      - ./state/mlflow_backend:/mlflow/backend
+      - ./state/mlflow_artifacts:/mlflow/artifacts
+      - ../train_eval_module:/mlflow/models
+    environment:
+      - MLFLOW_BACKEND_STORE_URI=file:/mlflow/backend
+      - MLFLOW_DEFAULT_ARTIFACT_ROOT=file:/mlflow/artifacts
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:5000/health >/dev/null || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - tiktok-network
+
+  # ----------------------------------------------------------------
+  # 5. HIỂN THỊ (Dashboard)
+  # ----------------------------------------------------------------
+  dashboard:
+    build: { context: ./dashboard, dockerfile: Dockerfile.dashboard }
+    container_name: dashboard
+    ports: ["8501:8501"]
+    volumes: ["./dashboard:/app"]
+    environment:
+      - POSTGRES_HOST=${POSTGRES_HOST:-postgres}
+      - POSTGRES_PORT=${POSTGRES_PORT:-5432}
+      - POSTGRES_USER=${POSTGRES_USER:-user}
+      - POSTGRES_PASSWORD=${POSTGRES_PASSWORD:-password}
+      - POSTGRES_DB=${POSTGRES_DB:-tiktok_safety_db}
+      - MINIO_PUBLIC_ENDPOINT=${MINIO_PUBLIC_ENDPOINT:-http://localhost:9000}
+      - MINIO_BUCKET_VIDEOS=${MINIO_BUCKET_VIDEOS:-tiktok-raw-videos}
+    depends_on:
+      postgres: { condition: service_healthy }
+    networks:
+      - tiktok-network
+
+  db-migrator:
+    image: postgres:15
+    container_name: db-migrator
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      PGPASSWORD: ${POSTGRES_PASSWORD:-password}
+    # Lệnh này sẽ tự động chạy mỗi khi bạn start docker
+    command: >
+      psql -h ${POSTGRES_HOST:-postgres} -U ${POSTGRES_USER:-user} -d ${POSTGRES_DB:-tiktok_safety_db} -c "
+        CREATE TABLE IF NOT EXISTS system_logs (
+            id SERIAL PRIMARY KEY,
+            dag_id VARCHAR(50),
+            task_name VARCHAR(50),
+            log_level VARCHAR(10),
+            message TEXT,
+            created_at TIMESTAMP DEFAULT NOW()
+        );
+      "
+    networks:
+      - tiktok-network
+
+networks:
+  tiktok-network:
+    name: tiktok-network
+    driver: bridge

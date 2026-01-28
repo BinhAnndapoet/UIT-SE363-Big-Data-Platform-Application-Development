@@ -1,0 +1,61 @@
+# =============================================================================
+# Airflow Dockerfile - Optimized for Layer Caching
+# Build context: streaming/airflow/
+# =============================================================================
+FROM apache/airflow:2.8.1
+
+USER root
+
+# -----------------------------------------------------------------------------
+# LAYER 1: System dependencies (rarely changes)
+# -----------------------------------------------------------------------------
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends \
+        ffmpeg gcc python3-dev wget gnupg unzip curl \
+        libnss3 libgbm1 libasound2 libatk1.0-0 libc6 libcairo2 libdbus-1-3 \
+        libexpat1 libfontconfig1 libgcc1 libgconf-2-4 libgdk-pixbuf2.0-0 \
+        libglib2.0-0 libgtk-3-0 libnspr4 libpango-1.0-0 libpangocairo-1.0-0 \
+        libstdc++6 libx11-6 libx11-xcb1 libxcb1 libxcomposite1 libxcursor1 \
+        libxdamage1 libxext6 libxfixes3 libxi6 libxrandr2 libxrender1 libxss1 \
+        libxtst6 ca-certificates fonts-liberation libappindicator1 \
+        lsb-release xdg-utils xvfb xauth \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# -----------------------------------------------------------------------------
+# LAYER 2: Chrome browser + ChromeDriver (stable)
+# -----------------------------------------------------------------------------
+RUN curl -fSsL https://dl.google.com/linux/linux_signing_key.pub | gpg --dearmor | tee /usr/share/keyrings/google-chrome.gpg > /dev/null \
+    && echo "deb [arch=amd64 signed-by=/usr/share/keyrings/google-chrome.gpg] http://dl.google.com/linux/chrome/deb/ stable main" | tee /etc/apt/sources.list.d/google-chrome.list \
+    && apt-get update \
+    && apt-get install -y google-chrome-stable \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install matching ChromeDriver using google's Chrome for Testing
+RUN CHROME_VERSION=$(google-chrome --version | grep -oP '\d+\.\d+\.\d+') \
+    && echo "Chrome version: $CHROME_VERSION" \
+    && CHROMEDRIVER_URL="https://storage.googleapis.com/chrome-for-testing-public/${CHROME_VERSION}.0/linux64/chromedriver-linux64.zip" \
+    && echo "Downloading chromedriver from: $CHROMEDRIVER_URL" \
+    && wget -q "$CHROMEDRIVER_URL" -O /tmp/chromedriver.zip \
+    && unzip -q /tmp/chromedriver.zip -d /tmp/ \
+    && mv /tmp/chromedriver-linux64/chromedriver /usr/local/bin/chromedriver \
+    && chmod +x /usr/local/bin/chromedriver \
+    && rm -rf /tmp/chromedriver* \
+    && chromedriver --version
+
+USER airflow
+
+# -----------------------------------------------------------------------------
+# LAYER 3: Python dependencies (COPY requirements.txt first for caching)
+# -----------------------------------------------------------------------------
+COPY --chown=airflow:root requirements.txt /tmp/requirements.txt
+RUN pip install --no-cache-dir --upgrade pip && \
+    pip install --no-cache-dir -r /tmp/requirements.txt && \
+    rm /tmp/requirements.txt
+
+# -----------------------------------------------------------------------------
+# LAYER 4: DAGs (changes frequently - LAST)
+# -----------------------------------------------------------------------------
+# DAGs are mounted via volume in docker-compose, not copied here
+# This allows hot-reload without rebuild

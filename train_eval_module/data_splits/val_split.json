@@ -1,0 +1,1276 @@
+[
+    {
+        "path": "data/videos/harmful/video_186/7509744802682965278.mp4",
+        "audio_path": "processed_data/audios/7509744802682965278.wav",
+        "label": 0,
+        "filename": "7509744802682965278.mp4",
+        "video_id": "7509744802682965278"
+    },
+    {
+        "path": "data/videos/harmful/video_474/7552716855945825554.mp4",
+        "audio_path": "processed_data/audios/7552716855945825554.wav",
+        "label": 0,
+        "filename": "7552716855945825554.mp4",
+        "video_id": "7552716855945825554"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_189/7574052379608354055.mp4",
+        "audio_path": "processed_data/audios/7574052379608354055.wav",
+        "label": 1,
+        "filename": "7574052379608354055.mp4",
+        "video_id": "7574052379608354055"
+    },
+    {
+        "path": "data/videos/not_harmful/video_865/7436078259902680328.mp4",
+        "audio_path": "processed_data/audios/7436078259902680328.wav",
+        "label": 0,
+        "filename": "7436078259902680328.mp4",
+        "video_id": "7436078259902680328"
+    },
+    {
+        "path": "data/videos/not_harmful/video_347/7563290886277172487.mp4",
+        "audio_path": "processed_data/audios/7563290886277172487.wav",
+        "label": 0,
+        "filename": "7563290886277172487.mp4",
+        "video_id": "7563290886277172487"
+    },
+    {
+        "path": "data/videos/harmful/video_513/7245041623803923718.mp4",
+        "audio_path": "processed_data/audios/7245041623803923718.wav",
+        "label": 1,
+        "filename": "7245041623803923718.mp4",
+        "video_id": "7245041623803923718"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_552/7514408917355498760.mp4",
+        "audio_path": "processed_data/audios/7514408917355498760.wav",
+        "label": 0,
+        "filename": "7514408917355498760.mp4",
+        "video_id": "7514408917355498760"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_57/7555511717011344658.mp4",
+        "audio_path": "processed_data/audios/7555511717011344658.wav",
+        "label": 0,
+        "filename": "7555511717011344658.mp4",
+        "video_id": "7555511717011344658"
+    },
+    {
+        "path": "data_1/videos/harmful/video_665/7559759721004109064.mp4",
+        "audio_path": "processed_data/audios/7559759721004109064.wav",
+        "label": 0,
+        "filename": "7559759721004109064.mp4",
+        "video_id": "7559759721004109064"
+    },
+    {
+        "path": "data/videos/harmful/video_726/7256363441126984965.mp4",
+        "audio_path": "processed_data/audios/7256363441126984965.wav",
+        "label": 0,
+        "filename": "7256363441126984965.mp4",
+        "video_id": "7256363441126984965"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_355/7577225355505782024.mp4",
+        "audio_path": "processed_data/audios/7577225355505782024.wav",
+        "label": 0,
+        "filename": "7577225355505782024.mp4",
+        "video_id": "7577225355505782024"
+    },
+    {
+        "path": "data/videos/harmful/video_381/7563905360772238609.mp4",
+        "audio_path": "processed_data/audios/7563905360772238609.wav",
+        "label": 0,
+        "filename": "7563905360772238609.mp4",
+        "video_id": "7563905360772238609"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_804/7482671089315892487.mp4",
+        "audio_path": "processed_data/audios/7482671089315892487.wav",
+        "label": 1,
+        "filename": "7482671089315892487.mp4",
+        "video_id": "7482671089315892487"
+    },
+    {
+        "path": "data/videos/not_harmful/video_285/7489190023577734408.mp4",
+        "audio_path": "processed_data/audios/7489190023577734408.wav",
+        "label": 0,
+        "filename": "7489190023577734408.mp4",
+        "video_id": "7489190023577734408"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_12/7515232813365398802.mp4",
+        "audio_path": "processed_data/audios/7515232813365398802.wav",
+        "label": 0,
+        "filename": "7515232813365398802.mp4",
+        "video_id": "7515232813365398802"
+    },
+    {
+        "path": "data/videos/not_harmful/video_509/7568034285345623304.mp4",
+        "audio_path": "processed_data/audios/7568034285345623304.wav",
+        "label": 1,
+        "filename": "7568034285345623304.mp4",
+        "video_id": "7568034285345623304"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_561/7571748733625306388.mp4",
+        "audio_path": "processed_data/audios/7571748733625306388.wav",
+        "label": 0,
+        "filename": "7571748733625306388.mp4",
+        "video_id": "7571748733625306388"
+    },
+    {
+        "path": "data_1/videos/harmful/video_825/7530824220637498642.mp4",
+        "audio_path": "processed_data/audios/7530824220637498642.wav",
+        "label": 1,
+        "filename": "7530824220637498642.mp4",
+        "video_id": "7530824220637498642"
+    },
+    {
+        "path": "data/videos/harmful/video_564/7544745272379821329.mp4",
+        "audio_path": "processed_data/audios/7544745272379821329.wav",
+        "label": 1,
+        "filename": "7544745272379821329.mp4",
+        "video_id": "7544745272379821329"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_637/7543797360007187730.mp4",
+        "audio_path": "processed_data/audios/7543797360007187730.wav",
+        "label": 0,
+        "filename": "7543797360007187730.mp4",
+        "video_id": "7543797360007187730"
+    },
+    {
+        "path": "data/videos/not_harmful/video_795/7514269587077172498.mp4",
+        "audio_path": "processed_data/audios/7514269587077172498.wav",
+        "label": 1,
+        "filename": "7514269587077172498.mp4",
+        "video_id": "7514269587077172498"
+    },
+    {
+        "path": "data/videos/harmful/video_753/7562658126395149598.mp4",
+        "audio_path": "processed_data/audios/7562658126395149598.wav",
+        "label": 0,
+        "filename": "7562658126395149598.mp4",
+        "video_id": "7562658126395149598"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_811/7586264591500397831.mp4",
+        "audio_path": "processed_data/audios/7586264591500397831.wav",
+        "label": 0,
+        "filename": "7586264591500397831.mp4",
+        "video_id": "7586264591500397831"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_703/7206659904524881178.mp4",
+        "audio_path": "processed_data/audios/7206659904524881178.wav",
+        "label": 0,
+        "filename": "7206659904524881178.mp4",
+        "video_id": "7206659904524881178"
+    },
+    {
+        "path": "data_1/videos/harmful/video_32/7569114772243893524.mp4",
+        "audio_path": "processed_data/audios/7569114772243893524.wav",
+        "label": 0,
+        "filename": "7569114772243893524.mp4",
+        "video_id": "7569114772243893524"
+    },
+    {
+        "path": "data/videos/harmful/video_833/7494583343212678421.mp4",
+        "audio_path": "processed_data/audios/7494583343212678421.wav",
+        "label": 1,
+        "filename": "7494583343212678421.mp4",
+        "video_id": "7494583343212678421"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_659/7585389588995165447.mp4",
+        "audio_path": "processed_data/audios/7585389588995165447.wav",
+        "label": 0,
+        "filename": "7585389588995165447.mp4",
+        "video_id": "7585389588995165447"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_242/7542733609770208528.mp4",
+        "audio_path": "processed_data/audios/7542733609770208528.wav",
+        "label": 0,
+        "filename": "7542733609770208528.mp4",
+        "video_id": "7542733609770208528"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_103/7585410848177360136.mp4",
+        "audio_path": "processed_data/audios/7585410848177360136.wav",
+        "label": 0,
+        "filename": "7585410848177360136.mp4",
+        "video_id": "7585410848177360136"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_162/7586213298534649108.mp4",
+        "audio_path": "processed_data/audios/7586213298534649108.wav",
+        "label": 0,
+        "filename": "7586213298534649108.mp4",
+        "video_id": "7586213298534649108"
+    },
+    {
+        "path": "data/videos/not_harmful/video_672/7441274521409129750.mp4",
+        "audio_path": "processed_data/audios/7441274521409129750.wav",
+        "label": 0,
+        "filename": "7441274521409129750.mp4",
+        "video_id": "7441274521409129750"
+    },
+    {
+        "path": "data/videos/harmful/video_119/6891459637678312706.mp4",
+        "audio_path": "processed_data/audios/6891459637678312706.wav",
+        "label": 0,
+        "filename": "6891459637678312706.mp4",
+        "video_id": "6891459637678312706"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_467/7552852048769813777.mp4",
+        "audio_path": "processed_data/audios/7552852048769813777.wav",
+        "label": 0,
+        "filename": "7552852048769813777.mp4",
+        "video_id": "7552852048769813777"
+    },
+    {
+        "path": "data/videos/harmful/video_729/7483297982238952722.mp4",
+        "audio_path": "processed_data/audios/7483297982238952722.wav",
+        "label": 1,
+        "filename": "7483297982238952722.mp4",
+        "video_id": "7483297982238952722"
+    },
+    {
+        "path": "data/videos/not_harmful/video_647/7544036731809451295.mp4",
+        "audio_path": "processed_data/audios/7544036731809451295.wav",
+        "label": 0,
+        "filename": "7544036731809451295.mp4",
+        "video_id": "7544036731809451295"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_41/7565351609522195719.mp4",
+        "audio_path": "processed_data/audios/7565351609522195719.wav",
+        "label": 1,
+        "filename": "7565351609522195719.mp4",
+        "video_id": "7565351609522195719"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_333/7540126270047341832.mp4",
+        "audio_path": "processed_data/audios/7540126270047341832.wav",
+        "label": 0,
+        "filename": "7540126270047341832.mp4",
+        "video_id": "7540126270047341832"
+    },
+    {
+        "path": "data/videos/harmful/video_531/7388468101819518225.mp4",
+        "audio_path": "processed_data/audios/7388468101819518225.wav",
+        "label": 0,
+        "filename": "7388468101819518225.mp4",
+        "video_id": "7388468101819518225"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_768/7582596743292783890.mp4",
+        "audio_path": "processed_data/audios/7582596743292783890.wav",
+        "label": 0,
+        "filename": "7582596743292783890.mp4",
+        "video_id": "7582596743292783890"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_464/7192174449620290843.mp4",
+        "audio_path": "processed_data/audios/7192174449620290843.wav",
+        "label": 0,
+        "filename": "7192174449620290843.mp4",
+        "video_id": "7192174449620290843"
+    },
+    {
+        "path": "data/videos/harmful/video_356/7537204559656062226.mp4",
+        "audio_path": "processed_data/audios/7537204559656062226.wav",
+        "label": 1,
+        "filename": "7537204559656062226.mp4",
+        "video_id": "7537204559656062226"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_36/7347550290150722823.mp4",
+        "audio_path": "processed_data/audios/7347550290150722823.wav",
+        "label": 0,
+        "filename": "7347550290150722823.mp4",
+        "video_id": "7347550290150722823"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_402/7352214432946212114.mp4",
+        "audio_path": "processed_data/audios/7352214432946212114.wav",
+        "label": 1,
+        "filename": "7352214432946212114.mp4",
+        "video_id": "7352214432946212114"
+    },
+    {
+        "path": "data/videos/not_harmful/video_546/7558035999444454664.mp4",
+        "audio_path": "processed_data/audios/7558035999444454664.wav",
+        "label": 0,
+        "filename": "7558035999444454664.mp4",
+        "video_id": "7558035999444454664"
+    },
+    {
+        "path": "data/videos/harmful/video_714/7525556914546035982.mp4",
+        "audio_path": "processed_data/audios/7525556914546035982.wav",
+        "label": 0,
+        "filename": "7525556914546035982.mp4",
+        "video_id": "7525556914546035982"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_562/7328760430984318209.mp4",
+        "audio_path": "processed_data/audios/7328760430984318209.wav",
+        "label": 0,
+        "filename": "7328760430984318209.mp4",
+        "video_id": "7328760430984318209"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_260/7500622268180073746.mp4",
+        "audio_path": "processed_data/audios/7500622268180073746.wav",
+        "label": 0,
+        "filename": "7500622268180073746.mp4",
+        "video_id": "7500622268180073746"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_33/7543222841295047937.mp4",
+        "audio_path": "processed_data/audios/7543222841295047937.wav",
+        "label": 0,
+        "filename": "7543222841295047937.mp4",
+        "video_id": "7543222841295047937"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_615/7585165961074871560.mp4",
+        "audio_path": "processed_data/audios/7585165961074871560.wav",
+        "label": 0,
+        "filename": "7585165961074871560.mp4",
+        "video_id": "7585165961074871560"
+    },
+    {
+        "path": "data/videos/not_harmful/video_522/7566854893802114322.mp4",
+        "audio_path": "processed_data/audios/7566854893802114322.wav",
+        "label": 0,
+        "filename": "7566854893802114322.mp4",
+        "video_id": "7566854893802114322"
+    },
+    {
+        "path": "data/videos/not_harmful/video_792/7555313510599707922.mp4",
+        "audio_path": "processed_data/audios/7555313510599707922.wav",
+        "label": 0,
+        "filename": "7555313510599707922.mp4",
+        "video_id": "7555313510599707922"
+    },
+    {
+        "path": "data/videos/not_harmful/video_131/7567164475577601310.mp4",
+        "audio_path": "processed_data/audios/7567164475577601310.wav",
+        "label": 0,
+        "filename": "7567164475577601310.mp4",
+        "video_id": "7567164475577601310"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_476/7539764862025485586.mp4",
+        "audio_path": "processed_data/audios/7539764862025485586.wav",
+        "label": 0,
+        "filename": "7539764862025485586.mp4",
+        "video_id": "7539764862025485586"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_772/7553627914831416584.mp4",
+        "audio_path": "processed_data/audios/7553627914831416584.wav",
+        "label": 0,
+        "filename": "7553627914831416584.mp4",
+        "video_id": "7553627914831416584"
+    },
+    {
+        "path": "data/videos/not_harmful/video_333/7559559755249847607.mp4",
+        "audio_path": "processed_data/audios/7559559755249847607.wav",
+        "label": 0,
+        "filename": "7559559755249847607.mp4",
+        "video_id": "7559559755249847607"
+    },
+    {
+        "path": "data/videos/not_harmful/video_587/7501247555565620487.mp4",
+        "audio_path": "processed_data/audios/7501247555565620487.wav",
+        "label": 1,
+        "filename": "7501247555565620487.mp4",
+        "video_id": "7501247555565620487"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_37/7451218108733312264.mp4",
+        "audio_path": "processed_data/audios/7451218108733312264.wav",
+        "label": 0,
+        "filename": "7451218108733312264.mp4",
+        "video_id": "7451218108733312264"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_738/7526146733764578568.mp4",
+        "audio_path": "processed_data/audios/7526146733764578568.wav",
+        "label": 0,
+        "filename": "7526146733764578568.mp4",
+        "video_id": "7526146733764578568"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_312/7584029229013110034.mp4",
+        "audio_path": "processed_data/audios/7584029229013110034.wav",
+        "label": 0,
+        "filename": "7584029229013110034.mp4",
+        "video_id": "7584029229013110034"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_880/7528284011995712776.mp4",
+        "audio_path": "processed_data/audios/7528284011995712776.wav",
+        "label": 1,
+        "filename": "7528284011995712776.mp4",
+        "video_id": "7528284011995712776"
+    },
+    {
+        "path": "data_1/videos/harmful/video_811/7564427259247971602.mp4",
+        "audio_path": "processed_data/audios/7564427259247971602.wav",
+        "label": 1,
+        "filename": "7564427259247971602.mp4",
+        "video_id": "7564427259247971602"
+    },
+    {
+        "path": "data/videos/harmful/video_540/7566331829968473362.mp4",
+        "audio_path": "processed_data/audios/7566331829968473362.wav",
+        "label": 0,
+        "filename": "7566331829968473362.mp4",
+        "video_id": "7566331829968473362"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_601/7575138631493487895.mp4",
+        "audio_path": "processed_data/audios/7575138631493487895.wav",
+        "label": 1,
+        "filename": "7575138631493487895.mp4",
+        "video_id": "7575138631493487895"
+    },
+    {
+        "path": "data/videos/harmful/video_914/7569786002282155284.mp4",
+        "audio_path": "processed_data/audios/7569786002282155284.wav",
+        "label": 0,
+        "filename": "7569786002282155284.mp4",
+        "video_id": "7569786002282155284"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_539/7372560677552065810.mp4",
+        "audio_path": "processed_data/audios/7372560677552065810.wav",
+        "label": 1,
+        "filename": "7372560677552065810.mp4",
+        "video_id": "7372560677552065810"
+    },
+    {
+        "path": "data/videos/harmful/video_147/7432499581276916999.mp4",
+        "audio_path": "processed_data/audios/7432499581276916999.wav",
+        "label": 0,
+        "filename": "7432499581276916999.mp4",
+        "video_id": "7432499581276916999"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_209/7585897341152988423.mp4",
+        "audio_path": "processed_data/audios/7585897341152988423.wav",
+        "label": 0,
+        "filename": "7585897341152988423.mp4",
+        "video_id": "7585897341152988423"
+    },
+    {
+        "path": "data/videos/not_harmful/video_682/7262178499186691329.mp4",
+        "audio_path": "processed_data/audios/7262178499186691329.wav",
+        "label": 0,
+        "filename": "7262178499186691329.mp4",
+        "video_id": "7262178499186691329"
+    },
+    {
+        "path": "data/videos/harmful/video_501/7476190072383999254.mp4",
+        "audio_path": "processed_data/audios/7476190072383999254.wav",
+        "label": 0,
+        "filename": "7476190072383999254.mp4",
+        "video_id": "7476190072383999254"
+    },
+    {
+        "path": "data/videos/harmful/video_103/7518287163469909279.mp4",
+        "audio_path": "processed_data/audios/7518287163469909279.wav",
+        "label": 0,
+        "filename": "7518287163469909279.mp4",
+        "video_id": "7518287163469909279"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_717/7505253691050478864.mp4",
+        "audio_path": "processed_data/audios/7505253691050478864.wav",
+        "label": 0,
+        "filename": "7505253691050478864.mp4",
+        "video_id": "7505253691050478864"
+    },
+    {
+        "path": "data/videos/not_harmful/video_28/7525673266543922439.mp4",
+        "audio_path": "processed_data/audios/7525673266543922439.wav",
+        "label": 0,
+        "filename": "7525673266543922439.mp4",
+        "video_id": "7525673266543922439"
+    },
+    {
+        "path": "data/videos/not_harmful/video_734/7277259590809455905.mp4",
+        "audio_path": "processed_data/audios/7277259590809455905.wav",
+        "label": 0,
+        "filename": "7277259590809455905.mp4",
+        "video_id": "7277259590809455905"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_550/7587232673161039118.mp4",
+        "audio_path": "processed_data/audios/7587232673161039118.wav",
+        "label": 1,
+        "filename": "7587232673161039118.mp4",
+        "video_id": "7587232673161039118"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_163/7441180944121203989.mp4",
+        "audio_path": "processed_data/audios/7441180944121203989.wav",
+        "label": 0,
+        "filename": "7441180944121203989.mp4",
+        "video_id": "7441180944121203989"
+    },
+    {
+        "path": "data/videos/not_harmful/video_102/7537666864592293142.mp4",
+        "audio_path": "processed_data/audios/7537666864592293142.wav",
+        "label": 0,
+        "filename": "7537666864592293142.mp4",
+        "video_id": "7537666864592293142"
+    },
+    {
+        "path": "data/videos/not_harmful/video_579/7518743835736919312.mp4",
+        "audio_path": "processed_data/audios/7518743835736919312.wav",
+        "label": 0,
+        "filename": "7518743835736919312.mp4",
+        "video_id": "7518743835736919312"
+    },
+    {
+        "path": "data/videos/not_harmful/video_29/7543492403668323591.mp4",
+        "audio_path": "processed_data/audios/7543492403668323591.wav",
+        "label": 0,
+        "filename": "7543492403668323591.mp4",
+        "video_id": "7543492403668323591"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_604/7222633480872561947.mp4",
+        "audio_path": "processed_data/audios/7222633480872561947.wav",
+        "label": 0,
+        "filename": "7222633480872561947.mp4",
+        "video_id": "7222633480872561947"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_452/7530612737643236615.mp4",
+        "audio_path": "processed_data/audios/7530612737643236615.wav",
+        "label": 0,
+        "filename": "7530612737643236615.mp4",
+        "video_id": "7530612737643236615"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_504/7585143973744774420.mp4",
+        "audio_path": "processed_data/audios/7585143973744774420.wav",
+        "label": 0,
+        "filename": "7585143973744774420.mp4",
+        "video_id": "7585143973744774420"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_124/7257167397428137222.mp4",
+        "audio_path": "processed_data/audios/7257167397428137222.wav",
+        "label": 1,
+        "filename": "7257167397428137222.mp4",
+        "video_id": "7257167397428137222"
+    },
+    {
+        "path": "data/videos/not_harmful/video_221/7563992492874435848.mp4",
+        "audio_path": "processed_data/audios/7563992492874435848.wav",
+        "label": 1,
+        "filename": "7563992492874435848.mp4",
+        "video_id": "7563992492874435848"
+    },
+    {
+        "path": "data/videos/not_harmful/video_300/7545830794242133279.mp4",
+        "audio_path": "processed_data/audios/7545830794242133279.wav",
+        "label": 0,
+        "filename": "7545830794242133279.mp4",
+        "video_id": "7545830794242133279"
+    },
+    {
+        "path": "data_1/videos/harmful/video_975/7112764347222396187.mp4",
+        "audio_path": "processed_data/audios/7112764347222396187.wav",
+        "label": 0,
+        "filename": "7112764347222396187.mp4",
+        "video_id": "7112764347222396187"
+    },
+    {
+        "path": "data/videos/harmful/video_373/7544320905778941192.mp4",
+        "audio_path": "processed_data/audios/7544320905778941192.wav",
+        "label": 0,
+        "filename": "7544320905778941192.mp4",
+        "video_id": "7544320905778941192"
+    },
+    {
+        "path": "data/videos/not_harmful/video_670/7469344929119096071.mp4",
+        "audio_path": "processed_data/audios/7469344929119096071.wav",
+        "label": 1,
+        "filename": "7469344929119096071.mp4",
+        "video_id": "7469344929119096071"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_129/7512418184033602838.mp4",
+        "audio_path": "processed_data/audios/7512418184033602838.wav",
+        "label": 0,
+        "filename": "7512418184033602838.mp4",
+        "video_id": "7512418184033602838"
+    },
+    {
+        "path": "data/videos/not_harmful/video_877/7452763996018560299.mp4",
+        "audio_path": "processed_data/audios/7452763996018560299.wav",
+        "label": 0,
+        "filename": "7452763996018560299.mp4",
+        "video_id": "7452763996018560299"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_318/7564652770234617096.mp4",
+        "audio_path": "processed_data/audios/7564652770234617096.wav",
+        "label": 0,
+        "filename": "7564652770234617096.mp4",
+        "video_id": "7564652770234617096"
+    },
+    {
+        "path": "data/videos/harmful/video_452/7569641920952044820.mp4",
+        "audio_path": "processed_data/audios/7569641920952044820.wav",
+        "label": 1,
+        "filename": "7569641920952044820.mp4",
+        "video_id": "7569641920952044820"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_138/7387626374246239496.mp4",
+        "audio_path": "processed_data/audios/7387626374246239496.wav",
+        "label": 1,
+        "filename": "7387626374246239496.mp4",
+        "video_id": "7387626374246239496"
+    },
+    {
+        "path": "data_1/videos/harmful/video_781/7163881550172540165.mp4",
+        "audio_path": "processed_data/audios/7163881550172540165.wav",
+        "label": 1,
+        "filename": "7163881550172540165.mp4",
+        "video_id": "7163881550172540165"
+    },
+    {
+        "path": "data/videos/not_harmful/video_394/7562448854671445255.mp4",
+        "audio_path": "processed_data/audios/7562448854671445255.wav",
+        "label": 0,
+        "filename": "7562448854671445255.mp4",
+        "video_id": "7562448854671445255"
+    },
+    {
+        "path": "data/videos/harmful/video_887/7568448312467098887.mp4",
+        "audio_path": "processed_data/audios/7568448312467098887.wav",
+        "label": 0,
+        "filename": "7568448312467098887.mp4",
+        "video_id": "7568448312467098887"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_306/6997939615650958619.mp4",
+        "audio_path": "processed_data/audios/6997939615650958619.wav",
+        "label": 0,
+        "filename": "6997939615650958619.mp4",
+        "video_id": "6997939615650958619"
+    },
+    {
+        "path": "data/videos/not_harmful/video_415/7464144473220467976.mp4",
+        "audio_path": "processed_data/audios/7464144473220467976.wav",
+        "label": 0,
+        "filename": "7464144473220467976.mp4",
+        "video_id": "7464144473220467976"
+    },
+    {
+        "path": "data/videos/not_harmful/video_702/7563672514392591623.mp4",
+        "audio_path": "processed_data/audios/7563672514392591623.wav",
+        "label": 0,
+        "filename": "7563672514392591623.mp4",
+        "video_id": "7563672514392591623"
+    },
+    {
+        "path": "data/videos/not_harmful/video_157/7524304950168538375.mp4",
+        "audio_path": "processed_data/audios/7524304950168538375.wav",
+        "label": 0,
+        "filename": "7524304950168538375.mp4",
+        "video_id": "7524304950168538375"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_540/7578853026056686856.mp4",
+        "audio_path": "processed_data/audios/7578853026056686856.wav",
+        "label": 0,
+        "filename": "7578853026056686856.mp4",
+        "video_id": "7578853026056686856"
+    },
+    {
+        "path": "data/videos/harmful/video_467/7560916515738914064.mp4",
+        "audio_path": "processed_data/audios/7560916515738914064.wav",
+        "label": 0,
+        "filename": "7560916515738914064.mp4",
+        "video_id": "7560916515738914064"
+    },
+    {
+        "path": "data/videos/harmful/video_360/7421213504327191826.mp4",
+        "audio_path": "processed_data/audios/7421213504327191826.wav",
+        "label": 0,
+        "filename": "7421213504327191826.mp4",
+        "video_id": "7421213504327191826"
+    },
+    {
+        "path": "data/videos/harmful/video_778/7186868450453654811.mp4",
+        "audio_path": "processed_data/audios/7186868450453654811.wav",
+        "label": 1,
+        "filename": "7186868450453654811.mp4",
+        "video_id": "7186868450453654811"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_214/7562816518665325842.mp4",
+        "audio_path": "processed_data/audios/7562816518665325842.wav",
+        "label": 0,
+        "filename": "7562816518665325842.mp4",
+        "video_id": "7562816518665325842"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_231/7523875121094774034.mp4",
+        "audio_path": "processed_data/audios/7523875121094774034.wav",
+        "label": 0,
+        "filename": "7523875121094774034.mp4",
+        "video_id": "7523875121094774034"
+    },
+    {
+        "path": "data/videos/harmful/video_636/7569279795159158038.mp4",
+        "audio_path": "processed_data/audios/7569279795159158038.wav",
+        "label": 0,
+        "filename": "7569279795159158038.mp4",
+        "video_id": "7569279795159158038"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_194/7418423681577143559.mp4",
+        "audio_path": "processed_data/audios/7418423681577143559.wav",
+        "label": 0,
+        "filename": "7418423681577143559.mp4",
+        "video_id": "7418423681577143559"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_693/7547609696300059911.mp4",
+        "audio_path": "processed_data/audios/7547609696300059911.wav",
+        "label": 0,
+        "filename": "7547609696300059911.mp4",
+        "video_id": "7547609696300059911"
+    },
+    {
+        "path": "data/videos/harmful/video_465/7444261582546275606.mp4",
+        "audio_path": "processed_data/audios/7444261582546275606.wav",
+        "label": 0,
+        "filename": "7444261582546275606.mp4",
+        "video_id": "7444261582546275606"
+    },
+    {
+        "path": "data/videos/not_harmful/video_338/7415265302465776903.mp4",
+        "audio_path": "processed_data/audios/7415265302465776903.wav",
+        "label": 0,
+        "filename": "7415265302465776903.mp4",
+        "video_id": "7415265302465776903"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_944/7481639935754243335.mp4",
+        "audio_path": "processed_data/audios/7481639935754243335.wav",
+        "label": 0,
+        "filename": "7481639935754243335.mp4",
+        "video_id": "7481639935754243335"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_553/7556040012169596178.mp4",
+        "audio_path": "processed_data/audios/7556040012169596178.wav",
+        "label": 0,
+        "filename": "7556040012169596178.mp4",
+        "video_id": "7556040012169596178"
+    },
+    {
+        "path": "data/videos/harmful/video_341/7302211290888490282.mp4",
+        "audio_path": "processed_data/audios/7302211290888490282.wav",
+        "label": 1,
+        "filename": "7302211290888490282.mp4",
+        "video_id": "7302211290888490282"
+    },
+    {
+        "path": "data/videos/harmful/video_139/7414278165989723410.mp4",
+        "audio_path": "processed_data/audios/7414278165989723410.wav",
+        "label": 1,
+        "filename": "7414278165989723410.mp4",
+        "video_id": "7414278165989723410"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_666/7566984500144655633.mp4",
+        "audio_path": "processed_data/audios/7566984500144655633.wav",
+        "label": 0,
+        "filename": "7566984500144655633.mp4",
+        "video_id": "7566984500144655633"
+    },
+    {
+        "path": "data/videos/harmful/video_964/7386203079248547080.mp4",
+        "audio_path": "processed_data/audios/7386203079248547080.wav",
+        "label": 0,
+        "filename": "7386203079248547080.mp4",
+        "video_id": "7386203079248547080"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_814/7559031117647514887.mp4",
+        "audio_path": "processed_data/audios/7559031117647514887.wav",
+        "label": 0,
+        "filename": "7559031117647514887.mp4",
+        "video_id": "7559031117647514887"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_237/7564685739246636306.mp4",
+        "audio_path": "processed_data/audios/7564685739246636306.wav",
+        "label": 0,
+        "filename": "7564685739246636306.mp4",
+        "video_id": "7564685739246636306"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_969/7564676234387688706.mp4",
+        "audio_path": "processed_data/audios/7564676234387688706.wav",
+        "label": 0,
+        "filename": "7564676234387688706.mp4",
+        "video_id": "7564676234387688706"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_986/7584467602747985172.mp4",
+        "audio_path": "processed_data/audios/7584467602747985172.wav",
+        "label": 0,
+        "filename": "7584467602747985172.mp4",
+        "video_id": "7584467602747985172"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_259/7479363020435541268.mp4",
+        "audio_path": "processed_data/audios/7479363020435541268.wav",
+        "label": 0,
+        "filename": "7479363020435541268.mp4",
+        "video_id": "7479363020435541268"
+    },
+    {
+        "path": "data/videos/not_harmful/video_515/7373666929178955015.mp4",
+        "audio_path": "processed_data/audios/7373666929178955015.wav",
+        "label": 1,
+        "filename": "7373666929178955015.mp4",
+        "video_id": "7373666929178955015"
+    },
+    {
+        "path": "data/videos/harmful/video_320/7451841181769682183.mp4",
+        "audio_path": "processed_data/audios/7451841181769682183.wav",
+        "label": 0,
+        "filename": "7451841181769682183.mp4",
+        "video_id": "7451841181769682183"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_510/7577324324206546183.mp4",
+        "audio_path": "processed_data/audios/7577324324206546183.wav",
+        "label": 1,
+        "filename": "7577324324206546183.mp4",
+        "video_id": "7577324324206546183"
+    },
+    {
+        "path": "data/videos/not_harmful/video_demo_3/7568753395637521672.mp4",
+        "audio_path": "processed_data/audios/7568753395637521672.wav",
+        "label": 1,
+        "filename": "7568753395637521672.mp4",
+        "video_id": "7568753395637521672"
+    },
+    {
+        "path": "data/videos/harmful/video_728/7563842397000469778.mp4",
+        "audio_path": "processed_data/audios/7563842397000469778.wav",
+        "label": 1,
+        "filename": "7563842397000469778.mp4",
+        "video_id": "7563842397000469778"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_352/7501169495910780167.mp4",
+        "audio_path": "processed_data/audios/7501169495910780167.wav",
+        "label": 0,
+        "filename": "7501169495910780167.mp4",
+        "video_id": "7501169495910780167"
+    },
+    {
+        "path": "data/videos/harmful/video_97/7561852667564166418.mp4",
+        "audio_path": "processed_data/audios/7561852667564166418.wav",
+        "label": 1,
+        "filename": "7561852667564166418.mp4",
+        "video_id": "7561852667564166418"
+    },
+    {
+        "path": "data/videos/not_harmful/video_352/7561365335413214472.mp4",
+        "audio_path": "processed_data/audios/7561365335413214472.wav",
+        "label": 0,
+        "filename": "7561365335413214472.mp4",
+        "video_id": "7561365335413214472"
+    },
+    {
+        "path": "data_1/videos/harmful/video_617/7321270166820556065.mp4",
+        "audio_path": "processed_data/audios/7321270166820556065.wav",
+        "label": 0,
+        "filename": "7321270166820556065.mp4",
+        "video_id": "7321270166820556065"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_788/7353143486696131847.mp4",
+        "audio_path": "processed_data/audios/7353143486696131847.wav",
+        "label": 0,
+        "filename": "7353143486696131847.mp4",
+        "video_id": "7353143486696131847"
+    },
+    {
+        "path": "data_1/videos/harmful/video_409/7568084680826686741.mp4",
+        "audio_path": "processed_data/audios/7568084680826686741.wav",
+        "label": 0,
+        "filename": "7568084680826686741.mp4",
+        "video_id": "7568084680826686741"
+    },
+    {
+        "path": "data/videos/harmful/video_470/6915794315675438338.mp4",
+        "audio_path": "processed_data/audios/6915794315675438338.wav",
+        "label": 1,
+        "filename": "6915794315675438338.mp4",
+        "video_id": "6915794315675438338"
+    },
+    {
+        "path": "data/videos/not_harmful/video_277/7554755260582055175.mp4",
+        "audio_path": "processed_data/audios/7554755260582055175.wav",
+        "label": 0,
+        "filename": "7554755260582055175.mp4",
+        "video_id": "7554755260582055175"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_728/7571427862671084808.mp4",
+        "audio_path": "processed_data/audios/7571427862671084808.wav",
+        "label": 0,
+        "filename": "7571427862671084808.mp4",
+        "video_id": "7571427862671084808"
+    },
+    {
+        "path": "data_1/videos/harmful/video_905/7345416343572794629.mp4",
+        "audio_path": "processed_data/audios/7345416343572794629.wav",
+        "label": 1,
+        "filename": "7345416343572794629.mp4",
+        "video_id": "7345416343572794629"
+    },
+    {
+        "path": "data/videos/not_harmful/video_891/7566971498922102023.mp4",
+        "audio_path": "processed_data/audios/7566971498922102023.wav",
+        "label": 0,
+        "filename": "7566971498922102023.mp4",
+        "video_id": "7566971498922102023"
+    },
+    {
+        "path": "data/videos/harmful/video_855/7569631380221562120.mp4",
+        "audio_path": "processed_data/audios/7569631380221562120.wav",
+        "label": 0,
+        "filename": "7569631380221562120.mp4",
+        "video_id": "7569631380221562120"
+    },
+    {
+        "path": "data/videos/harmful/video_882/7545434914313866503.mp4",
+        "audio_path": "processed_data/audios/7545434914313866503.wav",
+        "label": 0,
+        "filename": "7545434914313866503.mp4",
+        "video_id": "7545434914313866503"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_687/7560140873430879508.mp4",
+        "audio_path": "processed_data/audios/7560140873430879508.wav",
+        "label": 0,
+        "filename": "7560140873430879508.mp4",
+        "video_id": "7560140873430879508"
+    },
+    {
+        "path": "data/videos/harmful/video_966/7291970690603814145.mp4",
+        "audio_path": "processed_data/audios/7291970690603814145.wav",
+        "label": 0,
+        "filename": "7291970690603814145.mp4",
+        "video_id": "7291970690603814145"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_379/7584415213152259336.mp4",
+        "audio_path": "processed_data/audios/7584415213152259336.wav",
+        "label": 0,
+        "filename": "7584415213152259336.mp4",
+        "video_id": "7584415213152259336"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_574/7541042568784661777.mp4",
+        "audio_path": "processed_data/audios/7541042568784661777.wav",
+        "label": 0,
+        "filename": "7541042568784661777.mp4",
+        "video_id": "7541042568784661777"
+    },
+    {
+        "path": "data/videos/harmful/video_175/7270272161691045153.mp4",
+        "audio_path": "processed_data/audios/7270272161691045153.wav",
+        "label": 0,
+        "filename": "7270272161691045153.mp4",
+        "video_id": "7270272161691045153"
+    },
+    {
+        "path": "data_1/videos/harmful/video_208/6967306595327905026.mp4",
+        "audio_path": "processed_data/audios/6967306595327905026.wav",
+        "label": 1,
+        "filename": "6967306595327905026.mp4",
+        "video_id": "6967306595327905026"
+    },
+    {
+        "path": "data/videos/not_harmful/video_46/7547644423430049032.mp4",
+        "audio_path": "processed_data/audios/7547644423430049032.wav",
+        "label": 0,
+        "filename": "7547644423430049032.mp4",
+        "video_id": "7547644423430049032"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_121/7525050719720721671.mp4",
+        "audio_path": "processed_data/audios/7525050719720721671.wav",
+        "label": 1,
+        "filename": "7525050719720721671.mp4",
+        "video_id": "7525050719720721671"
+    },
+    {
+        "path": "data/videos/harmful/video_507/6902464464222784774.mp4",
+        "audio_path": "processed_data/audios/6902464464222784774.wav",
+        "label": 0,
+        "filename": "6902464464222784774.mp4",
+        "video_id": "6902464464222784774"
+    },
+    {
+        "path": "data/videos/harmful/video_920/7379677741253266718.mp4",
+        "audio_path": "processed_data/audios/7379677741253266718.wav",
+        "label": 0,
+        "filename": "7379677741253266718.mp4",
+        "video_id": "7379677741253266718"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_304/7521579763673222418.mp4",
+        "audio_path": "processed_data/audios/7521579763673222418.wav",
+        "label": 0,
+        "filename": "7521579763673222418.mp4",
+        "video_id": "7521579763673222418"
+    },
+    {
+        "path": "data/videos/not_harmful/video_409/7493411826823204103.mp4",
+        "audio_path": "processed_data/audios/7493411826823204103.wav",
+        "label": 0,
+        "filename": "7493411826823204103.mp4",
+        "video_id": "7493411826823204103"
+    },
+    {
+        "path": "data/videos/harmful/video_624/7194677450205400347.mp4",
+        "audio_path": "processed_data/audios/7194677450205400347.wav",
+        "label": 0,
+        "filename": "7194677450205400347.mp4",
+        "video_id": "7194677450205400347"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_314/7546614147161541906.mp4",
+        "audio_path": "processed_data/audios/7546614147161541906.wav",
+        "label": 1,
+        "filename": "7546614147161541906.mp4",
+        "video_id": "7546614147161541906"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_737/7109814706495442202.mp4",
+        "audio_path": "processed_data/audios/7109814706495442202.wav",
+        "label": 1,
+        "filename": "7109814706495442202.mp4",
+        "video_id": "7109814706495442202"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_822/7221021103748091137.mp4",
+        "audio_path": "processed_data/audios/7221021103748091137.wav",
+        "label": 0,
+        "filename": "7221021103748091137.mp4",
+        "video_id": "7221021103748091137"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_218/7455685026299104520.mp4",
+        "audio_path": "processed_data/audios/7455685026299104520.wav",
+        "label": 1,
+        "filename": "7455685026299104520.mp4",
+        "video_id": "7455685026299104520"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_321/7104865838255115566.mp4",
+        "audio_path": "processed_data/audios/7104865838255115566.wav",
+        "label": 0,
+        "filename": "7104865838255115566.mp4",
+        "video_id": "7104865838255115566"
+    },
+    {
+        "path": "data/videos/harmful/video_642/7569876573269019920.mp4",
+        "audio_path": "processed_data/audios/7569876573269019920.wav",
+        "label": 0,
+        "filename": "7569876573269019920.mp4",
+        "video_id": "7569876573269019920"
+    },
+    {
+        "path": "data/videos/not_harmful/video_866/7531021971665079568.mp4",
+        "audio_path": "processed_data/audios/7531021971665079568.wav",
+        "label": 1,
+        "filename": "7531021971665079568.mp4",
+        "video_id": "7531021971665079568"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_634/7497887992976067858.mp4",
+        "audio_path": "processed_data/audios/7497887992976067858.wav",
+        "label": 0,
+        "filename": "7497887992976067858.mp4",
+        "video_id": "7497887992976067858"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_719/7508647958640938248.mp4",
+        "audio_path": "processed_data/audios/7508647958640938248.wav",
+        "label": 0,
+        "filename": "7508647958640938248.mp4",
+        "video_id": "7508647958640938248"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_547/7576105755024149767.mp4",
+        "audio_path": "processed_data/audios/7576105755024149767.wav",
+        "label": 0,
+        "filename": "7576105755024149767.mp4",
+        "video_id": "7576105755024149767"
+    },
+    {
+        "path": "data/videos/not_harmful/video_598/7411736172071882005.mp4",
+        "audio_path": "processed_data/audios/7411736172071882005.wav",
+        "label": 0,
+        "filename": "7411736172071882005.mp4",
+        "video_id": "7411736172071882005"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_643/7541872187582549270.mp4",
+        "audio_path": "processed_data/audios/7541872187582549270.wav",
+        "label": 0,
+        "filename": "7541872187582549270.mp4",
+        "video_id": "7541872187582549270"
+    },
+    {
+        "path": "data/videos/not_harmful/video_628/7509780334360218887.mp4",
+        "audio_path": "processed_data/audios/7509780334360218887.wav",
+        "label": 0,
+        "filename": "7509780334360218887.mp4",
+        "video_id": "7509780334360218887"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_739/7514644663714811143.mp4",
+        "audio_path": "processed_data/audios/7514644663714811143.wav",
+        "label": 1,
+        "filename": "7514644663714811143.mp4",
+        "video_id": "7514644663714811143"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_166/7427752028153171218.mp4",
+        "audio_path": "processed_data/audios/7427752028153171218.wav",
+        "label": 0,
+        "filename": "7427752028153171218.mp4",
+        "video_id": "7427752028153171218"
+    },
+    {
+        "path": "data/videos/harmful/video_688/7475948343357738247.mp4",
+        "audio_path": "processed_data/audios/7475948343357738247.wav",
+        "label": 1,
+        "filename": "7475948343357738247.mp4",
+        "video_id": "7475948343357738247"
+    },
+    {
+        "path": "data_1/videos/harmful/video_909/7490502613914471688.mp4",
+        "audio_path": "processed_data/audios/7490502613914471688.wav",
+        "label": 1,
+        "filename": "7490502613914471688.mp4",
+        "video_id": "7490502613914471688"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_813/7587781288971537671.mp4",
+        "audio_path": "processed_data/audios/7587781288971537671.wav",
+        "label": 0,
+        "filename": "7587781288971537671.mp4",
+        "video_id": "7587781288971537671"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_339/7558042260726631698.mp4",
+        "audio_path": "processed_data/audios/7558042260726631698.wav",
+        "label": 0,
+        "filename": "7558042260726631698.mp4",
+        "video_id": "7558042260726631698"
+    },
+    {
+        "path": "data/videos/not_harmful/video_765/7517229247639981319.mp4",
+        "audio_path": "processed_data/audios/7517229247639981319.wav",
+        "label": 0,
+        "filename": "7517229247639981319.mp4",
+        "video_id": "7517229247639981319"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_455/7531407469742935314.mp4",
+        "audio_path": "processed_data/audios/7531407469742935314.wav",
+        "label": 1,
+        "filename": "7531407469742935314.mp4",
+        "video_id": "7531407469742935314"
+    },
+    {
+        "path": "data/videos/not_harmful/video_950/7556311683736685846.mp4",
+        "audio_path": "processed_data/audios/7556311683736685846.wav",
+        "label": 0,
+        "filename": "7556311683736685846.mp4",
+        "video_id": "7556311683736685846"
+    },
+    {
+        "path": "data/videos/not_harmful/video_856/7132913956766715141.mp4",
+        "audio_path": "processed_data/audios/7132913956766715141.wav",
+        "label": 0,
+        "filename": "7132913956766715141.mp4",
+        "video_id": "7132913956766715141"
+    },
+    {
+        "path": "data/videos/not_harmful/video_940/7522048476608318738.mp4",
+        "audio_path": "processed_data/audios/7522048476608318738.wav",
+        "label": 0,
+        "filename": "7522048476608318738.mp4",
+        "video_id": "7522048476608318738"
+    },
+    {
+        "path": "data_viet/videos/not_harmful/video_279/7547315723366878472.mp4",
+        "audio_path": "processed_data/audios/7547315723366878472.wav",
+        "label": 0,
+        "filename": "7547315723366878472.mp4",
+        "video_id": "7547315723366878472"
+    },
+    {
+        "path": "data/videos/harmful/video_658/7201479715050278170.mp4",
+        "audio_path": "processed_data/audios/7201479715050278170.wav",
+        "label": 0,
+        "filename": "7201479715050278170.mp4",
+        "video_id": "7201479715050278170"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_669/7584004538991004958.mp4",
+        "audio_path": "processed_data/audios/7584004538991004958.wav",
+        "label": 1,
+        "filename": "7584004538991004958.mp4",
+        "video_id": "7584004538991004958"
+    },
+    {
+        "path": "data/videos/harmful/video_429/7228401596512734490.mp4",
+        "audio_path": "processed_data/audios/7228401596512734490.wav",
+        "label": 1,
+        "filename": "7228401596512734490.mp4",
+        "video_id": "7228401596512734490"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_565/7584727891749965063.mp4",
+        "audio_path": "processed_data/audios/7584727891749965063.wav",
+        "label": 0,
+        "filename": "7584727891749965063.mp4",
+        "video_id": "7584727891749965063"
+    },
+    {
+        "path": "data_viet/videos/harmful/video_108/6863277254638636290.mp4",
+        "audio_path": "processed_data/audios/6863277254638636290.wav",
+        "label": 0,
+        "filename": "6863277254638636290.mp4",
+        "video_id": "6863277254638636290"
+    }
+]

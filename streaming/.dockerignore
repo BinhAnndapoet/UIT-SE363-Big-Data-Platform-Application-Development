@@ -1,0 +1,17 @@
+# Bỏ qua các thư mục dữ liệu nặng
+tiktok-pipeline/minio_data
+tiktok-pipeline/postgres_data
+tiktok-pipeline/ingestion/temp_downloads
+
+# Runtime state (khuyến nghị dùng thư mục này cho volumes)
+state
+state/**
+tiktok-pipeline/postgres_init
+airflow/logs
+chrome_profile
+
+# Bỏ qua các file rác hệ thống
+__pycache__
+*.pyc
+.git
+.env
