@@ -58,74 +58,81 @@ This project implements a **Lambda Architecture** based Big Data platform for re
 
 ---
 
-## 🚀 Quick Start
+## 🚀 Quick Start & Installation Guide
 
-### Clone Repository
+### Prerequisites
+
+| Requirement | Minimum | Recommended |
+|-------------|---------|-------------|
+| **OS** | Ubuntu 20.04+ / Windows 10+ (WSL2) | Ubuntu 22.04 |
+| **Docker** | Docker Engine 20.10+ & Compose v2 | Latest |
+| **Python** | 3.9+ | 3.10+ |
+| **RAM** | 16GB | 32GB |
+| **Storage** | 50GB free | 100GB+ |
+
+### Step 1: Clone Repository
 
 ```bash
 git clone https://github.com/BinhAnndapoet/UIT-SE363-Big-Data-Platform-Application-Development.git
 cd UIT-SE363-Big-Data-Platform-Application-Development
 ```
 
-### Setup Environment
+### Step 2: Setup Environment
 
 ```bash
-# Copy environment file
+# Copy environment template
 cp streaming/.env.example streaming/.env
 
-# (Optional) Edit .env if needed
-nano streaming/.env
+# (Optional) Create Python virtual environment
+python3 -m venv .venv
+source .venv/bin/activate  # Linux/Mac
+# .\.venv\Scripts\Activate.ps1  # Windows PowerShell
+
+# Install dependencies (for local development)
+pip install -r requirements.txt
 ```
 
-### Download Data (Required for Training)
+### Step 3: Setup Cookies (Required for Crawling)
 
-> **Note**: Raw data and audio files are not included in the repository due to size constraints. Download them from Google Drive:
+1. Install Chrome extension **"Get cookies.txt LOCALLY"**
+2. Login to TikTok in Chrome
+3. Click extension → **"Export All Cookies"** → Save as `cookies.txt`
+4. Copy to streaming folder:
+   ```bash
+   cp cookies.txt streaming/ingestion/cookies.txt
+   ```
+
+### Step 4: Download Data (Optional)
+
+> **💡 Alternative**: Skip this step - the streaming pipeline will automatically crawl new videos!
 
 | Folder | Download Link | Description |
 |--------|---------------|-------------|
 | `data/` | [Google Drive](https://drive.google.com) *(link TBD)* | Raw crawled videos (batch 1) |
 | `data_1/` | [Google Drive](https://drive.google.com) *(link TBD)* | Raw crawled videos (batch 2) |
 | `data_viet/` | [Google Drive](https://drive.google.com) *(link TBD)* | Vietnamese TikTok videos |
-| `processed_data/audios/` | [Google Drive](https://drive.google.com) *(link TBD)* | Extracted audio files (.wav) |
 
-**After downloading**, extract and place folders in the project root:
-
-```
-UIT-SE363-Big-Data-Platform-Application-Development/
-├── data/                    # ← Extract here
-├── data_1/                  # ← Extract here
-├── data_viet/               # ← Extract here
-└── processed_data/
-    └── audios/              # ← Extract here
-```
-
-> **💡 Alternative**: If you **don't have the data**, you can run the **streaming pipeline** which will automatically crawl new videos for you. Skip to "Run with Docker" section.
-
-### Setup TikTok Cookies (Required for Crawling)
-
-> **Important**: TikTok requires authentication cookies to download videos. Without valid cookies, crawling will fail with 403 errors.
-
-**Steps to get cookies:**
-
-1. Install the Chrome extension **"Get cookies.txt LOCALLY"** from Chrome Web Store
-2. Login to TikTok in Chrome
-3. Click the extension icon and select **"Export All Cookies"**
-4. Save the file as `cookies.txt`
-5. Copy to the required location:
-   ```bash
-   # For streaming pipeline (Docker)
-   cp cookies.txt streaming/ingestion/cookies.txt
-   
-   # For manual crawling scripts:
-   cp cookies.txt crawl_scripts/cookies.txt
-   ```
-
-### Run with Docker (Ubuntu)
+### Step 5: Run with Docker
 
 ```bash
 cd streaming
 chmod +x start_all.sh
 ./start_all.sh
+```
+
+**Alternative Docker Commands:**
+```bash
+# Manual start
+docker compose up -d --build
+
+# Check status
+docker compose ps
+
+# View logs
+docker compose logs -f spark-processor
+
+# Stop all
+docker compose down
 ```
 
 ### Access Services
@@ -134,9 +141,55 @@ chmod +x start_all.sh
 |---------|-----|-------------|
 | **Dashboard** | http://localhost:8501 | - |
 | **Airflow** | http://localhost:8080 | admin / admin |
+| **MLflow** | http://localhost:5000 | - |
 | **MinIO Console** | http://localhost:9001 | admin / password123 |
 | **Spark Master** | http://localhost:9090 | - |
-| **MLflow** | http://localhost:5000 | - |
+
+---
+
+## 🎮 Usage
+
+### Running the Pipeline
+
+1. **Open Airflow** at http://localhost:8080 (login: admin/admin)
+
+2. **Trigger DAG 1**: `1_TIKTOK_ETL_COLLECTOR`
+   - Crawls TikTok videos by hashtags
+   - Wait for completion (Success status)
+
+3. **Trigger DAG 2**: `2_TIKTOK_STREAMING_PIPELINE`
+   - Downloads videos to MinIO
+   - Runs AI inference with Spark
+   - Stores results in PostgreSQL
+   - **Auto-loops** for continuous processing
+
+4. **Monitor Dashboard** at http://localhost:8501
+
+---
+
+## 🧪 Testing
+
+### Shell Scripts (Ubuntu)
+
+```bash
+cd streaming
+
+# Run all tests
+./tests/run_all_tests.sh
+
+# Test individual layers
+./tests/test_layer1_infrastructure.sh  # Docker, Kafka, MinIO
+./tests/test_layer2_ingestion.sh       # Crawler, Downloader
+./tests/test_layer3_processing.sh      # Spark, AI Models
+./tests/test_layer4_dashboard.sh       # Streamlit Dashboard
+```
+
+### Python Tests
+
+```bash
+cd streaming
+pytest tests/ -v
+```
 
 ---
 
@@ -275,10 +328,12 @@ UIT-SE363-Big-Data-Platform-Application-Development/
 
 ## 🏗️ Layer Architecture
 
-The system follows an **8-layer architecture**:
+The system follows a **9-layer architecture**:
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
+│  Layer 9: MODEL REGISTRY        │  MLflow (port 5000)                  │
+├────────────────────────────────────────────────────────────────────────┤
 │  Layer 8: PRESENTATION          │  Streamlit Dashboard (port 8501)    │
 ├────────────────────────────────────────────────────────────────────────┤
 │  Layer 7: DATA STORAGE          │  PostgreSQL (processed_results)     │
@@ -309,6 +364,37 @@ The system follows an **8-layer architecture**:
 | **L6: Orchestration** | Airflow DAGs | [airflow/dags/](streaming/airflow/dags/) |
 | **L7: Data Storage** | PostgreSQL | [db_migrator.py](streaming/db_migrator.py) |
 | **L8: Presentation** | Streamlit Dashboard | [dashboard/app.py](streaming/dashboard/app.py) |
+| **L9: Model Registry** | MLflow Server | [mlflow/client.py](streaming/mlflow/client.py), [model_updater.py](streaming/mlflow/model_updater.py) |
+
+### MLflow Layer (L9) - Model Registry & Auto-Update
+
+**Purpose**: Automatic model versioning, tracking, and production updates based on F1-score.
+
+**Features:**
+- 📊 **Experiment Tracking**: Log metrics, params, artifacts for each training run
+- 📦 **Model Registry**: Version control for text, video, and fusion models
+- 🔄 **Auto-Update**: Every **15 minutes**, Spark checks for better models in MLflow
+- 📈 **F1-Score Based**: Only updates if new model surpasses threshold:
+
+| Model | Minimum F1 Threshold |
+|-------|---------------------|
+| Text | 0.75 |
+| Video | 0.70 |
+| Fusion | 0.80 |
+
+**How it works:**
+```
+┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
+│  Training Job   │────►│  MLflow Server  │◄────│ Spark Processor │
+│ (logs metrics)  │     │  (port 5000)    │     │ (checks every   │
+└─────────────────┘     └─────────────────┘     │  15 minutes)    │
+                               │                └─────────────────┘
+                               ▼
+                     ┌─────────────────────┐
+                     │ If new F1 > current │
+                     │ → Download & Update │
+                     └─────────────────────┘
+```
 
 ---
 

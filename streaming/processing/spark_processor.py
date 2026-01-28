@@ -22,6 +22,16 @@ from safetensors.torch import load_file
 import torch.nn as nn
 from transformers import AutoModel
 
+# --- MLFLOW AUTO-UPDATER ---
+try:
+    import sys
+    sys.path.insert(0, '/app/processing')
+    from mlflow.model_updater import init_model_updater, get_model_updater
+    MLFLOW_ENABLED = True
+except ImportError:
+    MLFLOW_ENABLED = False
+    print("⚠️ MLflow module not found, auto-update disabled")
+
 
 # --- CẤU HÌNH ---
 KAFKA_BOOTSTRAP_SERVERS = "kafka:29092"
@@ -805,6 +815,30 @@ def main():
         .getOrCreate()
     )
     spark.sparkContext.setLogLevel("ERROR")  # Chỉ hiện lỗi thực sự
+
+    # --- MLFLOW AUTO-UPDATER INITIALIZATION ---
+    if MLFLOW_ENABLED:
+        try:
+            # Check every 15 minutes for better models in MLflow registry
+            # Current baseline F1 scores (will be updated when better models are found)
+            updater = init_model_updater(
+                tracking_uri="http://mlflow:5000",
+                check_interval_minutes=15,  # Check every 15 minutes
+                model_paths={
+                    "text": "/models/text/uitnlp_CafeBERT",
+                    "video": "/models/video/MCG-NJU_videomae-base-finetuned-kinetics",
+                    "fusion": "/models/fusion/fusion_videomae",
+                },
+                current_metrics={
+                    "text": 0.75,   # Baseline F1 for text model
+                    "video": 0.70,  # Baseline F1 for video model
+                    "fusion": 0.80, # Baseline F1 for fusion model
+                },
+            )
+            updater.start()
+            log_to_db("✅ MLflow auto-updater started (interval: 15 min, metric: F1-score)", "INFO")
+        except Exception as e:
+            log_to_db(f"⚠️ MLflow auto-updater failed to start: {e}", "WARNING")
 
     json_schema = StructType(
         [
