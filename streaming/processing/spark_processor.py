@@ -25,12 +25,15 @@ from transformers import AutoModel
 # --- MLFLOW AUTO-UPDATER ---
 try:
     import sys
-    sys.path.insert(0, '/app/processing')
-    from mlflow.model_updater import init_model_updater, get_model_updater
+    import sys
+    sys.path.insert(0, '/app/mlflow')  # Mounted volume
+    from model_updater import init_model_updater, get_model_updater
     MLFLOW_ENABLED = True
-except ImportError:
+except ImportError as e:
     MLFLOW_ENABLED = False
-    print("⚠️ MLflow module not found, auto-update disabled")
+    print(f"⚠️ MLflow module not found, auto-update disabled. Error: {e}")
+    import traceback
+    traceback.print_exc()
 
 
 # --- CẤU HÌNH ---
@@ -209,13 +212,14 @@ HF_MODEL_FUSION = os.getenv("HF_MODEL_FUSION", None)
 HF_TOKEN = os.getenv("HF_TOKEN", None)  # For private repos
 
 # --- PATH MODELS (Local fallback if HF env vars not set) ---
-PATH_TEXT_MODEL = HF_MODEL_TEXT or "/models/text/output/uitnlp_CafeBERT/train/best_checkpoint_FocalLoss"
+# --- PATH MODELS (Local fallback if HF env vars not set) ---
+PATH_TEXT_MODEL = HF_MODEL_TEXT or "/models/text/output/uitnlp_CafeBERT/train/best_checkpoint"
 PATH_VIDEO_MODEL = HF_MODEL_VIDEO or "/models/video/output/MCG-NJU_videomae-base-finetuned-kinetics/train/best_checkpoint"
 PATH_AUDIO_MODEL = "/models/audio/audio_model/checkpoint-2300"
 # Fusion Model Path
 PATH_FUSION_MODEL = HF_MODEL_FUSION or "/models/fusion/output/fusion_videomae/best_checkpoint"
 # Backbone paths cho fusion model (used when loading fusion from local)
-PATH_FUSION_TEXT_BACKBONE = "/models/text/output/xlm-roberta-base/train/best_checkpoint"  # Theo fusion_configs
+PATH_FUSION_TEXT_BACKBONE = "/models/text/output/uitnlp_CafeBERT/train/best_checkpoint"
 PATH_FUSION_VIDEO_BACKBONE = "/models/video/output/MCG-NJU_videomae-base-finetuned-kinetics/train/best_checkpoint"
 
 TEXT_LABEL_MAP = {0: "safe", 1: "harmful"}
@@ -819,15 +823,15 @@ def main():
     # --- MLFLOW AUTO-UPDATER INITIALIZATION ---
     if MLFLOW_ENABLED:
         try:
-            # Check every 15 minutes for better models in MLflow registry
+            # Check every 2 minutes for better models in MLflow registry (TESTING MODE)
             # Current baseline F1 scores (will be updated when better models are found)
             updater = init_model_updater(
                 tracking_uri="http://mlflow:5000",
-                check_interval_minutes=15,  # Check every 15 minutes
+                check_interval_minutes=2,  # Check every 2 minutes for testing
                 model_paths={
-                    "text": "/models/text/uitnlp_CafeBERT",
-                    "video": "/models/video/MCG-NJU_videomae-base-finetuned-kinetics",
-                    "fusion": "/models/fusion/fusion_videomae",
+                    "text": PATH_TEXT_MODEL,
+                    "video": PATH_VIDEO_MODEL,
+                    "fusion": PATH_FUSION_MODEL,
                 },
                 current_metrics={
                     "text": 0.75,   # Baseline F1 for text model
@@ -836,7 +840,7 @@ def main():
                 },
             )
             updater.start()
-            log_to_db("✅ MLflow auto-updater started (interval: 15 min, metric: F1-score)", "INFO")
+            log_to_db("✅ MLflow auto-updater started (interval: 2 min, metric: F1-score)", "INFO")
         except Exception as e:
             log_to_db(f"⚠️ MLflow auto-updater failed to start: {e}", "WARNING")
 

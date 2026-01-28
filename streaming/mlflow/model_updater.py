@@ -15,16 +15,20 @@ try:
     from .client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
 except ImportError:
     try:
-        # If running as script, try adding parent to path
-        current_dir = os.path.dirname(os.path.abspath(__file__))
-        parent_dir = os.path.dirname(current_dir)
-        if parent_dir not in sys.path:
-            sys.path.insert(0, parent_dir)
-        from mlflow.client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
+        # Try direct import (when folder is in sys.path)
+        from client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
     except ImportError:
-        # Fallback: absolute import from container path
-        sys.path.insert(0, '/app/processing')
-        from mlflow.client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
+        try:
+            # If running as script, try adding parent to path
+            current_dir = os.path.dirname(os.path.abspath(__file__))
+            parent_dir = os.path.dirname(current_dir)
+            if parent_dir not in sys.path:
+                sys.path.insert(0, parent_dir)
+            from mlflow.client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
+        except ImportError:
+            # Fallback: absolute import from container path
+            sys.path.insert(0, '/app/processing')
+            from mlflow.client import MLflowModelRegistry, DEFAULT_F1_THRESHOLDS
 
 
 class ModelAutoUpdater:

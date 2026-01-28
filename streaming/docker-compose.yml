@@ -159,6 +159,7 @@ services:
     restart: on-failure
     volumes:
       - ./processing:/app/processing
+      - ./mlflow:/app/mlflow
       - ../train_eval_module:/models
       - ./state/ivy2:/tmp/.ivy2
       - ./state/spark_checkpoints:/opt/spark/checkpoints
