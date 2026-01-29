@@ -48,15 +48,18 @@ This project implements a **Lambda Architecture** based Big Data platform for re
 6. [Data Flow](#-data-flow)
 7. [Features](#-features)
 8. [AI Models](#-ai-models)
-9. [Installation Guide](#-installation-guide)
-10. [Usage](#-usage)
-11. [Testing](#-testing)
-12. [Documentation](#-documentation)
-13. [Troubleshooting](#-troubleshooting)
-14. [Tech Stack](#️-tech-stack)
-15. [Authors](#-authors)
+9. [Data Crawling](#-data-crawling)
+10. [Model Training](#-model-training)
+11. [Installation Guide](#-installation-guide)
+12. [Usage](#-usage)
+13. [Testing](#-testing)
+14. [Documentation](#-documentation)
+15. [Troubleshooting](#-troubleshooting)
+16. [Tech Stack](#️-tech-stack)
+17. [Authors](#-authors)
 
 ---
+
 
 ## 🚀 Quick Start & Installation Guide
 
@@ -566,7 +569,121 @@ model = AutoModelForSequenceClassification.from_pretrained("KhoiBui/tiktok-text-
 
 ---
 
+## 🕷️ Data Crawling
 
+### Using Crawl Scripts (Local)
+
+The `crawl_scripts/` folder contains scripts for collecting TikTok data:
+
+```bash
+cd crawl_scripts
+
+# 1. Prepare cookies.txt (required for authentication)
+# Export cookies from Chrome using "Get cookies.txt LOCALLY" extension
+# Save as cookies.txt in crawl_scripts/
+
+# 2. Find TikTok video links by hashtags
+python find_tiktok_links.py --hashtag "funny" --max_videos 100
+
+# 3. Download videos from collected links
+python ScrapingVideoTiktok.py
+```
+
+### Using Airflow DAGs (Streaming Pipeline)
+
+```bash
+# 1. Start the streaming infrastructure
+cd streaming
+./start_all.sh
+
+# 2. Access Airflow at http://localhost:8080 (admin/admin)
+
+# 3. Trigger DAG "1_TIKTOK_ETL_COLLECTOR"
+#    - Crawls TikTok videos by hashtags
+#    - Saves links to CSV file
+
+# 4. Trigger DAG "2_TIKTOK_STREAMING_PIPELINE"
+#    - Downloads videos to MinIO
+#    - Sends to Kafka for processing
+```
+
+### Data Output Structure
+
+```
+data/
+├── crawl/
+│   └── tiktok_links_viet.csv    # Crawled video URLs
+├── videos/
+│   └── {video_id}.mp4           # Downloaded videos
+└── audios/
+    └── {video_id}.mp3           # Extracted audio (optional)
+```
+
+---
+
+## 🏋️ Model Training
+
+> For detailed training instructions, see [train_eval_module/README.md](train_eval_module/README.md)
+
+### Prerequisites
+
+```bash
+cd train_eval_module
+
+# Create virtual environment
+python3 -m venv .venv
+source .venv/bin/activate
+
+# Install dependencies
+pip install -r requirements.txt
+```
+
+### Train Text Model
+
+```bash
+# Train CafeBERT (Vietnamese - recommended)
+python -m text.train --model_idx 0 --metric_type eval_f1
+
+# Train XLM-RoBERTa (Multilingual)
+python -m text.train --model_idx 1 --metric_type eval_f1
+```
+
+| Model | Index | Best For |
+|-------|-------|----------|
+| uitnlp/CafeBERT | 0 | Vietnamese text |
+| xlm-roberta-base | 1 | Mixed languages |
+| distilbert-base-multilingual-cased | 2 | Lighter/faster |
+
+### Train Video Model
+
+```bash
+# Train VideoMAE (recommended)
+python -m video.train --model_idx 0
+
+# Train TimeSformer
+python -m video.train --model_idx 1
+```
+
+### Train Fusion Model
+
+> ⚠️ Requires pre-trained text and video models
+
+```bash
+# Train Late Fusion (text + video)
+python -m fusion.train
+```
+
+### Push to HuggingFace Hub
+
+```bash
+huggingface-cli login
+
+python scripts/push_hf_model.py \
+    --model_path text/output/uitnlp_CafeBERT/train/best_checkpoint \
+    --repo_name your-username/tiktok-text-safety-classifier
+```
+
+---
 
 ## 📖 Documentation
 
