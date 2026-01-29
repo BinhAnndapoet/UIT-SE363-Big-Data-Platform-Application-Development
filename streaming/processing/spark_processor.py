@@ -49,7 +49,10 @@ SPARK_CHECKPOINT_DIR = os.getenv(
 )
 
 # Tuning (cho phép test thủ công qua env, không cần sửa code)
-USE_FUSION_MODEL = os.getenv("USE_FUSION_MODEL", "true").lower() == "true"  # Mặc định dùng fusion
+# NOTE: USE_FUSION_MODEL giờ là preference, không phải force mode
+# Nếu FUSION model không load được, sẽ tự động fallback về LATE_SCORE
+USE_FUSION_MODEL = os.getenv("USE_FUSION_MODEL", "true").lower() == "true"  # Mặc định thử fusion trước
+FUSION_MODEL_AVAILABLE = False  # Sẽ được set True nếu load thành công
 TEXT_WEIGHT = float(os.getenv("TEXT_WEIGHT", "0.3"))
 TEXT_WEIGHT = max(0.0, min(1.0, TEXT_WEIGHT))
 VIDEO_WEIGHT = 1.0 - TEXT_WEIGHT
@@ -458,9 +461,17 @@ def get_audio_model():
 
 
 def get_fusion_model():
-    """Load Fusion Model (text + video fusion) - Lazy loading."""
-    global fusion_model, fusion_text_tokenizer, fusion_video_processor
-    if fusion_model is None:
+    """Load Fusion Model (text + video fusion) - Lazy loading.
+    
+    Returns:
+        tuple: (model, tokenizer, processor) if successful, (None, None, None) if failed
+    """
+    global fusion_model, fusion_text_tokenizer, fusion_video_processor, FUSION_MODEL_AVAILABLE
+    
+    if fusion_model is not None:
+        return fusion_model, fusion_text_tokenizer, fusion_video_processor
+    
+    try:
         print(f"🔥 Loading Fusion Model from: {PATH_FUSION_MODEL}")
         
         # 1. Load processors (tokenizer và video processor)
@@ -499,9 +510,18 @@ def get_fusion_model():
         
         fusion_model.to(device)
         fusion_model.eval()
+        FUSION_MODEL_AVAILABLE = True
         print("✅ Fusion Model loaded successfully!")
-    
-    return fusion_model, fusion_text_tokenizer, fusion_video_processor
+        return fusion_model, fusion_text_tokenizer, fusion_video_processor
+        
+    except Exception as e:
+        print(f"⚠️ Failed to load Fusion Model: {e}")
+        print("⚠️ Will fallback to LATE_SCORE mode using separate text + video models")
+        FUSION_MODEL_AVAILABLE = False
+        fusion_model = None
+        fusion_text_tokenizer = None
+        fusion_video_processor = None
+        return None, None, None
 
 
 # --- UDF VIDEO ---
@@ -870,8 +890,20 @@ def main():
         .select("data.*")
     )
 
-    # Chọn mode: FUSION hoặc LATE_SCORE
+    # Chọn mode: Thử FUSION trước, nếu không được thì fallback về LATE_SCORE
+    actual_use_fusion = USE_FUSION_MODEL  # Default từ env
+    
     if USE_FUSION_MODEL:
+        # Thử load FUSION model trước
+        log_to_db("🔥 Attempting to load FUSION MODEL...", "INFO")
+        model, tokenizer, processor = get_fusion_model()
+        if model is None:
+            log_to_db("⚠️ FUSION model not available, falling back to LATE_SCORE mode", "WARNING")
+            actual_use_fusion = False
+        else:
+            log_to_db("✅ FUSION model loaded successfully!", "INFO")
+    
+    if actual_use_fusion:
         # --- MODE: FUSION MODEL (text + video cùng lúc) ---
         log_to_db("🔥 Using FUSION MODEL mode", "INFO")
         df_fusion = df_parsed.withColumn(

@@ -237,51 +237,55 @@ def _render_data_pipeline():
             """
         ```
         ┌─────────────────────────────────────────────────────────────┐
-        │                  AI PIPELINE (2 MODES)                       │
+        │                  AI PIPELINE (AUTO-FALLBACK)                 │
         ├─────────────────────────────────────────────────────────────┤
-        │  MODE 1: FUSION (default) - End-to-end trained model        │
+        │  Step 1: Thử load FUSION MODEL trước                         │
         │    • Text: uitnlp/CafeBERT backbone                         │
         │    • Video: MCG-NJU/VideoMAE-base backbone                  │
         │    • Fusion: Cross-Attention + Gating (50-50 weights)       │
         │    • Output: Single fusion_score từ softmax [0-1]           │
         ├─────────────────────────────────────────────────────────────┤
-        │  MODE 2: LATE_SCORE (fallback) - Separate models            │
-        │    • avg_score = text_score * TEXT_WEIGHT + video * VIDEO   │
-        │    • Default: TEXT_WEIGHT=0.3, VIDEO_WEIGHT=0.7             │
+        │  Fallback: Nếu FUSION không load được → LATE_SCORE          │
+        │    • Chạy 2 models riêng (text + video)                     │
+        │    • avg_score = text_score * 0.3 + video_score * 0.7       │
         │    • Configurable via env: TEXT_WEIGHT (0 to 1)             │
         └─────────────────────────────────────────────────────────────┘
         ```
         
-        **FUSION mode (default) - khớp với train_eval_module:**
+        **Logic trong spark_processor.py:**
         ```python
-        # fusion_configs.py (train_eval_module)
-        FUSION_PARAMS = {
-            "video_weight": 0.5,  # Equal weights in cross-attention
-            "text_weight": 0.5,   # Equal weights in cross-attention
-            "fusion_type": "attention",  # Cross-Attention + Gating
-        }
+        # Luôn thử FUSION trước
+        model, tokenizer, processor = get_fusion_model()
+        if model is None:
+            # FUSION không load được → Auto-fallback về LATE_SCORE
+            actual_use_fusion = False
+            log_to_db("⚠️ FUSION model not available, falling back to LATE_SCORE")
+        else:
+            actual_use_fusion = True
+            log_to_db("✅ FUSION model loaded successfully!")
+        ```
         
-        # spark_processor.py (streaming) - ĐỒNG BỘ
+        **FUSION mode (50-50 weights đã train):**
+        ```python
         fusion_config = {
-            "video_weight": 0.5,  # ✅ Khớp với train_eval
-            "text_weight": 0.5,   # ✅ Khớp với train_eval
+            "video_weight": 0.5,  # Đồng bộ với train_eval_module
+            "text_weight": 0.5,   # Đồng bộ với train_eval_module  
             "fusion_type": "attention",
         }
         ```
         
-        **LATE_SCORE mode (fallback - khi USE_FUSION_MODEL=false):**
+        **LATE_SCORE mode (fallback với 30-70 default):**
         ```python
-        # Chạy 2 model riêng biệt, tính weighted average
         TEXT_WEIGHT = float(os.getenv("TEXT_WEIGHT", "0.3"))  # Default 30%
         VIDEO_WEIGHT = 1.0 - TEXT_WEIGHT  # Default 70%
         avg_score = (text_score * TEXT_WEIGHT) + (video_score * VIDEO_WEIGHT)
         ```
         
-        > **Lưu ý:** FUSION mode dùng weights 50-50 bên trong model (đã train). 
-        > LATE_SCORE mode dùng 30-70 default (configurable).
+        > **Lưu ý:** FUSION là mode chính. LATE_SCORE chỉ được dùng khi không load được FUSION model.
         > Audio đã được trích xuất nhưng chưa tích hợp vào AI pipeline.
         """
         )
+
 
 
     # Stage 5

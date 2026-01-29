@@ -570,14 +570,23 @@ model = AutoModelForSequenceClassification.from_pretrained("KhoiBui/tiktok-text-
 
 ### Inference Modes (Streaming Pipeline)
 
-Spark Processor hỗ trợ 2 modes trong `spark_processor.py`:
+Spark Processor sử dụng chiến lược **auto-fallback** trong `spark_processor.py`:
 
-| Mode | ENV Variable | Models Used | Score Calculation |
+```
+┌─────────────────────────────────────────────────────────────┐
+│  Step 1: Thử load FUSION MODEL                              │
+│    ✓ Thành công → Dùng FUSION mode (50-50 trained weights)  │
+│    ✗ Thất bại  → Auto-fallback về LATE_SCORE                │
+└─────────────────────────────────────────────────────────────┘
+```
+
+| Mode | Khi nào dùng | Models Used | Score Calculation |
 |------|--------------|-------------|-------------------|
-| **FUSION** (default) | `USE_FUSION_MODEL=true` | 1 Fusion model | End-to-end (50-50 trained) |
-| **LATE_SCORE** (fallback) | `USE_FUSION_MODEL=false` | 2 separate models | `text*0.3 + video*0.7` |
+| **FUSION** | Default (nếu load được) | 1 Fusion model | End-to-end (50-50 trained) |
+| **LATE_SCORE** | Fallback (khi FUSION fail) | 2 separate models | `text*0.3 + video*0.7` |
 
-> **⚠️ Lưu ý**: FUSION mode là mode chính, sử dụng model đã train end-to-end. LATE_SCORE chỉ là fallback khi không load được Fusion model, sử dụng 2 models riêng lẻ với weighted average.
+> **⚠️ Lưu ý**: FUSION là mode chính với model đã train end-to-end. LATE_SCORE chỉ được dùng tự động khi không load được Fusion model.
+
 
 
 ## 🕷️ Data Crawling
