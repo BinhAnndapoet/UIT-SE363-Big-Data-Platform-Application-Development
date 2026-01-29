@@ -166,7 +166,12 @@ docker compose down
    - Stores results in PostgreSQL
    - **Auto-loops** for continuous processing
 
-4. **Monitor Dashboard** at http://localhost:8501
+4. **Trigger DAG 3**: `3_MODEL_RETRAINING` (Optional/Scheduled)
+   - Checks for new data and performance drift
+   - Retrains models on Spark Cluster
+   - Registers new best models to MLflow (auto-updates pipeline)
+
+5. **Monitor Dashboard** at http://localhost:8501
 
 ---
 
@@ -198,23 +203,8 @@ pytest tests/ -v
 
 ## 📁 Project Structure
 
-```
+```bash
 UIT-SE363-Big-Data-Platform-Application-Development/
-│
-├── streaming/                          # 🔄 Streaming Pipeline
-│   ├── airflow/                        # Airflow configuration
-│   │   └── dags/                       # DAG definitions
-│   │       ├── 1_TIKTOK_ETL_COLLECTOR.py
-│   │       └── 2_TIKTOK_STREAMING_PIPELINE.py
-│   ├── dashboard/                      # Streamlit Dashboard
-│   │   ├── app.py                      # Main entry point
-│   │   └── page_modules/               # Page components
-│   │       ├── dashboard_monitor.py
-│   │       ├── system_operations.py
-│   │       ├── content_audit.py
-│   │       ├── database_manager.py
-│   │       └── project_info.py
-│   ├── ingestion/                      # Data Ingestion Layer
 │   │   ├── crawler.py                  # TikTok crawler (Selenium)
 │   │   ├── downloader.py               # Video downloader
 │   │   ├── main_worker.py              # Main ingestion worker
@@ -564,9 +554,10 @@ model = AutoModelForSequenceClassification.from_pretrained("KhoiBui/tiktok-text-
 **Repository**: [KhoiBui/tiktok-multimodal-fusion-classifier](https://huggingface.co/KhoiBui/tiktok-multimodal-fusion-classifier)
 
 - **Architecture**: Late Fusion with Cross-Attention + Gating
-- **Text Backbone**: XLM-RoBERTa-base (hoặc CafeBERT)
-- **Video Backbone**: VideoMAE-base
+- **Text Backbone**: KhoiBui/tiktok-text-safety-classifier (1024-dim XLM-RoBERTa compatible)
+- **Video Backbone**: KhoiBui/tiktok-video-safety-classifier (768-dim VideoMAE)
 - **Internal Weights**: 50% text + 50% video (trong Cross-Attention)
+- **Status**: **Retrained & Fixed** (Jan 29, 2026) to resolve dimension mismatch (1024 vs 768).
 
 ### Inference Modes (Streaming Pipeline)
 

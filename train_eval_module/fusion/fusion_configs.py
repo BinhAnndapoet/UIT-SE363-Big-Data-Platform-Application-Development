@@ -13,19 +13,16 @@ else:
 FUSION_PARAMS = {
     # --- MODEL PATHS (Chuẩn theo cấu trúc folder của bạn) ---
     # Text Model: XLM-RoBERTa (BEST model from text training)
-    "text_model_path": os.path.join(
-        PROJECT_ROOT,
-        "text/output/xlm-roberta-base/train/best_checkpoint",
-    ),
+    # Using User's Fine-Tuned Model from HF Hub (1024-dim CafeBERT)
+    "text_model_path": "KhoiBui/tiktok-text-safety-classifier",
+    
     # Video Model: VideoMAE (Thay vì Timesformer)
-    # Tên folder phải khớp với tên folder trong video/output của bạn
-    "video_model_path": os.path.join(
-        PROJECT_ROOT,
-        "video/output/MCG-NJU_videomae-base-finetuned-kinetics/train/best_checkpoint",
-    ),
+    # Using User's Fine-Tuned Model from HF Hub (768-dim)
+    "video_model_path": "KhoiBui/tiktok-video-safety-classifier",
+    
     # --- HYPERPARAMETERS ---
     "num_frames": 16,  # VideoMAE Base dùng 16 frames
-    "max_text_len": 512,  # Match text model config
+    "max_text_len": 512,  # Match text config
     "batch_size": 8,  # Reduced for fusion (more memory)
     "grad_accum": 4,
     "lr": 2e-5,
@@ -37,8 +34,8 @@ FUSION_PARAMS = {
     "video_weight": 0.5,  # Equal weights to avoid bias
     "text_weight": 0.5,  # Equal weights to avoid bias
     # Feature Dimension
-    "text_feat_dim": 768,  # XLM-RoBERTa Base
-    "video_feat_dim": 768,  # VideoMAE Base (Cũng là 768)
+    "text_feat_dim": 1024,  # User's Text Model is 1024-dim (CafeBERT)
+    "video_feat_dim": 768,  # VideoMAE Base is 768-dim
     "fusion_hidden": 256,
     # --- UNFREEZE BACKBONE LAYERS ---
     "unfreeze_text_layers": 2,  # Unfreeze last 2 layers of text backbone

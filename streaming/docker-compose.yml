@@ -163,10 +163,15 @@ services:
       - ../train_eval_module:/models
       - ./state/ivy2:/tmp/.ivy2
       - ./state/spark_checkpoints:/opt/spark/checkpoints
+      - ./state/huggingface_cache:/tmp/.cache/huggingface  # HuggingFace cache volume
     environment:
       - SPARK_DRIVER_EXTRA_JAVA_OPTIONS=-Divy.home=/tmp/.ivy2
       - IVY_HOME=/tmp/.ivy2
-      - TRANSFORMERS_CACHE=/tmp/.cache
+      # HuggingFace cache directories (fix permission denied error)
+      - HF_HOME=/tmp/.cache/huggingface
+      - HF_HUB_CACHE=/tmp/.cache/huggingface/hub
+      - TRANSFORMERS_CACHE=/tmp/.cache/huggingface/transformers
+      - XDG_CACHE_HOME=/tmp/.cache
       - SPARK_CHECKPOINT_DIR=${SPARK_CHECKPOINT_DIR:-/opt/spark/checkpoints/tiktok_multimodal}
       - KAFKA_STARTING_OFFSETS=${KAFKA_STARTING_OFFSETS:-latest}
       - USE_FUSION_MODEL=${USE_FUSION_MODEL:-true}
@@ -193,6 +198,7 @@ services:
       /app/processing/spark_processor.py
     networks:
       - tiktok-network
+
 
   # ----------------------------------------------------------------
   # 3. ĐIỀU PHỐI (Airflow - Đã bổ sung Scheduler và Command)

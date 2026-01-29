@@ -32,16 +32,21 @@ RUN pip install --no-cache-dir \
 
 # -----------------------------------------------------------------------------
 # LAYER 4: AI/ML libraries (medium size - stable)
+# NOTE: transformers 4.40+ required for HuggingFace Hub model tokenizer compatibility
+# transformers 4.40.0 is the last version supporting Python 3.8
 # -----------------------------------------------------------------------------
 RUN pip install --no-cache-dir \
-    transformers==4.30.2 \
+    transformers==4.40.0 \
+    tokenizers==0.19.1 \
+    huggingface_hub==0.22.0 \
     sentencepiece \
     protobuf==3.20.0 \
     scipy==1.10.1 \
-    decord \
     av \
     pillow
 
+# decord installed separately (build issues with some versions)
+RUN pip install --no-cache-dir decord || echo "decord install failed, will use av fallback"
 # -----------------------------------------------------------------------------
 # LAYER 5: Utility libraries (small - may change)
 # COPY requirements.txt first for layer caching

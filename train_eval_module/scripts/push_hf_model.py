@@ -222,7 +222,7 @@ def push_fusion_model(model_path: str, repo_id: str, private: bool = False):
     fusion_config = {
         "model_type": "late_fusion",
         "fusion_type": "attention",
-        "text_feat_dim": 768,
+        "text_feat_dim": 1024, # Updated to 1024 for KhoiBui/tiktok-text-safety-classifier (CafeBERT)
         "video_feat_dim": 768,
         "fusion_hidden": 256,
         "text_weight": 0.5,

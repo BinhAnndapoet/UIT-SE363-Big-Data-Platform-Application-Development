@@ -63,7 +63,9 @@ try:
     print(f"Connection OK. Found {len(experiments)} experiments.")
     
     # 2. Test Logging
-    experiment_name = "test_layer5_validation"
+    import time
+    timestamp = int(time.time())
+    experiment_name = f"test_layer5_validation_{timestamp}"
     try:
         exp_id = mlflow.create_experiment(experiment_name)
     except:

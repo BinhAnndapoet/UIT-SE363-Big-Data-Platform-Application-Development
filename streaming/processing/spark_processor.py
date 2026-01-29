@@ -505,16 +505,18 @@ def get_fusion_model():
             video_backbone_path = PATH_FUSION_VIDEO_BACKBONE
         
         # 2. Fusion model config (theo fusion_configs.py)
+        # IMPORTANT: Fusion model on HF Hub is now retrained with 1024-dim text backbone (CafeBERT)
         fusion_config = {
             "text_model_path": text_backbone_path,
             "video_model_path": video_backbone_path,
-            "fusion_type": "attention",  # hoặc "concat"
-            "text_feat_dim": 768,
+            "fusion_type": "attention",
+            "text_feat_dim": 1024,  # Updated to 1024 for KhoiBui/tiktok-text-safety-classifier (CafeBERT)
             "video_feat_dim": 768,
             "fusion_hidden": 256,
             "video_weight": 0.5,
             "text_weight": 0.5,
         }
+
         
         # 3. Initialize model architecture
         fusion_model = LateFusionModel(fusion_config)
