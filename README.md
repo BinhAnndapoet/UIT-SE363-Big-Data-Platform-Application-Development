@@ -563,11 +563,22 @@ model = AutoModelForSequenceClassification.from_pretrained("KhoiBui/tiktok-text-
 ### Multimodal Fusion Model
 **Repository**: [KhoiBui/tiktok-multimodal-fusion-classifier](https://huggingface.co/KhoiBui/tiktok-multimodal-fusion-classifier)
 
-- **Architecture**: Late Fusion with Cross-Attention
-- **Text Backbone**: XLM-RoBERTa-base
+- **Architecture**: Late Fusion with Cross-Attention + Gating
+- **Text Backbone**: XLM-RoBERTa-base (hoặc CafeBERT)
 - **Video Backbone**: VideoMAE-base
+- **Internal Weights**: 50% text + 50% video (trong Cross-Attention)
 
----
+### Inference Modes (Streaming Pipeline)
+
+Spark Processor hỗ trợ 2 modes trong `spark_processor.py`:
+
+| Mode | ENV Variable | Models Used | Score Calculation |
+|------|--------------|-------------|-------------------|
+| **FUSION** (default) | `USE_FUSION_MODEL=true` | 1 Fusion model | End-to-end (50-50 trained) |
+| **LATE_SCORE** (fallback) | `USE_FUSION_MODEL=false` | 2 separate models | `text*0.3 + video*0.7` |
+
+> **⚠️ Lưu ý**: FUSION mode là mode chính, sử dụng model đã train end-to-end. LATE_SCORE chỉ là fallback khi không load được Fusion model, sử dụng 2 models riêng lẻ với weighted average.
+
 
 ## 🕷️ Data Crawling
 
