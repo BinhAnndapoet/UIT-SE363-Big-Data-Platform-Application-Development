@@ -685,6 +685,46 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
+### Data Preparation (Required Before Training)
+
+> ⚠️ **IMPORTANT**: After crawling data, you MUST run these scripts to prepare train/val/test splits before training any model.
+
+**Step 1: Check System Paths & Data Status**
+
+```bash
+cd train_eval_module
+
+# Verify all paths and check if data files exist
+python scripts/check_paths.py
+```
+
+This script checks:
+- Raw video folders (harmful/not_harmful)
+- Audio processed directory
+- Text labels CSV
+- Master Index JSON files (train/val/test)
+
+**Step 2: Create Train/Val/Test Splits**
+
+```bash
+# Generate data splits (80% train, 10% val, 10% test)
+python scripts/split_data.py
+```
+
+This script creates:
+- `data_splits/master_train.json`, `master_val.json`, `master_test.json` (Video/Audio)
+- `processed_data/text/train_split.csv`, `val_split.csv`, `test_split.csv` (Text)
+- `processed_data/fusion/train.json`, `val.json`, `test.json` (Fusion)
+
+**Step 3: Verify Splits**
+
+```bash
+# Re-run check to confirm all split files are ready
+python scripts/check_paths.py
+```
+
+Expected output: `🟢 Dữ liệu Index ĐÃ SẴN SÀNG.`
+
 ### Train Text Model
 
 ```bash
