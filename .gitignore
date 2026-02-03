@@ -3,6 +3,9 @@ logger/
 logs/
 *.log
 
+# Environment files (use .env.example as template)
+.env
+!.env.example
 
 # OS / editor
 .DS_Store
