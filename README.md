@@ -70,8 +70,13 @@ This project implements a **Lambda Architecture** based Big Data platform for re
 | **OS** | Ubuntu 20.04+ / Windows 10+ (WSL2) | Ubuntu 22.04 |
 | **Docker** | Docker Engine 20.10+ & Compose v2 | Latest |
 | **Python** | 3.9+ | 3.10+ |
-| **RAM** | 16GB | 32GB |
+| **RAM** | 16GB (Fusion requires 8GB driver) | 32GB |
 | **Storage** | 50GB free | 100GB+ |
+| **GPU** | Not required (CPU fallback) | 4GB+ VRAM (faster inference) |
+
+> **⚠️ Fusion Model RAM Note**: The multimodal Fusion model requires ~8GB driver memory. System should have at least 16GB total RAM with 12GB+ available.
+
+> **🔑 HuggingFace Token (Optional)**: If using private models, set `export HF_TOKEN=your_token` before running. Public models (default) don't require authentication.
 
 ### Step 1: Clone Repository
 
@@ -94,6 +99,18 @@ source .venv/bin/activate  # Linux/Mac
 # Install dependencies (for local development)
 pip install -r requirements.txt
 ```
+
+#### Key Environment Variables (streaming/.env)
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `TEXT_WEIGHT` | `0.6` | Text score weight in LATE_SCORE mode (video = 1 - TEXT_WEIGHT) |
+| `DECISION_THRESHOLD` | `0.5` | Threshold for harmful classification |
+| `HF_MODEL_TEXT` | `KhoiBui/tiktok-text-safety-classifier` | HuggingFace text model |
+| `HF_MODEL_VIDEO` | `KhoiBui/tiktok-video-safety-classifier` | HuggingFace video model |
+| `HF_MODEL_FUSION` | `KhoiBui/tiktok-multimodal-fusion-classifier` | HuggingFace fusion model |
+| `KAFKA_STARTING_OFFSETS` | `latest` | Kafka offset reset (latest/earliest) |
+| `SPARK_CHECKPOINT_DIR` | `/opt/spark/checkpoints/...` | Spark streaming checkpoint |
 
 ### Step 3: Setup Cookies (Required for Crawling)
 
@@ -344,7 +361,7 @@ UIT-SE363-Big-Data-Platform-Application-Development/
 | Service | Port | Description |
 |---------|------|-------------|
 | **Dashboard** | `8501` | Streamlit monitoring UI |
-| **Airflow** | `8080` | DAG scheduling & orchestration |
+| **Airflow** | `8089` | DAG scheduling & orchestration |
 | **Spark Master** | `9090` | Spark cluster management |
 | **Spark Processor** | - | AI inference streaming job |
 | **Kafka** | `9092` | Message broker |
@@ -366,7 +383,7 @@ The system follows a **9-layer architecture**:
 ├────────────────────────────────────────────────────────────────────────┤
 │  Layer 7: DATA STORAGE          │  PostgreSQL (processed_results)     │
 ├────────────────────────────────────────────────────────────────────────┤
-│  Layer 6: ORCHESTRATION         │  Airflow DAGs (port 8080)           │
+│  Layer 6: ORCHESTRATION         │  Airflow DAGs (port 8089)           │
 ├────────────────────────────────────────────────────────────────────────┤
 │  Layer 5: STREAM PROCESSING     │  Spark Streaming + AI Models        │
 ├────────────────────────────────────────────────────────────────────────┤
@@ -385,9 +402,9 @@ The system follows a **9-layer architecture**:
 | Layer | Components | Key Files |
 |-------|------------|-----------|
 | **L1: Infrastructure** | Docker Network, Volumes | [docker-compose.yml](streaming/docker-compose.yml) |
-| **L2: Message Queue** | Kafka (9092), Zookeeper | [docker-compose.yml](streaming/docker-compose.yml) |
+| **L2: Message Queue** | Kafka (9092), Zookeeper (with healthcheck) | [docker-compose.yml](streaming/docker-compose.yml) |
 | **L3: Object Storage** | MinIO (9000/9001) | [minio_kafka_clients.py](streaming/ingestion/clients/minio_kafka_clients.py) |
-| **L4: Data Ingestion** | Crawler, Downloader, Producer | [crawler.py](streaming/ingestion/crawler.py), [main_worker.py](streaming/ingestion/main_worker.py) |
+| **L4: Data Ingestion** | Crawler, Downloader, Producer, Audio | [crawler.py](streaming/ingestion/crawler.py), [main_worker.py](streaming/ingestion/main_worker.py), [audio_processor.py](streaming/ingestion/audio_processor.py) |
 | **L5: Stream Processing** | Spark + AI Models | [spark_processor.py](streaming/processing/spark_processor.py) |
 | **L6: Orchestration** | Airflow DAGs | [airflow/dags/](streaming/airflow/dags/) |
 | **L7: Data Storage** | PostgreSQL | [docker-compose.yml](streaming/docker-compose.yml), [infra/postgres/](streaming/infra/postgres/) |
@@ -592,7 +609,7 @@ model = AutoModelForSequenceClassification.from_pretrained("KhoiBui/tiktok-text-
 - **Text Backbone**: KhoiBui/tiktok-text-safety-classifier (1024-dim XLM-RoBERTa compatible)
 - **Video Backbone**: KhoiBui/tiktok-video-safety-classifier (768-dim VideoMAE)
 - **Internal Weights**: 50% text + 50% video (trong Cross-Attention)
-- **Status**: **Retrained & Fixed** (Jan 29, 2026) to resolve dimension mismatch (1024 vs 768).
+- **Status**: **Retrained & Fixed** (Feb 03, 2026) to resolve dimension mismatch (1024 vs 768).
 
 ### Inference Modes (Streaming Pipeline)
 
@@ -609,7 +626,9 @@ Spark Processor sử dụng chiến lược **auto-fallback** trong `spark_proce
 | Mode | Khi nào dùng | Models Used | Score Calculation |
 |------|--------------|-------------|-------------------|
 | **FUSION** | Default (nếu load được) | 1 Fusion model | End-to-end (50-50 trained) |
-| **LATE_SCORE** | Fallback (khi FUSION fail) | 2 separate models | `text*0.3 + video*0.7` |
+| **LATE_SCORE** | Fallback (khi FUSION fail) | 2 separate models | `text*TEXT_WEIGHT + video*(1-TEXT_WEIGHT)` |
+
+> **Note**: `TEXT_WEIGHT` is configured via `.env` file (default: 0.6). Example: text=0.85, video=0.08 → avg = 0.85×0.6 + 0.08×0.4 = 0.542 > 0.5 → harmful
 
 > **⚠️ Note**: FUSION is the primary mode with end-to-end trained model. LATE_SCORE is only used automatically when Fusion model fails to load.
 
@@ -680,37 +699,43 @@ Before calling AI models, the system performs a quick check based on **60+ banne
 
 ### Text Models (Test Set = 182 samples)
 
-| Model | Accuracy | F1-Harmful | Precision | Recall |
-|-------|----------|------------|-----------|--------|
-| **CafeBERT** | **79.7%** | **57.5%** | 59.5% | 55.6% |
-| XLM-RoBERTa | 75.8% | 38.9% | 50.0% | 31.8% |
-| DistilBERT | 70.3% | 46.0% | 48.6% | 43.7% |
+| Model | Accuracy | F1-Weighted | F1-Harmful | Precision | Recall |
+|-------|----------|-------------|------------|-----------|--------|
+| **CafeBERT** | **79.67%** | **79.43%** | 57.47% | 59.52% | 55.56% |
+| XLM-RoBERTa | 75.82% | 73.55% | 38.89% | 51.85% | 31.11% |
+| DistilBERT | 70.33% | 71.25% | 46.00% | 41.82% | 51.11% |
+
+> 📊 *Results from [report_results/text/](report_results/text/) - Test date: Feb 03, 2026*
 
 ### Video Models (Test Set = 180 samples)
 
-| Model | Accuracy | F1-Harmful | Precision | Recall |
-|-------|----------|------------|-----------|--------|
-| **VideoMAE** | **87.2%** | **87.8%** | 88.5% | 87.1% |
-| TimeSformer | 85.6% | 86.9% | 87.2% | 86.6% |
-| ViViT | 78.3% | 81.2% | 79.4% | 83.1% |
+| Model | Accuracy | F1-Weighted | F1-Harmful | Precision | Recall |
+|-------|----------|-------------|------------|-----------|--------|
+| **VideoMAE** | **87.22%** | **87.24%** | **87.83%** | 90.22% | 85.57% |
+| TimeSformer | 85.56% | 85.52% | 86.87% | 85.15% | 88.66% |
+| ViViT | 78.33% | 78.09% | 81.16% | 76.36% | 86.60% |
+
+> 📊 *Results from [report_results/video/](report_results/video/) - Test date: Dec 26, 2025*
 
 ### Fusion Model (Test Set = 182 samples)
 
 | Metrics | Value |
 |---------|-------|
-| Accuracy | 79.1% |
-| F1-Weighted | 79.4% |
-| F1-Harmful | 60.0% |
-| Precision-Harmful | 57.0% |
-| Recall-Harmful | 62.2% |
+| Accuracy | 79.12% |
+| F1-Weighted | 79.66% |
+| F1-Harmful | 61.22% |
+| Precision-Harmful | 56.60% |
+| Recall-Harmful | 66.67% |
 
 **Confusion Matrix:**
 ```
                     Predicted
                  Safe    Harmful
-Actual Safe       116       21
-Actual Harmful     17       28
+Actual Safe       114       23
+Actual Harmful     15       30
 ```
+
+> 📊 *Results from [report_results/fusion/](report_results/fusion/) - Test date: Feb 03, 2026*
 
 ---
 
@@ -894,7 +919,37 @@ python scripts/push_hf_model.py \
 | [03_DASHBOARD_PAGES.md](docs/streaming/03_DASHBOARD_PAGES.md) | Dashboard usage guide |
 | [04_SETUP_GUIDE.md](docs/streaming/04_SETUP_GUIDE.md) | Installation guide |
 | [05_TESTING_GUIDE.md](docs/streaming/05_TESTING_GUIDE.md) | Testing documentation |
+| [06_API_REFERENCE.md](docs/streaming/06_API_REFERENCE.md) | API Reference |
 | [MLFLOW_INTEGRATION_GUIDE.md](docs/mlflow/MLFLOW_INTEGRATION_GUIDE.md) | MLflow setup |
+| [train_eval_module/README.md](train_eval_module/README.md) | Training module guide |
+
+---
+
+## 🧪 Testing
+
+### Test Dependencies
+
+```bash
+# Install pytest and required plugins
+pip install pytest pytest-mock pytest-asyncio
+```
+
+### Run All Tests
+
+```bash
+cd streaming/tests
+./run_all_tests.sh
+```
+
+### Run Individual Layer Tests
+
+| Layer | Test Script | Description |
+|-------|-------------|-------------|
+| L1: Infrastructure | `./test_layer1_infrastructure.sh` | Docker, volumes, networks |
+| L2: Ingestion | `./test_layer2_ingestion.sh` | Kafka, MinIO, Zookeeper |
+| L3: Processing | `./test_layer3_processing.sh` | Spark streaming |
+| L4: Dashboard | `./test_layer4_dashboard.sh` | Streamlit, PostgreSQL |
+| L5: MLflow | `./test_layer5_mlflow.sh` | Model registry |
 
 ---
 
