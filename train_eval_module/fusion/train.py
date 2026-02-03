@@ -203,4 +203,18 @@ def train_fusion():
 
 
 if __name__ == "__main__":
+    import argparse
+    
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--no-mlflow",
+        action="store_true",
+        help="Disable MLflow logging (for offline training without MLflow server)",
+    )
+    args = parser.parse_args()
+    
+    # Set ENABLE_MLFLOW env var based on --no-mlflow flag
+    if args.no_mlflow:
+        os.environ["ENABLE_MLFLOW"] = "false"
+    
     train_fusion()

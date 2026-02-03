@@ -163,7 +163,7 @@ services:
       - ../train_eval_module:/models
       - ./state/ivy2:/tmp/.ivy2
       - ./state/spark_checkpoints:/opt/spark/checkpoints
-      - ./state/huggingface_cache:/tmp/.cache/huggingface  # HuggingFace cache volume
+      - ./state/huggingface_cache:/tmp/.cache/huggingface # HuggingFace cache volume
     environment:
       - SPARK_DRIVER_EXTRA_JAVA_OPTIONS=-Divy.home=/tmp/.ivy2
       - IVY_HOME=/tmp/.ivy2
@@ -198,7 +198,6 @@ services:
       /app/processing/spark_processor.py
     networks:
       - tiktok-network
-
 
   # ----------------------------------------------------------------
   # 3. ĐIỀU PHỐI (Airflow - Đã bổ sung Scheduler và Command)
@@ -240,8 +239,10 @@ services:
     container_name: airflow-webserver
     depends_on:
       airflow-init: { condition: service_completed_successfully }
+      airflow-db: { condition: service_healthy }
     ports: ["8080:8080"]
     command: webserver
+    restart: unless-stopped
     volumes:
       - ./airflow/dags:/opt/airflow/dags
       - ./state/airflow_logs:/opt/airflow/logs # logs là runtime state
@@ -310,7 +311,11 @@ services:
       - MLFLOW_BACKEND_STORE_URI=file:/mlflow/backend
       - MLFLOW_DEFAULT_ARTIFACT_ROOT=file:/mlflow/artifacts
     healthcheck:
-      test: ["CMD-SHELL", "curl -fsS http://localhost:5000/health >/dev/null || exit 1"]
+      test:
+        [
+          "CMD-SHELL",
+          "curl -fsS http://localhost:5000/health >/dev/null || exit 1",
+        ]
       interval: 10s
       timeout: 5s
       retries: 5

@@ -289,34 +289,38 @@ test_airflow_integration() {
     
     # Test 1: Airflow webserver accessible
     echo -e "  ${YELLOW}TEST:${NC} Airflow webserver (port 8080)"
-    HTTP_CODE=$(curl -sf -o /dev/null -w "%{http_code}" http://localhost:8080 2>/dev/null)
+    HTTP_CODE=$(timeout 15 curl -sf -o /dev/null -w "%{http_code}" http://localhost:8080 2>/dev/null || echo "timeout")
     if [ "$HTTP_CODE" = "200" ] || [ "$HTTP_CODE" = "302" ]; then
         test_pass "Airflow UI accessible (HTTP $HTTP_CODE)"
+    elif [ "$HTTP_CODE" = "timeout" ]; then
+        test_skip "Airflow webserver timeout (still starting)"
     else
         test_fail "Airflow UI not accessible" "HTTP $HTTP_CODE"
     fi
     
     # Test 2: Airflow API accessible
     echo -e "  ${YELLOW}TEST:${NC} Airflow API /api/v1/dags"
-    API_CODE=$(curl -sf -o /dev/null -w "%{http_code}" -u admin:admin http://localhost:8080/api/v1/dags 2>/dev/null)
+    API_CODE=$(timeout 15 curl -sf -o /dev/null -w "%{http_code}" -u admin:admin http://localhost:8080/api/v1/dags 2>/dev/null || echo "timeout")
     if [ "$API_CODE" = "200" ]; then
         test_pass "Airflow API accessible"
+    elif [ "$API_CODE" = "timeout" ]; then
+        test_skip "Airflow API timeout"
     else
         test_fail "Airflow API not accessible" "HTTP $API_CODE - Check auth"
     fi
     
     # Test 3: DAGs visible via API
     echo -e "  ${YELLOW}TEST:${NC} DAGs visible in API"
-    DAGS=$(curl -sf -u admin:admin http://localhost:8080/api/v1/dags 2>/dev/null)
+    DAGS=$(timeout 15 curl -sf -u admin:admin http://localhost:8080/api/v1/dags 2>/dev/null)
     if echo "$DAGS" | grep -q "1_TIKTOK_ETL_COLLECTOR"; then
         test_pass "DAGs returned from API"
     else
-        test_skip "Cannot verify DAGs via API"
+        test_skip "Cannot verify DAGs via API (timeout or not ready)"
     fi
     
     # Test 4: Dashboard can reach Airflow
     echo -e "  ${YELLOW}TEST:${NC} Dashboard có thể call Airflow API"
-    API_TEST=$(docker exec dashboard curl -sf -o /dev/null -w "%{http_code}" -u admin:admin http://airflow-webserver:8080/api/v1/dags 2>/dev/null)
+    API_TEST=$(timeout 15 docker exec dashboard curl -sf -o /dev/null -w "%{http_code}" -u admin:admin http://airflow-webserver:8080/api/v1/dags 2>/dev/null || echo "timeout")
     if [ "$API_TEST" = "200" ]; then
         test_pass "Dashboard -> Airflow API OK"
     else

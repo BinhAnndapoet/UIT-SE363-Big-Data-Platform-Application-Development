@@ -406,5 +406,15 @@ if __name__ == "__main__":
         choices=["eval_f1", "eval_loss", "loss"],
         help="Metric to use for best model selection: eval_f1 (weighted F1), eval_loss, or loss",
     )
+    parser.add_argument(
+        "--no-mlflow",
+        action="store_true",
+        help="Disable MLflow logging (for offline training without MLflow server)",
+    )
     args = parser.parse_args()
+    
+    # Override ENABLE_MLFLOW env var if --no-mlflow is passed
+    if args.no_mlflow:
+        os.environ["ENABLE_MLFLOW"] = "false"
+    
     train_text(args.model_idx, metric_type=args.metric_type)

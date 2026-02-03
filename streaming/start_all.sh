@@ -35,6 +35,15 @@ NC='\033[0m'
 
 echo -e "${GREEN}🔥 KHỞI ĐỘNG HỆ THỐNG TIKTOK SAFETY (FULL AUTO)...${NC}"
 
+# 0. KIỂM TRA PORT CONFLICTS
+echo -e "${YELLOW}🔍 Kiểm tra port conflicts...${NC}"
+if [ -f "$PROJECT_ROOT/scripts/check_ports.sh" ]; then
+    if ! "$PROJECT_ROOT/scripts/check_ports.sh"; then
+        echo -e "${RED}❌ Port conflicts detected! Please resolve before continuing.${NC}"
+        exit 1
+    fi
+fi
+
 # 1. DỌN DẸP DỮ LIỆU CŨ
 echo -e "${YELLOW}🧹 Đang dọn dẹp hệ thống cũ...${NC}"
 docker compose down --remove-orphans
@@ -86,8 +95,31 @@ cd "$PROJECT_ROOT"
 docker compose up -d --build
 
 # 4. CHỜ DỊCH VỤ SẴN SÀNG & CẤU HÌNH TỰ ĐỘNG
-echo -e "${YELLOW}⏳ Đang đợi các dịch vụ khởi động (10s)...${NC}"
+echo -e "${YELLOW}⏳ Đang đợi các dịch vụ khởi động...${NC}"
+echo "   - Đợi Infrastructure (10s)..."
 sleep 10
+
+# Đợi Airflow Webserver sẵn sàng (quan trọng cho DAG parsing)
+echo "   - Đợi Airflow Webserver parse DAGs (60s)..."
+TIMEOUT=60
+ELAPSED=0
+while [ $ELAPSED -lt $TIMEOUT ]; do
+    if timeout 3 curl -sf http://localhost:8080/health >/dev/null 2>&1; then
+        echo "   ✅ Airflow Webserver ready!"
+        break
+    fi
+    sleep 5
+    ELAPSED=$((ELAPSED + 5))
+    echo "      ... waiting ($ELAPSED/$TIMEOUT)s"
+done
+
+if [ $ELAPSED -ge $TIMEOUT ]; then
+    echo "   ⚠️  Airflow Webserver timeout - có thể cần thêm thời gian"
+fi
+
+# Đợi thêm 15s để Airflow Scheduler parse DAGs
+echo "   - Đợi Airflow Scheduler parse DAGs (15s)..."
+sleep 15
 
 # --- Cấu hình Airflow ---
 echo "🛠️  Cấu hình Airflow Connection..."

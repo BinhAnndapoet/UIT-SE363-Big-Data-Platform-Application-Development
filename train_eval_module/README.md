@@ -114,6 +114,29 @@ Uses pre-trained:
 
 Output: `fusion/output/fusion_videomae/`
 
+### 4. Offline Training (No MLflow)
+
+> 💡 Use `--no-mlflow` flag to train without MLflow server connection.
+
+```bash
+cd train_eval_module
+
+# Text model without MLflow
+python -m text.train --model_idx 0 --no-mlflow
+
+# Video model without MLflow
+python -m video.train --model_idx 0 --no-mlflow
+
+# Fusion model without MLflow
+python -m fusion.train --no-mlflow
+```
+
+Alternatively, set the environment variable:
+```bash
+export ENABLE_MLFLOW=false
+python -m text.train --model_idx 0
+```
+
 ---
 
 ## 🧪 Testing Models

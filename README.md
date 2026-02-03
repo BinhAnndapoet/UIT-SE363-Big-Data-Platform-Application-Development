@@ -902,28 +902,69 @@ python scripts/push_hf_model.py \
 
 ### Common Issues
 
-**1. Docker containers not starting:**
+**1. Port conflicts (8080, 8501, 5000, etc.):**
+```bash
+# Check which ports are in use
+cd streaming
+./scripts/check_ports.sh
+
+# Kill specific port (example port 8080)
+lsof -ti:8080 | xargs kill -9
+
+# Or stop all Docker containers
+docker compose down
+```
+
+**2. Airflow DAGs not showing up:**
+```bash
+# Wait 60s after starting for DAG parsing
+# Or check Airflow scheduler logs
+docker logs airflow-scheduler -f
+
+# Manually trigger DAG list refresh
+docker exec airflow-webserver airflow dags list
+```
+
+**3. Docker containers not starting:**
 ```bash
 docker compose logs <service-name>
 docker compose restart <service-name>
+
+# Check container status
+docker compose ps
 ```
 
-**2. Spark processor failing:**
+**4. Airflow webserver network issue:**
+```bash
+# If webserver can't connect to airflow-db
+docker compose stop airflow-webserver
+docker compose rm -f airflow-webserver
+docker compose up -d airflow-webserver
+```
+
+**5. Spark processor failing:**
 ```bash
 docker logs spark-processor -f
 ```
 
-**3. Database connection issues:**
+**6. Database connection issues:**
 ```bash
 docker exec postgres pg_isready -U user -d tiktok_safety_db
 ```
 
-**4. Reset everything:**
+**7. Reset everything:**
 ```bash
 cd streaming
 docker compose down -v
 rm -rf state/
 ./start_all.sh
+```
+
+**8. Startup timeout - Services not ready:**
+```bash
+# The start_all.sh script waits 85s for services
+# If you see timeout warnings, wait additional 30-60s
+# then check: http://localhost:8080 (Airflow)
 ```
 
 ---
