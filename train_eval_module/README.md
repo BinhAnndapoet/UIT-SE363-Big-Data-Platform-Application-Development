@@ -32,9 +32,9 @@ Place training data in `processed_data/`:
 ```
 processed_data/
 ├── text/
-│   ├── train.csv
-│   ├── val.csv
-│   └── test.csv
+│   ├── train_split.csv
+│   ├── eval_split.csv
+│   └── test_split.csv
 └── fusion/
     └── fusion_data.parquet
 ```
@@ -74,7 +74,7 @@ Available models:
 | 1 | xlm-roberta-base | Multilingual (best for mixed languages) |
 | 2 | distilbert-base-multilingual-cased | Lighter, faster |
 
-Output: `text/output/{model_name}/train/best_checkpoint/`
+Output: `text/output/{model_name}/train_{metric_type}/best_checkpoint/`
 
 ### 2. Video Model
 
@@ -143,7 +143,7 @@ huggingface-cli login
 # Push model
 python scripts/push_hf_model.py \
     --model_path text/output/uitnlp_CafeBERT/train/best_checkpoint \
-    --repo_name your-username/tiktok-text-safety-classifier
+    --repo-id your-username/tiktok-text-safety-classifier
 ```
 
 ---

@@ -213,8 +213,7 @@ UIT-SE363-Big-Data-Platform-Application-Development/
 │   │       └── 3_MODEL_RETRAINING.py
 │   ├── ingestion/                      # 📥 Data Ingestion Layer
 │   │   ├── clients/                    # External clients
-│   │   │   ├── kafka_client.py
-│   │   │   └── minio_client.py
+│   │   │   └── minio_kafka_clients.py
 │   │   ├── crawler.py                  # TikTok crawler (Selenium)
 │   │   ├── downloader.py               # Video downloader
 │   │   ├── main_worker.py              # Main ingestion worker
@@ -387,11 +386,11 @@ The system follows a **9-layer architecture**:
 |-------|------------|-----------|
 | **L1: Infrastructure** | Docker Network, Volumes | [docker-compose.yml](streaming/docker-compose.yml) |
 | **L2: Message Queue** | Kafka (9092), Zookeeper | [docker-compose.yml](streaming/docker-compose.yml) |
-| **L3: Object Storage** | MinIO (9000/9001) | [minio_client.py](streaming/ingestion/clients/minio_client.py) |
+| **L3: Object Storage** | MinIO (9000/9001) | [minio_kafka_clients.py](streaming/ingestion/clients/minio_kafka_clients.py) |
 | **L4: Data Ingestion** | Crawler, Downloader, Producer | [crawler.py](streaming/ingestion/crawler.py), [main_worker.py](streaming/ingestion/main_worker.py) |
 | **L5: Stream Processing** | Spark + AI Models | [spark_processor.py](streaming/processing/spark_processor.py) |
 | **L6: Orchestration** | Airflow DAGs | [airflow/dags/](streaming/airflow/dags/) |
-| **L7: Data Storage** | PostgreSQL | [db_migrator.py](streaming/db_migrator.py) |
+| **L7: Data Storage** | PostgreSQL | [docker-compose.yml](streaming/docker-compose.yml), [infra/postgres/](streaming/infra/postgres/) |
 | **L8: Presentation** | Streamlit Dashboard | [dashboard/app.py](streaming/dashboard/app.py) |
 | **L9: Model Registry** | MLflow Server | [mlflow/client.py](streaming/mlflow/client.py), [model_updater.py](streaming/mlflow/model_updater.py) |
 
@@ -402,7 +401,7 @@ The system follows a **9-layer architecture**:
 **Features:**
 - 📊 **Experiment Tracking**: Log metrics, params, artifacts for each training run
 - 📦 **Model Registry**: Version control for text, video, and fusion models
-- 🔄 **Auto-Update**: Every **15 minutes**, Spark checks for better models in MLflow
+- 🔄 **Auto-Update**: Every **2 minutes (testing)** or **30 minutes (default)**, Spark checks for better models in MLflow
 - 📈 **F1-Score Based**: Only updates if new model surpasses threshold:
 
 | Model | Minimum F1 Threshold |
@@ -416,7 +415,7 @@ The system follows a **9-layer architecture**:
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
 │  Training Job   │────►│  MLflow Server  │◄────│ Spark Processor │
 │ (logs metrics)  │     │  (port 5000)    │     │ (checks every   │
-└─────────────────┘     └─────────────────┘     │  15 minutes)    │
+└─────────────────┘     └─────────────────┘     │  2 or 30 minutes)│
                                │                └─────────────────┘
                                ▼
                      ┌─────────────────────┐
@@ -777,7 +776,7 @@ data/
 ├── videos/
 │   └── {video_id}.mp4           # Downloaded videos
 └── audios/
-    └── {video_id}.mp3           # Extracted audio (optional)
+  └── {video_id}.wav           # Extracted audio (optional)
 ```
 
 ---
@@ -828,7 +827,7 @@ python scripts/split_data.py
 This script creates:
 - `data_splits/master_train.json`, `master_val.json`, `master_test.json` (Video/Audio)
 - `processed_data/text/train_split.csv`, `val_split.csv`, `test_split.csv` (Text)
-- `processed_data/fusion/train.json`, `val.json`, `test.json` (Fusion)
+- `processed_data/fusion/train_fusion.json`, `val_fusion.json`, `test_fusion.json` (Fusion)
 
 **Step 3: Verify Splits**
 
@@ -881,7 +880,7 @@ huggingface-cli login
 
 python scripts/push_hf_model.py \
     --model_path text/output/uitnlp_CafeBERT/train/best_checkpoint \
-    --repo_name your-username/tiktok-text-safety-classifier
+  --repo-id your-username/tiktok-text-safety-classifier
 ```
 
 ---
